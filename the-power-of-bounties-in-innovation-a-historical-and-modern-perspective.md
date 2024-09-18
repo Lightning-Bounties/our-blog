@@ -44,9 +44,17 @@ So much for theory, time to take action...and get paid!
 
 Respond to this article by adding an example of a historical or modern day bounty system and add to the article. To do this simply
 
-* Sign up by "Log In with GitHub" at [beta.lightningbounties.com](https://beta.lightningbounties.com)
-* Review the metrics for evaluating submissions [here](https://github.com/MIT-Bitcoin-2024/demo-gitbook/issues/27)
+* Sign up by "Log In with GitHub" at [app.lightningbounties.com](https://app.lightningbounties.com/)
+* Review the metrics for evaluating submissions [here](https://app.lightningbounties.com/issue/6f550a1a-210b-46d2-b537-89d07a16f7d8)
 * Fork the repo, make a commit and submit a PR as described [here](https://docs.lightningbounties.com/docs/solve-a-bounty/working-on-the-bounty). _Notice this works because this website (powered by_ [_Gitbook_](https://www.gitbook.com/)_) is sync'd with an underlying git repository._&#x20;
 * Wait for a team member to review your changes and merge them into the git repo
 
 After these steps are complete: you should now have sats deposited into your profile. Now you can use those sats to withdraw them into your wallet or to post a bounty of your own.
+
+#### Community Contributions
+
+_What are some examples of bounties you've seen that have been effective?_
+
+_(Fill in this section here)_
+
+_End._
