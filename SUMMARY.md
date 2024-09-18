@@ -5,6 +5,7 @@
 * [Lightning Bounties Launch & PlebLab CMDX Experience Recap](lightning-bounties-launch-and-pleblab-cmdx-experience-recap.md)
 * [Will Sutton](blog-post-1/README.md)
   * [Thoughts on Saylor](blog-post-1/thoughts-on-saylor.md)
+  * [Thoughts on L402](blog-post-1/thoughts-on-l402.md)
 * [Mike Abramo](mike-abramo/README.md)
   * [WTF if Lightning Network?](mike-abramo/wtf-if-lightning-network.md)
 * [Enrique Gamboa](enrique-gamboa/README.md)

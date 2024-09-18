@@ -9,6 +9,7 @@ description: Welcome & Table of Contents
   * [StartupDay & Launch](lightning-bounties-launch-and-pleblab-cmdx-experience-recap.md)
 * Will Sutton
   * [Saylor](blog-post-1/thoughts-on-saylor.md)
+  * [L402](blog-post-1/thoughts-on-l402.md)
 * Mike Abramo
   * [WTF is Lightning?](mike-abramo/wtf-if-lightning-network.md)
 * Enrique Gamboa
