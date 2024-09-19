@@ -13,6 +13,7 @@ description: Welcome & Table of Contents
 * Will Sutton
   * [Saylor](blog-post-1/thoughts-on-saylor.md)
   * [L402](blog-post-1/thoughts-on-l402.md)
+  * [Building L-Apps](blog-post-1/l-apps-and-building.md)
 * Mike Abramo
   * [WTF is Lightning?](mike-abramo/wtf-if-lightning-network.md)
 * Enrique Gamboa
