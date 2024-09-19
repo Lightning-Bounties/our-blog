@@ -55,6 +55,21 @@ After these steps are complete: you should now have sats deposited into your pro
 
 _What are some examples of bounties you've seen that have been effective?_
 
-_(Fill in this section here)_
+---
+
+##### from @sutt:
+Vitalik Buterin earned his first bitcoins in 2011 by writing articles for _Bitcoin Weekly_ (1). Vitalik also offered bounties to Gavin Wood for his Ethereum C++ client on their first communications (2). 
+
+Looks like in both cases, bounties were a key part of bringing in talent that did not have any official credentials in the space.
+
+(1)
+<figure><img src=".gitbook/assets/vitalik-bounty-1.jpg" alt=""><figcaption></figcaption></figure>
+
+(2)
+<figure><img src=".gitbook/assets/vitalik-bounty-1.jpg" alt=""><figcaption></figcaption></figure>
+
+Excerpts from Laura Chin's [_Cryptopians (2022)_](https://laurashin.com/book/). I was gited this book several months ago and it's been a great read. I highly recommend it.
+
+----
 
 _End._
