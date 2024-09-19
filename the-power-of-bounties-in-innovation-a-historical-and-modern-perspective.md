@@ -46,7 +46,7 @@ Respond to this article by adding an example of a historical or modern day bount
 
 * Sign up by "Log In with GitHub" at [app.lightningbounties.com](https://app.lightningbounties.com/)
 * Review the metrics for evaluating submissions [here](https://app.lightningbounties.com/issue/6f550a1a-210b-46d2-b537-89d07a16f7d8)
-* Fork the repo, make a commit and submit a PR as described [here](https://docs.lightningbounties.com/docs/solve-a-bounty/working-on-the-bounty). _Notice this works because this website (powered by_ [_Gitbook_](https://www.gitbook.com/)_) is sync'd with an underlying git repository._&#x20;
+* Fork the repo, make a commit and submit a PR as described [here](https://docs.lightningbounties.com/docs/solve-a-bounty/working-on-the-bounty). _Notice this works because this website (powered by_ [_Gitbook_](https://www.gitbook.com/)_) is sync'd with an underlying git repository._
 * Wait for a team member to review your changes and merge them into the git repo
 
 After these steps are complete: you should now have sats deposited into your profile. Now you can use those sats to withdraw them into your wallet or to post a bounty of your own.
@@ -55,21 +55,24 @@ After these steps are complete: you should now have sats deposited into your pro
 
 _What are some examples of bounties you've seen that have been effective?_
 
----
+***
 
-##### from @sutt:
-Vitalik Buterin earned his first bitcoins in 2011 by writing articles for _Bitcoin Weekly_ (1). Vitalik also offered bounties to Gavin Wood for his Ethereum C++ client on their first communications (2). 
+**from @sutt:**
+
+Vitalik Buterin earned his first bitcoins in 2011 by writing articles for _Bitcoin Weekly_ (1). Vitalik also offered bounties to Gavin Wood for his Ethereum C++ client on their first communications (2).
 
 Looks like in both cases, bounties were a key part of bringing in talent that did not have any official credentials in the space.
 
 (1)
+
 <figure><img src=".gitbook/assets/vitalik-bounty-1.jpg" alt=""><figcaption></figcaption></figure>
 
 (2)
-<figure><img src=".gitbook/assets/vitalik-bounty-1.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 Excerpts from Laura Chin's [_Cryptopians (2022)_](https://laurashin.com/book/). I was gited this book several months ago and it's been a great read. I highly recommend it.
 
-----
+***
 
 _End._
