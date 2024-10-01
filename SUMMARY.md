@@ -8,6 +8,6 @@
   * [Thoughts on L402](blog-post-1/thoughts-on-l402.md)
   * [L-Apps & Building](blog-post-1/l-apps-and-building.md)
 * [Mike Abramo](mike-abramo/README.md)
-  * [WTF if Lightning Network?](mike-abramo/wtf-if-lightning-network.md)
+  * [WTF is the Lightning Network?](mike-abramo/wtf-if-lightning-network.md)
 * [Enrique Gamboa](enrique-gamboa/README.md)
   * [Winning the MIT Hackathon 2024](enrique-gamboa/winning-the-mit-hackathon-2024.md)
