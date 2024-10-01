@@ -3,6 +3,7 @@
 * [Lightning Bounties Blog](README.md)
 * [The Power of Bounties in Innovation: A Historical and Modern Perspective](the-power-of-bounties-in-innovation-a-historical-and-modern-perspective.md)
 * [Lightning Bounties Launch & PlebLab CMDX Experience Recap](lightning-bounties-launch-and-pleblab-cmdx-experience-recap.md)
+* [Title TBD Startup Day BlogReflection](title-tbd-startup-day-blogreflection.md)
 * [Will Sutton](blog-post-1/README.md)
   * [Thoughts on Saylor](blog-post-1/thoughts-on-saylor.md)
   * [Thoughts on L402](blog-post-1/thoughts-on-l402.md)
