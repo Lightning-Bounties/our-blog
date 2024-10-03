@@ -6,7 +6,7 @@ description: Welcome & Table of Contents
 
 * Main Blog
   * [Power of Bounties](the-power-of-bounties-in-innovation-a-historical-and-modern-perspective.md)
-  * [StartupDay & Launch](lightning-bounties-launch-and-pleblab-cmdx-experience-recap.md)
+  * [StartupDay & Launch](https://blog.lightningbounties.com/lightning-bounties-recap-of-pleblabs-startup-day-2024-cmdx)
 
 <figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption><p>The team in work mode</p></figcaption></figure>
 
