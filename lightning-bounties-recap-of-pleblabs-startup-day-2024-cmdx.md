@@ -58,6 +58,16 @@ It was our turn to present, and my heart raced as Enrique and I took the stage. 
 
 This seamless presentation was a testament to [Enrique's ](https://x.com/JEGamboaFuentes)dedication and the tireless efforts of [Will ](https://x.com/WillSuttonCodes)and [Pavel](https://www.linkedin.com/in/kononovp/), whose hard work transformed our platform. What once took 30 seconds in our Alpha stage now happened almost instantaneously. Watching their meticulous bug-fixing and optimization in action filled me with immense pride.
 
+<div align="left">
+
+<figure><img src=".gitbook/assets/image (7).png" alt="" width="433"><figcaption><p>Sunday Funday at LB HQ</p></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/image (8).png" alt="" width="188"><figcaption><p>Boston Skyline</p></figcaption></figure>
+
+</div>
+
 My part felt easy; I simply talked about Lightning Bounties, a topic I could discuss endlessly. But the real MVPs were [Enrique](https://x.com/JEGamboaFuentes), [Will](https://x.com/WillSuttonCodes), and [Pavel](https://www.linkedin.com/in/kononovp/)—their dedication made this moment possible. As we wrapped up our presentation to a full house, relief washed over me, replaced by excitement. We had done it! With our part complete, we could now immerse ourselves in the rest of the event.
 
 <table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><a href="https://www.lightningbounties.com/"><strong>Website</strong> </a></td><td><a href=".gitbook/assets/LB_Dark_BG_Favicon.png">LB_Dark_BG_Favicon.png</a></td><td><a href="https://www.lightningbounties.com/">https://www.lightningbounties.com/</a></td></tr><tr><td align="center"><a href="https://youtu.be/yxv3VpxuIFU?si=hSXiF71AhWS576K5"><strong>Presentation</strong></a></td><td><a href=".gitbook/assets/lightningbounties_yt (1).PNG">lightningbounties_yt (1).PNG</a></td><td><a href="https://youtu.be/yxv3VpxuIFU?si=hSXiF71AhWS576K5">https://youtu.be/yxv3VpxuIFU?si=hSXiF71AhWS576K5</a></td></tr><tr><td align="center"><a href="https://x.com/SonnyTheDegen/status/1839275728300618107"><strong>Elevator Pitch</strong></a></td><td><a href=".gitbook/assets/lb_pitch.PNG">lb_pitch.PNG</a></td><td><a href="https://x.com/SonnyTheDegen/status/1839275728300618107">https://x.com/SonnyTheDegen/status/1839275728300618107</a></td></tr></tbody></table>
