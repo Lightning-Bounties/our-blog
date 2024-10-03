@@ -196,7 +196,7 @@ _**P.S. If you've made it this far and have a bug to squash or a feature to add 
 
  
 
-<figure><img src=".gitbook/assets/qr_code_next_lightningbounties.png" alt="" width="375"><figcaption><p><a href="https://app.lightningbounties.com/">Scan The QR Code to Ger Started!</a></p></figcaption></figure>
+<figure><img src=".gitbook/assets/qr_code_next_lightningbounties.png" alt="" width="375"><figcaption><p><a href="https://app.lightningbounties.com/">Scan The QR Code to Get Started!</a></p></figcaption></figure>
 
 </div>
 
