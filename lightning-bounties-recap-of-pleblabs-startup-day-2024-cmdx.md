@@ -15,19 +15,13 @@ layout:
     visible: true
 ---
 
-# Lightning Bounties and PlebLab's Startup Day 2024: A Celebration of Bitcoin Innovation
+# Lightning Bounties' Recap of PlebLab's Startup Day 2024 - CMDX
 
 <figure><img src=".gitbook/assets/Pleblab_startup_banner_final.png" alt=""><figcaption></figcaption></figure>
 
-
-
 On September 20, 2024, Mexico City became ground zero for Bitcoin innovation. [PlebLab's Startup Day](https://www.pleblab.dev/startup-day-cdmx) brought together the boldest and brightest in the Bitcoin space, [showcasing projects](https://lb-demo.vercel.app/) that are pushing the boundaries of what's possible with this technology.&#x20;
 
-
-
-As first-time attendees and co-founders of Lightning Bounties, [Enrique ](https://www.linkedin.com/in/jegamboafuentes/)and I were immediately captivated by the electric atmosphere of [PlebLab](https://www.pleblab.dev/). All around us, innovators and entrepreneurs buzzed with anticipation, exchanging ideas about the future of Bitcoin and the Lightning Network.&#x20;
-
-
+As first-time attendees and co-founders of Lightning Bounties, [Enrique ](https://www.linkedin.com/in/jegamboafuentes/)and I were immediately captivated by the electric atmosphere of [PlebLab](https://www.pleblab.dev/). All around us, innovators and entrepreneurs buzzed with anticipation, exchanging ideas about the future of Bitcoin and the [Lightning Network](https://lightning.network/).&#x20;
 
 &#x20;                               Enrique and I exchanged excited glances, taking it all in.
 
@@ -36,25 +30,23 @@ As first-time attendees and co-founders of Lightning Bounties, [Enrique ](https:
 
 From Resolvr's instant insurance settlements to Cascdr's AI-powered Lightning Network apps, the event was a testament to Bitcoin's emerging ecosystem.&#x20;
 
-
-
-No bullshit, no hype – just raw innovation and real-world applications set to change the game. Buckle up, Bitcoiners. Here's what you missed at PlebLab's Startup Day, starting with Yopaki's inspiring journey...
+No bullshit, no hype – just raw innovation and real-world applications set to change the game. Buckle up, Bitcoiners. Here's what you missed at PlebLab's Startup Day, starting with Yopaki's gritty journey...
 
 ## [**Yopaki**](https://www.yopaki.com/)**: A Journey of Resilience**
 
-[Francisco Chavarria, Co-Founder and CEO of Yopaki](https://x.com/FranciscoBTC), delivered a heartfelt and inspiring presentation at the 2024 PlebLab Startup Day, focusing on the theme _**"Adapt or Die."**_ He shared Yopaki's journey from near-failure to success, emphasizing the importance of perseverance and adaptability in the startup world.
+[Francisco Chavarria, Co-Founder and CEO of Yopaki](https://x.com/FranciscoBTC), delivered a heartfelt and motivational keynote, focusing on the theme _**"Adapt or Die."**_ He shared Yopaki's journey from near-failure to success, emphasizing the importance of perseverance and adaptability in the startup world.
 
 Francisco recounted Yopaki's early struggles, including their initial lack of investor interest and the challenges of building something new in the Bitcoin ecosystem. He highlighted their innovative approach to generating buzz, such as organizing Mexico's first non-technical Bitcoin-only conference and projecting a Bitcoin message on the Central Bank of Mexico.
 
 The presentation culminated with the announcement of Yopaki's latest project: a Bitcoin-themed version of Lotería, a culturally significant game in Mexico. This clever adaptation aims to make learning about Bitcoin more engaging and accessible to a wider audience, demonstrating Yopaki's commitment to education and community building in the Bitcoin ecosystem. By combining traditional Mexican culture with Bitcoin education, Yopaki is creating a unique bridge between heritage and financial innovation, showcasing their ability to adapt and innovate in the face of challenges.
 
-Francisco's honest account of their struggles and subsequent growth served as an inspiring message for other startups, demonstrating that even in the face of near-failure, success is possible with resilience and innovation.
+Francisco's honest account of their struggles and subsequent growth served as an inspiring message for fellow startups, demonstrating that even in the face of near-failure, success is possible with resilience and innovation.
 
 <table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><a href="https://www.yopaki.com/"><strong>Website</strong></a></td><td><a href=".gitbook/assets/yopaki_logo_no_bg.png">yopaki_logo_no_bg.png</a></td><td><a href="https://www.yopaki.com/">https://www.yopaki.com/</a></td></tr><tr><td align="center"><a href="https://youtu.be/jVtekBhztdg?si=CganMIjin4ZqdcoS"><strong>Presentation</strong></a></td><td><a href=".gitbook/assets/yopaki2_yt.PNG">yopaki2_yt.PNG</a></td><td><a href="https://youtu.be/jVtekBhztdg?si=kS81SSx4KWg7EH6h">https://youtu.be/jVtekBhztdg?si=kS81SSx4KWg7EH6h</a></td></tr><tr><td align="center"><a href="https://x.com/BitcoinNewsCom/status/1838688514038280276"><strong>Elevator Pitch</strong></a></td><td><a href=".gitbook/assets/yopaki_pitch.PNG">yopaki_pitch.PNG</a></td><td><a href="https://x.com/BitcoinNewsCom/status/1838688514038280276">https://x.com/BitcoinNewsCom/status/1838688514038280276</a></td></tr></tbody></table>
 
 ## [**Alamo Labs:**](https://www.alamobitcoin.com/) **Announces Bitcoin Diploma Program**
 
-Next up was Alamo Labs, and I found myself leaning forward in my seat, captivated by their presentation. Alamo Labs, led by the charismatic and down-to-earth Ge, presented their innovative [Bitcoin Diploma program](https://x.com/PlebLab/status/1841564971991269546). This initiative aims to provide comprehensive Bitcoin education, offering classes every Tuesday starting October 1st. Upon completion, students receive a diploma accredited through My First Bitcoin, demonstrating Alamo Labs' commitment to quality education in the Bitcoin space.
+Next up was Alamo Labs, and I found myself leaning forward in my seat, captivated by their presentation. Alamo Labs, led by the charismatic and down-to-earth [Ge](https://x.com/Money2BMrdredBy), presented their innovative [Bitcoin Diploma program](https://x.com/PlebLab/status/1841564971991269546). This initiative aims to provide comprehensive Bitcoin education, offering classes every Tuesday starting October 1st. Upon completion, students receive a diploma accredited through My First Bitcoin, demonstrating Alamo Labs' commitment to quality education in the Bitcoin space.
 
 Alamo Labs' dedication to fostering local talent and building a strong Bitcoin community in San Antonio is commendable. For those looking to dive into Bitcoin development, especially in the San Antonio area, Alamo Labs presents an exciting opportunity to gain valuable knowledge and experience. As they say in Texas, "Remember the Alamo" - and now, thanks to Alamo Labs, you can remember where your Bitcoin journey began.
 
@@ -69,8 +61,6 @@ This seamless presentation was a testament to [Enrique's ](https://x.com/JEGambo
 My part felt easy; I simply talked about Lightning Bounties, a topic I could discuss endlessly. But the real MVPs were [Enrique](https://x.com/JEGamboaFuentes), [Will](https://x.com/WillSuttonCodes), and [Pavel](https://www.linkedin.com/in/kononovp/)—their dedication made this moment possible. As we wrapped up our presentation to a full house, relief washed over me, replaced by excitement. We had done it! With our part complete, we could now immerse ourselves in the rest of the event.
 
 <table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><a href="https://www.lightningbounties.com/"><strong>Website</strong> </a></td><td><a href=".gitbook/assets/LB_Dark_BG_Favicon.png">LB_Dark_BG_Favicon.png</a></td><td><a href="https://www.lightningbounties.com/">https://www.lightningbounties.com/</a></td></tr><tr><td align="center"><a href="https://youtu.be/yxv3VpxuIFU?si=hSXiF71AhWS576K5"><strong>Presentation</strong></a></td><td><a href=".gitbook/assets/lightningbounties_yt (1).PNG">lightningbounties_yt (1).PNG</a></td><td><a href="https://youtu.be/yxv3VpxuIFU?si=hSXiF71AhWS576K5">https://youtu.be/yxv3VpxuIFU?si=hSXiF71AhWS576K5</a></td></tr><tr><td align="center"><a href="https://x.com/SonnyTheDegen/status/1839275728300618107"><strong>Elevator Pitch</strong></a></td><td><a href=".gitbook/assets/lb_pitch.PNG">lb_pitch.PNG</a></td><td><a href="https://x.com/SonnyTheDegen/status/1839275728300618107">https://x.com/SonnyTheDegen/status/1839275728300618107</a></td></tr></tbody></table>
-
-The rest of the day flew by in a blur of innovative ideas and groundbreaking technologies. Each presentation brought something new and exciting to the table:
 
 ## [**Orange Metrics**](https://orangemetrics.xyz/)**: Data-Driven Insights for Bitcoin Projects**
 
@@ -96,21 +86,21 @@ Unlike giants like[ eBay which charge hefty fees (around 13.5%)](https://communi
 
 What sets Shopstr apart is its focus on simplicity and user control. Users can easily create an account without extensive personal information, list items quickly, and maintain ownership of their data. The platform integrates seamlessly with other Nostr-based applications, allowing users to manage their marketplace presence across multiple platforms effortlessly.
 
-These user-centric approaches make Shopstr accessible to anyone, from tech-savvy Bitcoin enthusiasts to everyday users looking for a straightforward online marketplace experience.
+These user-centric approaches make Shopstr accessible to anyone, from tech-savvy Bitcoin plebs to casual shoppers looking for a straightforward online marketplace experience.
 
 <table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><a href="https://shopstr.store/"><strong>Website</strong> </a></td><td><a href=".gitbook/assets/shopstr.png">shopstr.png</a></td><td><a href="https://shopstr.store/">https://shopstr.store/</a></td></tr><tr><td align="center"><a href="https://youtu.be/Tupe63Y8UT4?si=E-rWGRQkQfeS1Bc4"><strong>Presentation</strong></a></td><td><a href=".gitbook/assets/shopstr_YT (1).PNG">shopstr_YT (1).PNG</a></td><td><a href="https://youtu.be/Tupe63Y8UT4?si=E-rWGRQkQfeS1Bc4">https://youtu.be/Tupe63Y8UT4?si=E-rWGRQkQfeS1Bc4</a></td></tr><tr><td align="center"><a href="https://x.com/BitcoinNewsCom/status/1839688975654461567"><strong>Elevator Pitch</strong></a></td><td><a href=".gitbook/assets/shopstr_pitch.PNG">shopstr_pitch.PNG</a></td><td><a href="https://x.com/BitcoinNewsCom/status/1839688975654461567">https://x.com/BitcoinNewsCom/status/1839688975654461567</a></td></tr></tbody></table>
 
 ## [**Comet Notes**](https://comet.md/)**: Privacy-First Note-Taking**
 
-Comet Notes, is an innovative open-source note-taking application that prioritizes user privacy and data sovereignty. Unlike traditional note-taking apps that store data in centralized clouds, Comet Notes allows users to keep their notes locally encrypted on their devices, ensuring complete control over their information. The platform is designed to be intuitive and accessible, making it easy for anyone to use without overwhelming them with complex features.
+Comet Notes is a clever open-source note-taking application that prioritizes user privacy and data sovereignty. Unlike traditional note-taking apps that store data in centralized clouds, Comet Notes allows users to keep their notes locally encrypted on their devices, ensuring complete control over their information. The platform is designed to be intuitive and accessible, making it easy for anyone to use without overwhelming them with complex features.
 
-I appreciated how effectively the team showcased their product during the presentation. As someone who uses Notion daily, I have been searching for a privacy-preserving alternative for my notes and research. Comet Notes offers the functionality I need while ensuring that my data remains secure and private. The familiar user interface makes transitioning from other apps seamless, allowing users to focus on their work without worrying about data breaches or centralized control.
+I appreciated how effectively [Jay ](https://github.com/nodetec/comet)showcased their software during the presentation. As someone who uses [Notion ](https://www.notion.so/)daily, I have been searching for a privacy-preserving alternative for my notes and research. Comet Notes offers the functionality I need while ensuring that my data remains secure and private. The familiar user interface makes transitioning from other apps seamless, allowing users to focus on their work without worrying about data breaches or centralized control.
 
 <table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><a href="https://comet.md/"><strong>Website</strong> </a></td><td><a href=".gitbook/assets/comet_no_bg (1).png">comet_no_bg (1).png</a></td><td><a href="https://comet.md/">https://comet.md/</a></td></tr><tr><td align="center"><a href="https://youtu.be/FfViuew6jX8?si=4yDJ5xEb1eVJrgqD"><strong>Presentation</strong></a></td><td><a href=".gitbook/assets/cometnotes_yt.PNG">cometnotes_yt.PNG</a></td><td><a href="https://youtu.be/FfViuew6jX8?si=4yDJ5xEb1eVJrgqD">https://youtu.be/FfViuew6jX8?si=4yDJ5xEb1eVJrgqD</a></td></tr><tr><td align="center"><a href="https://x.com/PlebLab/status/1841564990685233562"><strong>Elevator Pitch</strong></a></td><td><a href=".gitbook/assets/comet_pitch.PNG">comet_pitch.PNG</a></td><td><a href="https://x.com/PlebLab/status/1841564990685233562">https://x.com/PlebLab/status/1841564990685233562</a></td></tr></tbody></table>
 
 ## [**Cascdr**](https://cascdr.xyz/)**: Private Bitcoin Payable AI Services**
 
-Jim Carucci, the founder and CEO of Cascdr, delivered an insightful presentation. He focused on the synergy between the Lightning Network and AI, explaining how these technologies form the core of Cascdr's vision. Jim's explanation of AI chatbots as "autocorrect on steroids" was particularly enlightening, helping to demystify the complex world of AI for those unfamiliar with its inner workings. He broke down complex concepts into digestible parts, using examples like optical character recognition to explain neural networks and vectorization in language processing.
+Jim Carucci, the founder and CEO of Cascdr, delivered an insightful presentation. He focused on the synergy between the Lightning Network and AI, explaining how these technologies form the core of Cascdr's vision. Jim's explanation of AI chatbots as _**"autocorrect on steroids"**_ was particularly enlightening, helping to demystify the complex world of AI for those unfamiliar with its inner workings. He broke down complex concepts into digestible parts, using examples like optical character recognition to explain neural networks and vectorization in language processing.
 
 Cascdr is a platform that leverages the Lightning Network and AI to create innovative solutions in the Bitcoin ecosystem. By combining the advantages of the Lightning Network, such as low-fee, high-resolution payments, and instant transactions, with the power of AI and large language models, Cascdr aims to offer unique services.
 
@@ -170,19 +160,11 @@ Throughout the party, we seized the opportunity to connect with the brilliant mi
 
 [Dr. Bitcoin](https://x.com/DrBitcoinMD) Founder & CEO of [TimeStamp](https://x.com/Timestamp\_BTC) became our impromptu mentor, offering invaluable insights on our next steps and answering our countless questions. As a fellow Bostonian, he bridged the gap between the Texas Pleb scene and our home turf, even offering ongoing mentorship that we eagerly accepted.
 
-
-
 {% embed url="https://x.com/PlebLab/status/1841568496813052284" %}
 [Dr. Arman Meguerian - Timestamp](https://www.linkedin.com/in/armanmeguerian) Sharing Some of his Wisdom with the Plebs&#x20;
 {% endembed %}
 
-
-
-
-
-[Juan Galt](https://x.com/JuanSGalt) from [Bitcoin News](https://x.com/BitcoinNewsCom), whom we'd met the previous night, made good on his promise of an interview. [This brief 90-second spotlight](https://x.com/SonnyTheDegen/status/1839275728300618107) not only garnered thousands of views but also doubled our Twitter following. It provided the perfect, concise introduction to Lightning Bounties for our friends, family, and the wider Bitcoin community.
-
-
+[Juan Galt](https://x.com/JuanSGalt) from [Bitcoin News](https://x.com/BitcoinNewsCom), whom we'd met the previous night, made good on his promise of an interview. [This brief 90-second spotlight](https://x.com/SonnyTheDegen/status/1839275728300618107) not only garnered thousands of views but also doubled our Twitter following. It provided the perfect, concise introduction to Lightning Bounties to show our friends and family.
 
 {% embed url="https://twitter.com/BitcoinNewsCom/status/1838668930040082657" %}
 &#x20; [Juan Galt](https://x.com/JuanSGalt) modern day Walter Cronkite&#x20;
