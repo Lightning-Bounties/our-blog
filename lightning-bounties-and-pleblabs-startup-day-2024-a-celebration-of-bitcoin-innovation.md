@@ -1,4 +1,7 @@
 ---
+description: >-
+  Follow Lightning Bounties as we navigate the emerging Bitcoin startups
+  showcased at PlebLab's Startup Day 2024 in Mexico City.
 layout:
   title:
     visible: true
@@ -12,7 +15,7 @@ layout:
     visible: true
 ---
 
-# Lightning Bounties: Key Takeaways from PlebLab Startup Day 2024
+# Lightning Bounties and PlebLab's Startup Day 2024: A Celebration of Bitcoin Innovation
 
 <figure><img src=".gitbook/assets/Pleblab_startup_banner_final.png" alt=""><figcaption></figcaption></figure>
 
