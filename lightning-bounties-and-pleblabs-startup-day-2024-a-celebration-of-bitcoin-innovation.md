@@ -134,31 +134,49 @@ The app's approach of gamifying Bitcoin education has the potential to attract y
 
 ## **The Yopaki Block Party: A Celebration of Community**
 
-As the sun set on PlebLab Startup Day, the energy only continued to rise. The Yopaki Block Party kicked off with a gourmet dinner curated by [Chef Johnny Ochoa](https://johnnyochoa.squarespace.com/), a culinary delight that rivaled the earlier taco lunch. Francisco and Carlos, the Yopaki team, outdid themselves with an abundance of alcohol and a surprise mariachi band that transformed the atmosphere into a lively concert. The highlight was undoubtedly Enrique, belting out tunes with the band, surrounded by equally enthusiastic singers.
-
 <div align="left">
 
-<figure><img src=".gitbook/assets/blockparty2.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/blockparty2.PNG" alt=""><figcaption><p>Yopaki Blockpary Poster</p></figcaption></figure>
 
  
 
-<figure><img src=".gitbook/assets/meriachis.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/meriachis.PNG" alt=""><figcaption><p>Mariachi</p></figcaption></figure>
 
 </div>
 
-Amid the festivities, [Francisco ](https://x.com/FranciscoBTC)and [Carlos ](https://x.com/carloschida)erupted in joy as they received news of their Lotería Game's approval for the Apple App Store - a perfect capstone to an already magical event.
+<div align="left">
 
+<figure><img src=".gitbook/assets/signing.gif" alt="" width="240"><figcaption><p>"Mariach is the Music for Drunk People"   </p></figcaption></figure>
 
+ 
+
+<figure><img src=".gitbook/assets/chefjohnny2.PNG" alt="" width="389"><figcaption><p><a href="https://johnnyochoa.squarespace.com/">Chef Johnny Ochoa</a></p></figcaption></figure>
+
+</div>
+
+As the sun set on PlebLab Startup Day, the energy only continued to rise. The Yopaki Block Party kicked off with a gourmet dinner curated by [Chef Johnny Ochoa](https://johnnyochoa.squarespace.com/), a culinary delight that rivaled the earlier taco lunch. Francisco and Carlos, the Yopaki team, outdid themselves with an abundance of alcohol and a surprise mariachi band that transformed the atmosphere into a lively concert. The highlight was undoubtedly Enrique, belting out tunes with the band, surrounded by equally enthusiastic singers.
+
+Amid the festivities, [Francisco ](https://x.com/FranciscoBTC)and [Carlos ](https://x.com/carloschida)erupted in joy as they received news of their Lotería Game's approval for the Apple App Store - a perfect capstone to an already epic event.
 
 <figure><img src=".gitbook/assets/loteria_banner.PNG" alt=""><figcaption><p><a href="https://substack.com/@franciscobtc/p-139933347">Click Me to Learn About Loteria Bitcoin </a></p></figcaption></figure>
 
-
-
 Throughout the party, we seized the opportunity to connect with the brilliant minds behind the startups, absorbing as much knowledge and inspiration as possible. Two individuals stood out, deserving special mention:
 
+<div data-full-width="true">
+
+<figure><img src="https://media.giphy.com/media/RhcaIRrhcujrZmZgv0/giphy.gif?cid=790b7611zrzhqpa6hoa3km1xq0izpshxawlel3k8xukv3vx2&#x26;ep=v1_gifs_search&#x26;rid=giphy.gif&#x26;ct=g" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+[Dr. Bitcoin](https://x.com/DrBitcoinMD) Founder & CEO of [TimeStamp](https://x.com/Timestamp\_BTC) became our impromptu mentor, offering invaluable insights on our next steps and answering our countless questions. As a fellow Bostonian, he bridged the gap between the Texas Pleb scene and our home turf, even offering ongoing mentorship that we eagerly accepted.
 
 
-[Dr. Bitcoin](https://x.com/DrBitcoinMD) from [TimeStamp](https://x.com/Timestamp\_BTC) became our impromptu mentor, offering invaluable insights on our next steps and answering our countless questions. As a fellow Bostonian, he bridged the gap between the Texas Pleb scene and our home turf, even offering ongoing mentorship that we eagerly accepted.
+
+{% embed url="https://x.com/PlebLab/status/1841568496813052284" %}
+[Dr. Arman Meguerian - Timestamp](https://www.linkedin.com/in/armanmeguerian) Sharing Some of his Wisdom with the Plebs&#x20;
+{% endembed %}
+
+
 
 
 
@@ -166,8 +184,27 @@ Throughout the party, we seized the opportunity to connect with the brilliant mi
 
 
 
+{% embed url="https://twitter.com/BitcoinNewsCom/status/1838668930040082657" %}
+&#x20; [Juan Galt](https://x.com/JuanSGalt) modern day Walter Cronkite&#x20;
+{% endembed %}
+
+
+
 We owe immense gratitude to [Car](https://primal.net/p/npub1f4www6qjx43mckpkjld4apyyr76j3aahprvkduh9gc5xec78ypmsmakqh9), [PlebLab](https://www.pleblab.dev/), [Yopaki](https://www.yopaki.com/), and the entire community for orchestrating this incredible event. The experience has ignited our passion and reinforced our commitment to building Lightning Bounties. The Plebs have proven themselves to be the most inspiring and dynamic community in the crypto space. We're excited about future collaborations and events, and confident that the future of Bitcoin development is in capable hands.
 
 The connections made, knowledge gained, and support received have been invaluable. We're honored to be part of this vibrant ecosystem and look forward to contributing to its growth.
 
-_P.S. If you've made it this far and have a bug to squash or a feature to add to your project, you know what to do - head over to_ [app.lightningbounties.com](http://app.lightningbounties.com/)_, and let's build something amazing together!_
+_**P.S. If you've made it this far and have a bug to squash or a feature to add to your project, you know what to do - head over to**_ [**app.lightningbounties.com**](http://app.lightningbounties.com/)_**, and let's build something amazing together!**_
+
+
+
+<div align="left">
+
+<figure><img src=".gitbook/assets/lb_initals_typography_rectangle_vaporwave_nobg.png" alt="" width="375"><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/qr_code_next_lightningbounties.png" alt="" width="375"><figcaption><p>Scan The QR Code to Ger Started!</p></figcaption></figure>
+
+</div>
+
