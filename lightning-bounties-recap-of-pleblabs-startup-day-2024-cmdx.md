@@ -146,7 +146,7 @@ The app's approach of gamifying Bitcoin education has the potential to attract y
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/signing.gif" alt="" width="240"><figcaption><p>"Mariach is the Music for Drunk People"   </p></figcaption></figure>
+<figure><img src=".gitbook/assets/signing.gif" alt="" width="240"><figcaption><p>"Mariachi is the Music for Drunk People"   </p></figcaption></figure>
 
  
 
@@ -171,13 +171,13 @@ Throughout the party, we seized the opportunity to connect with the brilliant mi
 [Dr. Bitcoin](https://x.com/DrBitcoinMD) Founder & CEO of [TimeStamp](https://x.com/Timestamp\_BTC) became our impromptu mentor, offering invaluable insights on our next steps and answering our countless questions. As a fellow Bostonian, he bridged the gap between the Texas Pleb scene and our home turf, even offering ongoing mentorship that we eagerly accepted.
 
 {% embed url="https://x.com/PlebLab/status/1841568496813052284" %}
-[Dr. Arman Meguerian - Timestamp](https://www.linkedin.com/in/armanmeguerian) Sharing Some of his Wisdom with the Plebs&#x20;
+[Dr. Arman Meguerian - Timestamp](https://www.linkedin.com/in/armanmeguerian) Sharing his Wisdom with the Plebs&#x20;
 {% endembed %}
 
 [Juan Galt](https://x.com/JuanSGalt) from [Bitcoin News](https://x.com/BitcoinNewsCom), whom we'd met the previous night, made good on his promise of an interview. [This brief 90-second spotlight](https://x.com/SonnyTheDegen/status/1839275728300618107) not only garnered thousands of views but also doubled our Twitter following. It provided the perfect, concise introduction to Lightning Bounties to show our friends and family.
 
 {% embed url="https://twitter.com/BitcoinNewsCom/status/1838668930040082657" %}
-&#x20; [Juan Galt](https://x.com/JuanSGalt) modern day Walter Cronkite&#x20;
+&#x20; [Juan Galt](https://x.com/JuanSGalt) modern day [Walter Cronkite ](https://en.wikipedia.org/wiki/Walter\_Cronkite)
 {% endembed %}
 
 
@@ -196,7 +196,7 @@ _**P.S. If you've made it this far and have a bug to squash or a feature to add 
 
  
 
-<figure><img src=".gitbook/assets/qr_code_next_lightningbounties.png" alt="" width="375"><figcaption><p>Scan The QR Code to Ger Started!</p></figcaption></figure>
+<figure><img src=".gitbook/assets/qr_code_next_lightningbounties.png" alt="" width="375"><figcaption><p><a href="https://app.lightningbounties.com/">Scan The QR Code to Ger Started!</a></p></figcaption></figure>
 
 </div>
 
