@@ -24,7 +24,7 @@ The challenge lies not in a lack of talent but in infrastructure and incentives.
 
 Lightning Bounties emerges as a transformative platform to bridge this gap, leveraging Bitcoin's Lightning Network to create a truly borderless bounty aggregator for open-source development. By leveraging the speed and efficiency of the Lightning Network, Lightning Bounties enables immediate Bitcoin payouts for approved pull requests, eliminating delays and fees associated with traditional payment methods.
 
-### **Key Features and Benefits:**
+## **Key Features and Benefits:**
 
 1. **Instant Compensation:** Utilizes the Lightning Network for immediate Bitcoin payouts.
 2. **Global Accessibility**: Opens doors for talent worldwide, including those in underserved regions.
@@ -32,6 +32,8 @@ Lightning Bounties emerges as a transformative platform to bridge this gap, leve
 4. **Diverse Contributions**: Welcomes various forms of input, from coding to documentation and design.
 5. **Community-Driven Crowdfunding**: Enables collective funding of critical issues and features.
 6. **Lightning-Fast Payments**: Processes transactions at unprecedented speeds, regardless of amount or destination.
+
+<figure><img src="../.gitbook/assets/CDMX-v1-mikes-experiments.jpg" alt=""><figcaption><p><a href="https://www.lightningbounties.com">www.lightningbounties.com</a></p></figcaption></figure>
 
 ## Driving Lightning Network Development
 
@@ -43,9 +45,9 @@ Lightning Bounties plays a crucial role in accelerating the growth and security 
 
 
 
-## Democratizing Participation and Encourages Inclusivity
+## Democratizing Participation&#x20;
 
-The platform emphasizes inclusivity by welcoming diverse contributions beyond complex coding tasks. This approach nurtures the growth of individual developers and cultivates a diverse community that taps into the collective genius of developers worldwide.
+Our platform emphasizes inclusivity by welcoming diverse contributions beyond complex coding tasks. This approach nurtures the growth of individual developers and cultivates a diverse community that taps into the collective genius of developers worldwide.
 
 ## Aligning with Open-Source and Bitcoin Principles
 
@@ -60,6 +62,8 @@ Lightning Bounties transcends the limitations of traditional freelance models, e
 ## A New Paradigm for Innovation
 
 Lightning Bounties symbolizes a paradigm shift in open-source collaboration and the future of work. By aligning with principles of decentralization, permissionless participation, and financial inclusivity, it paves the way for a more equitable and innovative digital economy. The platform's commitment to financial inclusivity empowers individuals to take control of their financial futures and participate in the global marketplace on their own terms.
+
+{% include "../.gitbook/includes/lightning_bounties_mission_cmdx.md" %}
 
 ## Conclusion
 
