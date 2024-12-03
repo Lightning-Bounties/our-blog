@@ -9,5 +9,6 @@
   * [L-Apps & Building](blog-post-1/l-apps-and-building.md)
 * [Mike Abramo](mike-abramo/README.md)
   * [WTF is the Lightning Network?](mike-abramo/wtf-if-lightning-network.md)
+  * [Exploring Lightning Bounties: The Intersection of Open-Source and Bitcoin](mike-abramo/exploring-lightning-bounties-the-intersection-of-open-source-and-bitcoin.md)
 * [Enrique Gamboa](enrique-gamboa/README.md)
   * [Winning the MIT Hackathon 2024](enrique-gamboa/winning-the-mit-hackathon-2024.md)
