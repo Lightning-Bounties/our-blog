@@ -16,6 +16,7 @@ description: Welcome & Table of Contents
   * [Building L-Apps](blog-post-1/l-apps-and-building.md)
 * Mike Abramo
   * [WTF is Lightning?](mike-abramo/wtf-if-lightning-network.md)
+  * [exploring-lightning-bounties-the-intersection-of-open-source-and-bitcoin.md](mike-abramo/exploring-lightning-bounties-the-intersection-of-open-source-and-bitcoin.md "mention")
 * Enrique Gamboa
   * [Winning MIT Hackathon](enrique-gamboa/winning-the-mit-hackathon-2024.md)
 
