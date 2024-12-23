@@ -12,3 +12,4 @@
   * [Exploring Lightning Bounties: The Intersection of Open-Source and Bitcoin](mike-abramo/exploring-lightning-bounties-the-intersection-of-open-source-and-bitcoin.md)
 * [Enrique Gamboa](enrique-gamboa/README.md)
   * [Winning the MIT Hackathon 2024](enrique-gamboa/winning-the-mit-hackathon-2024.md)
+  * [⚡️ Lightning Bounties at TABConf 2024: A Four-Day Adventure into the Heart of Bitcoin Innovation 🚀](enrique-gamboa/lightning-bounties-at-tabconf-2024-a-four-day-adventure-into-the-heart-of-bitcoin-innovation.md)
