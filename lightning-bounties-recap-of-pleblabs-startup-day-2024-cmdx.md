@@ -25,7 +25,7 @@ As first-time attendees and co-founders of Lightning Bounties, [Enrique ](https:
 
 &#x20;                               Enrique and I exchanged excited glances, taking it all in.
 
-&#x20;<img src=".gitbook/assets/mike_charlie_gif_V2.gif" alt="" data-size="original">                  ![](.gitbook/assets/Enrique\_mac\_gif\_V1.gif)\
+&#x20;<img src=".gitbook/assets/mike_charlie_gif_V2.gif" alt="" data-size="original">                  ![](.gitbook/assets/Enrique_mac_gif_V1.gif)\
 &#x20; &#x20;
 
 From Resolvr's instant insurance settlements to Cascdr's AI-powered Lightning Network apps, the event was a testament to Bitcoin's emerging ecosystem.&#x20;
@@ -58,15 +58,7 @@ It was our turn to present, and my heart raced as Enrique and I took the stage. 
 
 This seamless presentation was a testament to [Enrique's ](https://x.com/JEGamboaFuentes)dedication and the tireless efforts of [Will ](https://x.com/WillSuttonCodes)and [Pavel](https://www.linkedin.com/in/kononovp/), whose hard work transformed our platform. What once took 30 seconds in our Alpha stage now happened almost instantaneously. Watching their meticulous bug-fixing and optimization in action filled me with immense pride.
 
-<div align="left">
-
-<figure><img src=".gitbook/assets/image (7).png" alt="" width="433"><figcaption><p>Sunday Funday at LB HQ</p></figcaption></figure>
-
- 
-
-<figure><img src=".gitbook/assets/image (8).png" alt="" width="188"><figcaption><p>Boston Skyline</p></figcaption></figure>
-
-</div>
+<div align="center"><figure><img src=".gitbook/assets/image (7).png" alt="" width="433"><figcaption><p>Sunday Funday at LB HQ</p></figcaption></figure> <figure><img src=".gitbook/assets/image (8).png" alt="" width="188"><figcaption><p>Boston Skyline</p></figcaption></figure></div>
 
 My part felt easy; I simply talked about Lightning Bounties, a topic I could discuss endlessly. But the real MVPs were [Enrique](https://x.com/JEGamboaFuentes), [Will](https://x.com/WillSuttonCodes), and [Pavel](https://www.linkedin.com/in/kononovp/)—their dedication made this moment possible. As we wrapped up our presentation to a full house, relief washed over me, replaced by excitement. We had done it! With our part complete, we could now immerse ourselves in the rest of the event.
 
@@ -134,25 +126,9 @@ The app's approach of gamifying Bitcoin education has the potential to attract y
 
 ## **The Yopaki Block Party: A Celebration of Community**
 
-<div align="left">
+<div align="center"><figure><img src=".gitbook/assets/blockparty2.PNG" alt=""><figcaption><p>Yopaki Blockpary Poster</p></figcaption></figure> <figure><img src=".gitbook/assets/meriachis.PNG" alt=""><figcaption><p>Mariachi</p></figcaption></figure></div>
 
-<figure><img src=".gitbook/assets/blockparty2.PNG" alt=""><figcaption><p>Yopaki Blockpary Poster</p></figcaption></figure>
-
- 
-
-<figure><img src=".gitbook/assets/meriachis.PNG" alt=""><figcaption><p>Mariachi</p></figcaption></figure>
-
-</div>
-
-<div align="left">
-
-<figure><img src=".gitbook/assets/signing.gif" alt="" width="240"><figcaption><p>"Mariachi is the Music for Drunk People"   </p></figcaption></figure>
-
- 
-
-<figure><img src=".gitbook/assets/chefjohnny2.PNG" alt="" width="389"><figcaption><p><a href="https://johnnyochoa.squarespace.com/">Chef Johnny Ochoa</a></p></figcaption></figure>
-
-</div>
+<div align="center" data-full-width="false"><figure><img src=".gitbook/assets/signing.gif" alt="" width="240"><figcaption><p>"Mariachi is the Music for Drunk People"   </p></figcaption></figure> <figure><img src=".gitbook/assets/chefjohnny2.PNG" alt=""><figcaption><p><a href="https://johnnyochoa.squarespace.com/">Chef Johnny Ochoa</a></p></figcaption></figure></div>
 
 As the sun set on PlebLab Startup Day, the energy only continued to rise. The Yopaki Block Party kicked off with a gourmet dinner curated by [Chef Johnny Ochoa](https://johnnyochoa.squarespace.com/), a culinary delight that rivaled the earlier taco lunch. Francisco and Carlos, the Yopaki team, outdid themselves with an abundance of alcohol and a surprise mariachi band that transformed the atmosphere into a lively concert. The highlight was undoubtedly Enrique, belting out tunes with the band, surrounded by equally enthusiastic singers.
 
@@ -162,13 +138,9 @@ Amid the festivities, [Francisco ](https://x.com/FranciscoBTC)and [Carlos ](http
 
 Throughout the party, we seized the opportunity to connect with the brilliant minds behind the startups, absorbing as much knowledge and inspiration as possible. Two individuals stood out, deserving special mention:
 
-<div data-full-width="true">
+<div data-full-width="true"><figure><img src="https://media.giphy.com/media/RhcaIRrhcujrZmZgv0/giphy.gif?cid=790b7611zrzhqpa6hoa3km1xq0izpshxawlel3k8xukv3vx2&#x26;ep=v1_gifs_search&#x26;rid=giphy.gif&#x26;ct=g" alt=""><figcaption></figcaption></figure></div>
 
-<figure><img src="https://media.giphy.com/media/RhcaIRrhcujrZmZgv0/giphy.gif?cid=790b7611zrzhqpa6hoa3km1xq0izpshxawlel3k8xukv3vx2&#x26;ep=v1_gifs_search&#x26;rid=giphy.gif&#x26;ct=g" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-[Dr. Bitcoin](https://x.com/DrBitcoinMD) Founder & CEO of [TimeStamp](https://x.com/Timestamp\_BTC) became our impromptu mentor, offering invaluable insights on our next steps and answering our countless questions. As a fellow Bostonian, he bridged the gap between the Texas Pleb scene and our home turf, even offering ongoing mentorship that we eagerly accepted.
+[Dr. Bitcoin](https://x.com/DrBitcoinMD) Founder & CEO of [TimeStamp](https://x.com/Timestamp_BTC) became our impromptu mentor, offering invaluable insights on our next steps and answering our countless questions. As a fellow Bostonian, he bridged the gap between the Texas Pleb scene and our home turf, even offering ongoing mentorship that we eagerly accepted.
 
 {% embed url="https://x.com/PlebLab/status/1841568496813052284" %}
 [Dr. Arman Meguerian - Timestamp](https://www.linkedin.com/in/armanmeguerian) Sharing his Wisdom with the Plebs&#x20;
@@ -177,7 +149,7 @@ Throughout the party, we seized the opportunity to connect with the brilliant mi
 [Juan Galt](https://x.com/JuanSGalt) from [Bitcoin News](https://x.com/BitcoinNewsCom), whom we'd met the previous night, made good on his promise of an interview. [This brief 90-second spotlight](https://x.com/SonnyTheDegen/status/1839275728300618107) not only garnered thousands of views but also doubled our Twitter following. It provided the perfect, concise introduction to Lightning Bounties to show our friends and family.
 
 {% embed url="https://twitter.com/BitcoinNewsCom/status/1838668930040082657" %}
-&#x20; [Juan Galt](https://x.com/JuanSGalt) modern day [Walter Cronkite ](https://en.wikipedia.org/wiki/Walter\_Cronkite)
+&#x20; [Juan Galt](https://x.com/JuanSGalt) modern day [Walter Cronkite ](https://en.wikipedia.org/wiki/Walter_Cronkite)
 {% endembed %}
 
 
@@ -190,13 +162,5 @@ _**P.S. If you've made it this far and have a bug to squash or a feature to add 
 
 
 
-<div align="left">
-
-<figure><img src=".gitbook/assets/lb_initals_typography_rectangle_vaporwave_nobg.png" alt="" width="375"><figcaption></figcaption></figure>
-
- 
-
-<figure><img src=".gitbook/assets/qr_code_next_lightningbounties.png" alt="" width="375"><figcaption><p><a href="https://app.lightningbounties.com/">Scan The QR Code to Get Started!</a></p></figcaption></figure>
-
-</div>
+<div align="center"><figure><img src=".gitbook/assets/lb_initals_typography_rectangle_vaporwave_nobg.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/qr_code_next_lightningbounties.png" alt="" width="563"><figcaption><p><a href="https://app.lightningbounties.com/">Scan The QR Code to Get Started!</a></p></figcaption></figure></div>
 

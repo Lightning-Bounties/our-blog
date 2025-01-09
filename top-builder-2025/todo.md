@@ -5,7 +5,7 @@ hidden: true
 
 # TODO
 
-* [ ] Make Banner
+* [x] Make Banner
 * [ ] Make Clever Names For Parent, Home, and other pages&#x20;
 * [ ] incorporate Excalidraw blueprint on LB Top Builder Home&#x20;
 * [ ] Figure Out Subpages with Blog Post&#x20;
@@ -28,9 +28,9 @@ hidden: true
   * [ ] Mike&#x20;
   *
 * [ ] Figure Out Ideal Documentation design&#x20;
-* [ ] Add Top Builder & TimeStamp theme&#x20;
+* [x] Add Top Builder & TimeStamp theme&#x20;
 * [ ] Add cool button link redirects to Socials&#x20;
-* [ ] Make Card designs for LB Team Directory&#x20;
+* [x] Make Card designs for LB Team Directory&#x20;
 
 #### Maybes
 
