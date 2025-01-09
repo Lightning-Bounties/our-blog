@@ -85,7 +85,13 @@ Link to GitHub Project Board needs permissions to everything :(
 
 
 
+## Inside Baseball Blogs
 
+## Read our weekly blogs on what the LB team is building/learning & the innovative projects in Top Builder! &#x20;
+
+
+
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th data-type="content-ref"></th><th></th><th data-hidden data-type="files"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Blog Post On LB Progress Each Week</td><td></td><td>Summary</td><td></td><td><a href="../.gitbook/assets/Documentation_Card.png">Documentation_Card.png</a></td></tr><tr><td>Blog Post on Top Builder Projects </td><td></td><td>Summary </td><td></td><td><a href="../.gitbook/assets/Gitbook_Blog_Card.png">Gitbook_Blog_Card.png</a></td></tr></tbody></table>
 
 
 
