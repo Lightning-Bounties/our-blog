@@ -51,7 +51,7 @@ Lightning Bounties isn't just changing how developers get paid—it's transformi
 
 
 
-<table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th align="center"></th><th></th><th data-hidden data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center"><a href="home.md#key-dates">Will Sutton</a></td><td>Engineering</td><td><a href="../blog-post-1/">blog-post-1</a></td><td><a href="../.gitbook/assets/will_image_card.png">will_image_card.png</a></td></tr><tr><td align="center">Pavel Kononov</td><td>Engineering</td><td></td><td><a href="../.gitbook/assets/pavel_image_card.png">pavel_image_card.png</a></td></tr><tr><td align="center">Enrique Gamboa</td><td>Business Development</td><td></td><td><a href="../.gitbook/assets/enrique_image_card.png">enrique_image_card.png</a></td></tr><tr><td align="center">Mike Abramo</td><td>Business Development</td><td></td><td><a href="../.gitbook/assets/mike_image_card.png">mike_image_card.png</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th align="center"></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><a href="https://app.gitbook.com/o/BGwrTsFHxhSQHPgv6nD1/s/K0Wa8Pq0phTb0SwmqL5e/~/changes/37/lightning-bounties-team/lightning-bounties-team/will-sutton">Will Sutton</a></td><td>Engineering</td><td><a href="../.gitbook/assets/will_image_card.png">will_image_card.png</a></td><td><a href="https://app.gitbook.com/o/BGwrTsFHxhSQHPgv6nD1/s/K0Wa8Pq0phTb0SwmqL5e/~/changes/37/lightning-bounties-team/lightning-bounties-team/will-sutton">https://app.gitbook.com/o/BGwrTsFHxhSQHPgv6nD1/s/K0Wa8Pq0phTb0SwmqL5e/~/changes/37/lightning-bounties-team/lightning-bounties-team/will-sutton</a></td></tr><tr><td align="center"><a href="https://app.gitbook.com/o/BGwrTsFHxhSQHPgv6nD1/s/K0Wa8Pq0phTb0SwmqL5e/~/changes/37/lightning-bounties-team/lightning-bounties-team/pavel-kononov">Pavel Kononov</a></td><td>Engineering</td><td><a href="../.gitbook/assets/pavel_image_card.png">pavel_image_card.png</a></td><td><a href="https://app.gitbook.com/o/BGwrTsFHxhSQHPgv6nD1/s/K0Wa8Pq0phTb0SwmqL5e/~/changes/37/lightning-bounties-team/lightning-bounties-team/pavel-kononov">https://app.gitbook.com/o/BGwrTsFHxhSQHPgv6nD1/s/K0Wa8Pq0phTb0SwmqL5e/~/changes/37/lightning-bounties-team/lightning-bounties-team/pavel-kononov</a></td></tr><tr><td align="center"><a href="https://app.gitbook.com/o/BGwrTsFHxhSQHPgv6nD1/s/K0Wa8Pq0phTb0SwmqL5e/~/changes/37/lightning-bounties-team/lightning-bounties-team/enrique-gamboa">Enrique Gamboa</a></td><td>Business Development</td><td><a href="../.gitbook/assets/enrique_image_card.png">enrique_image_card.png</a></td><td><a href="https://app.gitbook.com/o/BGwrTsFHxhSQHPgv6nD1/s/K0Wa8Pq0phTb0SwmqL5e/~/changes/37/lightning-bounties-team/lightning-bounties-team/enrique-gamboa">https://app.gitbook.com/o/BGwrTsFHxhSQHPgv6nD1/s/K0Wa8Pq0phTb0SwmqL5e/~/changes/37/lightning-bounties-team/lightning-bounties-team/enrique-gamboa</a></td></tr><tr><td align="center"><a href="https://app.gitbook.com/o/BGwrTsFHxhSQHPgv6nD1/s/K0Wa8Pq0phTb0SwmqL5e/~/changes/37/lightning-bounties-team/lightning-bounties-team/mike-abramo">Mike Abramo</a></td><td>Business Development</td><td><a href="../.gitbook/assets/mike_image_card.png">mike_image_card.png</a></td><td><a href="https://app.gitbook.com/o/BGwrTsFHxhSQHPgv6nD1/s/K0Wa8Pq0phTb0SwmqL5e/~/changes/37/lightning-bounties-team/lightning-bounties-team/mike-abramo">https://app.gitbook.com/o/BGwrTsFHxhSQHPgv6nD1/s/K0Wa8Pq0phTb0SwmqL5e/~/changes/37/lightning-bounties-team/lightning-bounties-team/mike-abramo</a></td></tr></tbody></table>
 
 
 
@@ -63,7 +63,7 @@ Lightning Bounties isn't just changing how developers get paid—it's transformi
 
 Connect with us and stay up-to-date. Engage through direct communication, code exploration, or social media on our various platforms.
 
-<table><thead><tr><th width="230">Social Account</th><th>Purpose</th></tr></thead><tbody><tr><td> <a href="https://www.lightningbounties.com/"><strong>Website</strong></a></td><td>Visit our website to learn more about Lightning Bounties, view our blog, sign up for our waitlist, and track our progress.</td></tr><tr><td><a href="https://app.lightningbounties.com/"><strong>Bounty Platform</strong></a></td><td>Interested in earning some Bitcoin? Go to our Bug Bounty Platform and Start Solving Bounties. New bounties are posted daily.</td></tr><tr><td> <a href="https://github.com/Lightning-Bounties"><strong>GitHub</strong></a></td><td>Explore our GitHub repo to access our platform's source code, contribute improvements, and review reported issues.</td></tr><tr><td> <a href="https://x.com/LBounties"><strong>Twitter</strong></a></td><td>Follow us on Twitter to stay updated with real-time program announcements, news, and important information.</td></tr><tr><td> <a href="https://youtube.com/@lightningbounties?si=AGCT8Zqazy1IUDaX"><strong>YouTube</strong></a></td><td>Subscribe to our YouTube channel to access educational videos, and learn through our in-depth tutorials.</td></tr><tr><td> <a href="mailto:founders@lightningbounties.com"><strong>Email</strong></a></td><td>For inquiries, feedback, or collaboration opportunities, please email us. Our team will gladly assist you.</td></tr><tr><td> <a href="https://primal.net/p/npub1d9qyu8yqd9jhxnnw2x4dnmryg9tcqdj6f6uupgwj433tcqukxpust8w9qj">Nostr</a></td><td>Lightning Bounties is now in Nostr.</td></tr></tbody></table>
+<table><thead><tr><th width="230">Social Account</th><th>Purpose</th></tr></thead><tbody><tr><td> <a href="https://www.lightningbounties.com/"><strong>Website</strong></a></td><td>Visit our website to learn more about Lightning Bounties, view our blog, sign up for our waitlist, and track our progress.</td></tr><tr><td><a href="https://app.lightningbounties.com/"><strong>Bounty Platform</strong></a></td><td>Interested in earning some Bitcoin? Go to our Bug Bounty Platform and Start Solving Bounties. New bounties are posted daily.</td></tr><tr><td> <a href="https://github.com/Lightning-Bounties"><strong>GitHub</strong></a></td><td>Explore our GitHub repo to access our platform's source code, contribute improvements, and review reported issues.</td></tr><tr><td> <a href="https://x.com/LBounties"><strong>Twitter</strong></a></td><td>Follow us on Twitter to stay updated with real-time program announcements, news, and important information.</td></tr><tr><td> <a href="https://youtube.com/@lightningbounties?si=AGCT8Zqazy1IUDaX"><strong>YouTube</strong></a></td><td>Subscribe to our YouTube channel to access educational videos, and learn through our in-depth tutorials.</td></tr><tr><td> <a href="mailto:founders@lightningbounties.com"><strong>Email</strong></a></td><td>For inquiries, feedback, or collaboration opportunities, please email us. Our team will gladly assist you.</td></tr><tr><td> <a href="https://primal.net/p/npub1d9qyu8yqd9jhxnnw2x4dnmryg9tcqdj6f6uupgwj433tcqukxpust8w9qj"><strong>Nostr</strong></a></td><td>Lightning Bounties is now in Nostr.</td></tr></tbody></table>
 
 
 
@@ -76,6 +76,21 @@ Link to GitHub Project Board needs permissions to everything :(
 
 
 
+
+
+
+
+
+````html
+```html
+<iframe
+src="https://lb-bizdev.notion.site/topbuilder-season-2?v=176e1fe7ce6b80bd8a26000ca1c37abd"
+width="100%"
+height="600px"
+frameborder="0">
+</iframe>
+``` 
+````
 
 
 
@@ -92,6 +107,8 @@ Link to GitHub Project Board needs permissions to everything :(
 
 
 <table data-card-size="large" data-view="cards"><thead><tr><th></th><th data-type="content-ref"></th><th></th><th data-hidden data-type="files"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Blog Post On LB Progress Each Week</td><td></td><td>Summary</td><td></td><td><a href="../.gitbook/assets/Documentation_Card.png">Documentation_Card.png</a></td></tr><tr><td>Blog Post on Top Builder Projects </td><td></td><td>Summary </td><td></td><td><a href="../.gitbook/assets/Gitbook_Blog_Card.png">Gitbook_Blog_Card.png</a></td></tr></tbody></table>
+
+
 
 
 
