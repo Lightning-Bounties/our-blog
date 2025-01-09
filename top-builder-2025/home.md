@@ -1,5 +1,4 @@
 ---
-hidden: true
 cover: ../.gitbook/assets/Hero_Pleblab_Timestamp.png
 coverY: 0
 layout:
@@ -56,17 +55,21 @@ Lightning Bounties isn't just changing how developers get paid—it's transformi
 
 
 
+
+
 ## Lightning Bounties Socials
 
+#### Welcome to The Lightning Bounties Social Accounts!
 
+Connect with us and stay up-to-date. Engage through direct communication, code exploration, or social media on our various platforms.
+
+<table><thead><tr><th width="230">Social Account</th><th>Purpose</th></tr></thead><tbody><tr><td> <a href="https://www.lightningbounties.com/"><strong>Website</strong></a></td><td>Visit our website to learn more about Lightning Bounties, view our blog, sign up for our waitlist, and track our progress.</td></tr><tr><td><a href="https://app.lightningbounties.com/"><strong>Bounty Platform</strong></a></td><td>Interested in earning some Bitcoin? Go to our Bug Bounty Platform and Start Solving Bounties. New bounties are posted daily.</td></tr><tr><td> <a href="https://github.com/Lightning-Bounties"><strong>GitHub</strong></a></td><td>Explore our GitHub repo to access our platform's source code, contribute improvements, and review reported issues.</td></tr><tr><td> <a href="https://x.com/LBounties"><strong>Twitter</strong></a></td><td>Follow us on Twitter to stay updated with real-time program announcements, news, and important information.</td></tr><tr><td> <a href="https://youtube.com/@lightningbounties?si=AGCT8Zqazy1IUDaX"><strong>YouTube</strong></a></td><td>Subscribe to our YouTube channel to access educational videos, and learn through our in-depth tutorials.</td></tr><tr><td> <a href="mailto:founders@lightningbounties.com"><strong>Email</strong></a></td><td>For inquiries, feedback, or collaboration opportunities, please email us. Our team will gladly assist you.</td></tr><tr><td> <a href="https://primal.net/p/npub1d9qyu8yqd9jhxnnw2x4dnmryg9tcqdj6f6uupgwj433tcqukxpust8w9qj">Nostr</a></td><td>Lightning Bounties is now in Nostr.</td></tr></tbody></table>
 
 
 
 ## Top Builder Progress
 
 Link to GitHub Project Board needs permissions to everything :(
-
-
 
 
 
