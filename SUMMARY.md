@@ -16,20 +16,22 @@
 
 ## Top Builder 2025
 
-* [home](top-builder-2025/home.md)
+* [Top Builder x Lightning Bounties](top-builder-2025/top-builder-x-lightning-bounties/README.md)
+  * [Lightning Bounties Team](top-builder-2025/top-builder-x-lightning-bounties/lightning-bounties-team/README.md)
+    * [Will Sutton](top-builder-2025/top-builder-x-lightning-bounties/lightning-bounties-team/will-sutton.md)
+    * [Pavel Kononov](top-builder-2025/top-builder-x-lightning-bounties/lightning-bounties-team/pavel-kononov.md)
+    * [Enrique Gamboa](top-builder-2025/top-builder-x-lightning-bounties/lightning-bounties-team/enrique-gamboa.md)
+    * [Mike Abramo](top-builder-2025/top-builder-x-lightning-bounties/lightning-bounties-team/mike-abramo.md)
+  * [Blog Post Featuring TB Teams](top-builder-2025/top-builder-x-lightning-bounties/blog-post-featuring-tb-teams/README.md)
+    * [Branta](top-builder-2025/top-builder-x-lightning-bounties/blog-post-featuring-tb-teams/branta.md)
+    * [Page](top-builder-2025/top-builder-x-lightning-bounties/blog-post-featuring-tb-teams/page.md)
+    * [Page 1](top-builder-2025/top-builder-x-lightning-bounties/blog-post-featuring-tb-teams/page-1.md)
+    * [Page 3](top-builder-2025/top-builder-x-lightning-bounties/blog-post-featuring-tb-teams/page-3.md)
+    * [Page 4](top-builder-2025/top-builder-x-lightning-bounties/blog-post-featuring-tb-teams/page-4.md)
+    * [Top Builder](top-builder-2025/top-builder-x-lightning-bounties/blog-post-featuring-tb-teams/top-builder/README.md)
+      * [site](https://amber-minda-14.tiiny.site/)
+  * [Page 5](top-builder-2025/top-builder-x-lightning-bounties/page-5.md)
 * [TODO](top-builder-2025/todo/README.md)
   * [Top Builder Schedule](top-builder-2025/todo/top-builder-schedule.md)
 
 ## Lightning Bounties Team
-
-* [Lightning Bounties Team](lightning-bounties-team/lightning-bounties-team/README.md)
-  * [Will Sutton](lightning-bounties-team/lightning-bounties-team/will-sutton.md)
-  * [Pavel Kononov](lightning-bounties-team/lightning-bounties-team/pavel-kononov.md)
-  * [Enrique Gamboa](lightning-bounties-team/lightning-bounties-team/enrique-gamboa.md)
-  * [Mike Abramo](lightning-bounties-team/lightning-bounties-team/mike-abramo.md)
-* [TB Teams](lightning-bounties-team/tb-teams/README.md)
-  * [Page 2](lightning-bounties-team/tb-teams/page-2.md)
-  * [Page](lightning-bounties-team/tb-teams/page.md)
-  * [Page 1](lightning-bounties-team/tb-teams/page-1.md)
-  * [Page 3](lightning-bounties-team/tb-teams/page-3.md)
-  * [Page 4](lightning-bounties-team/tb-teams/page-4.md)

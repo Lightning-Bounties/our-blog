@@ -22,7 +22,7 @@ layout:
 
 
 
-<div align="right" data-full-width="true"><figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure></div>
+<div align="right" data-full-width="true"><figure><img src="../../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure></div>
 
 
 
