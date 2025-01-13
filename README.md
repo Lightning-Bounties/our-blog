@@ -19,5 +19,6 @@ description: Welcome & Table of Contents
   * [exploring-lightning-bounties-the-intersection-of-open-source-and-bitcoin.md](mike-abramo/exploring-lightning-bounties-the-intersection-of-open-source-and-bitcoin.md "mention")
 * Enrique Gamboa
   * [Winning MIT Hackathon](enrique-gamboa/winning-the-mit-hackathon-2024.md)
+  * [Lightning Bounties at TABConf 2024](enrique-gamboa/lightning-bounties-at-tabconf-2024-a-four-day-adventure-into-the-heart-of-bitcoin-innovation.md)
 
 <figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption><p>The team in play mode</p></figcaption></figure>

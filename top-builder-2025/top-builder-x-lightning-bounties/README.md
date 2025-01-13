@@ -76,7 +76,13 @@ Link to GitHub Project Board needs permissions to everything :(
 
 
 
+<table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>This Will Be to Notion Page Biz Dev Dashboard</td><td></td><td><a href="https://lb-bizdev.notion.site/topbuilder-season-2?v=176e1fe7ce6b8168b785000c4c58ed88">https://lb-bizdev.notion.site/topbuilder-season-2?v=176e1fe7ce6b8168b785000c4c58ed88</a></td></tr><tr><td>This Will Be To GuitHub Top Builder Progress</td><td></td><td></td></tr></tbody></table>
 
+
+
+
+
+[https://lb-bizdev.notion.site/topbuilder-season-2?v=176e1fe7ce6b8168b785000c4c58ed88](https://lb-bizdev.notion.site/topbuilder-season-2?v=176e1fe7ce6b8168b785000c4c58ed88)
 
 
 
