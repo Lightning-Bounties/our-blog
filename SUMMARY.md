@@ -17,18 +17,13 @@
 ## Top Builder 2025
 
 * [Top Builder x Lightning Bounties](top-builder-2025/top-builder-x-lightning-bounties/README.md)
-  * [Lightning Bounties Team](top-builder-2025/top-builder-x-lightning-bounties/lightning-bounties-team/README.md)
-    * [Will Sutton](top-builder-2025/top-builder-x-lightning-bounties/lightning-bounties-team/will-sutton.md)
-    * [Pavel Kononov](top-builder-2025/top-builder-x-lightning-bounties/lightning-bounties-team/pavel-kononov.md)
-    * [Enrique Gamboa](top-builder-2025/top-builder-x-lightning-bounties/lightning-bounties-team/enrique-gamboa.md)
-    * [Mike Abramo](top-builder-2025/top-builder-x-lightning-bounties/lightning-bounties-team/mike-abramo.md)
-  * [Blog Post Featuring TB Teams](top-builder-2025/top-builder-x-lightning-bounties/blog-post-featuring-tb-teams/README.md)
-    * [B](top-builder-2025/top-builder-x-lightning-bounties/blog-post-featuring-tb-teams/b.md)
-    * [Page](top-builder-2025/top-builder-x-lightning-bounties/blog-post-featuring-tb-teams/page.md)
-    * [Page 1](top-builder-2025/top-builder-x-lightning-bounties/blog-post-featuring-tb-teams/page-1.md)
-    * [Page 3](top-builder-2025/top-builder-x-lightning-bounties/blog-post-featuring-tb-teams/page-3.md)
-    * [Page 4](top-builder-2025/top-builder-x-lightning-bounties/blog-post-featuring-tb-teams/page-4.md)
-    * [Top Builder](top-builder-2025/top-builder-x-lightning-bounties/blog-post-featuring-tb-teams/top-builder/README.md)
+  * [Team Spotlight: Top Builder Teams](top-builder-2025/top-builder-x-lightning-bounties/team-spotlight-top-builder-teams/README.md)
+    * [B](top-builder-2025/top-builder-x-lightning-bounties/team-spotlight-top-builder-teams/b.md)
+    * [Page](top-builder-2025/top-builder-x-lightning-bounties/team-spotlight-top-builder-teams/page.md)
+    * [Page 1](top-builder-2025/top-builder-x-lightning-bounties/team-spotlight-top-builder-teams/page-1.md)
+    * [Page 3](top-builder-2025/top-builder-x-lightning-bounties/team-spotlight-top-builder-teams/page-3.md)
+    * [Page 4](top-builder-2025/top-builder-x-lightning-bounties/team-spotlight-top-builder-teams/page-4.md)
+    * [Top Builder](top-builder-2025/top-builder-x-lightning-bounties/team-spotlight-top-builder-teams/top-builder/README.md)
       * [site](https://amber-minda-14.tiiny.site/)
   * [LB x Top Builder Weekly Recap](top-builder-2025/top-builder-x-lightning-bounties/lb-x-top-builder-weekly-recap/README.md)
     * [Week 1: LB x Top Builder Recap](top-builder-2025/top-builder-x-lightning-bounties/lb-x-top-builder-weekly-recap/week-1-lb-x-top-builder-recap.md)
@@ -37,3 +32,9 @@
     * [Top Builder Schedule](top-builder-2025/top-builder-x-lightning-bounties/todo/top-builder-schedule.md)
 
 ## Lightning Bounties Team
+
+* [Lightning Bounties Team](lightning-bounties-team/lightning-bounties-team/README.md)
+  * [Will Sutton](lightning-bounties-team/lightning-bounties-team/will-sutton.md)
+  * [Pavel Kononov](lightning-bounties-team/lightning-bounties-team/pavel-kononov.md)
+  * [Enrique Gamboa](lightning-bounties-team/lightning-bounties-team/enrique-gamboa.md)
+  * [Mike Abramo](lightning-bounties-team/lightning-bounties-team/mike-abramo.md)
