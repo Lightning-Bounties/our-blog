@@ -58,7 +58,7 @@ hidden: true
 
 
 
-<figure><img src="../../.gitbook/assets/Excalidraw_gameplan.png" alt=""><figcaption><p>Blueprint so far</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Excalidraw_gameplan.png" alt=""><figcaption><p>Blueprint so far</p></figcaption></figure>
 
 
 

@@ -1,5 +1,4 @@
 ---
-hidden: true
 cover: ../../.gitbook/assets/Hero_Pleblab_Timestamp.png
 coverY: 0
 layout:
@@ -34,8 +33,6 @@ This program emphasizes mentorship, community collaboration, and technical innov
 2. **Round 2 (February 9 – 22):** Half the teams continue, refining their projects.
 3. **Final Round (Starting February 23):** The top 5 teams are selected to pitch live at Startup Day in Austin.
 
-
-
 ## About PlebLab
 
 PlebLab is a Bitcoin-focused hackerspace and accelerator dedicated to supporting open-source innovation and fostering a thriving community of developers, creatives, and entrepreneurs.
@@ -56,8 +53,6 @@ Lightning Bounties isn't just changing how developers get paid—it's transformi
 
 
 
-
-
 ## Lightning Bounties Socials
 
 #### Welcome to The Lightning Bounties Social Accounts!
@@ -66,8 +61,6 @@ Connect with us and stay up-to-date. Engage through direct communication, code e
 
 <table><thead><tr><th width="230">Social Account</th><th>Purpose</th></tr></thead><tbody><tr><td> <a href="https://www.lightningbounties.com/"><strong>Website</strong></a></td><td>Visit our website to learn more about Lightning Bounties, view our blog, sign up for our waitlist, and track our progress.</td></tr><tr><td><a href="https://app.lightningbounties.com/"><strong>Bounty Platform</strong></a></td><td>Interested in earning some Bitcoin? Go to our Bug Bounty Platform and Start Solving Bounties. New bounties are posted daily.</td></tr><tr><td> <a href="https://github.com/Lightning-Bounties"><strong>GitHub</strong></a></td><td>Explore our GitHub repo to access our platform's source code, contribute improvements, and review reported issues.</td></tr><tr><td> <a href="https://x.com/LBounties"><strong>Twitter</strong></a></td><td>Follow us on Twitter to stay updated with real-time program announcements, news, and important information.</td></tr><tr><td> <a href="https://youtube.com/@lightningbounties?si=AGCT8Zqazy1IUDaX"><strong>YouTube</strong></a></td><td>Subscribe to our YouTube channel to access educational videos, and learn through our in-depth tutorials.</td></tr><tr><td> <a href="mailto:founders@lightningbounties.com"><strong>Email</strong></a></td><td>For inquiries, feedback, or collaboration opportunities, please email us. Our team will gladly assist you.</td></tr><tr><td> <a href="https://primal.net/p/npub1d9qyu8yqd9jhxnnw2x4dnmryg9tcqdj6f6uupgwj433tcqukxpust8w9qj"><strong>Nostr</strong></a></td><td>Lightning Bounties is now in Nostr.</td></tr></tbody></table>
 
-
-
 ## Follow Lightning Bounties Throughout Top Builder
 
 Stay informed about our progress and updates during the Top Builder competition by using the following trackers:
@@ -75,19 +68,13 @@ Stay informed about our progress and updates during the Top Builder competition 
 * [**Business Development Task Tracker**](https://lb-bizdev.notion.site/topbuilder-season-2?v=176e1fe7ce6b8168b785000c4c58ed88)**:** Keep an eye on our business development plans and achievements. This tracker outlines our roadmap and the tasks we are focusing on, providing insights into our strategic growth.
 * [**Development Task Tracker & Roadmap**](https://github.com/orgs/Lightning-Bounties/projects/2/views/1)**:** Follow along with our development efforts. This tracker highlights our ongoing projects, key milestones, and the progress we've made for Top Builder, offering a detailed view of our technical journey.
 
-
-
 <table data-card-size="large" data-column-title-hidden data-view="cards" data-full-width="false"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="https://lb-bizdev.notion.site/topbuilder-season-2?v=176e1fe7ce6b8168b785000c4c58ed88"><strong>Business Development Task Tracker</strong></a></td><td>Keep an eye on our business development plans and achievements. This tracker outlines our roadmap and the tasks we focus on during the Top Builder competition.  </td><td><a href="../../.gitbook/assets/notion_bizdev_ss (2).JPG">notion_bizdev_ss (2).JPG</a></td><td><a href="https://lb-bizdev.notion.site/topbuilder-season-2?v=176e1fe7ce6b8168b785000c4c58ed88">https://lb-bizdev.notion.site/topbuilder-season-2?v=176e1fe7ce6b8168b785000c4c58ed88</a></td></tr><tr><td><a href="https://github.com/orgs/Lightning-Bounties/projects/2/views/1"><strong>Development Task Tracker &#x26; Roadmap</strong> </a></td><td>Follow along with our development efforts. This tracker highlights our ongoing projects, key milestones, and progress we've made during the Top Builder competition.</td><td><a href="../../.gitbook/assets/github_tb_issue_ss.JPG">github_tb_issue_ss.JPG</a></td><td><a href="https://github.com/orgs/Lightning-Bounties/projects/2">https://github.com/orgs/Lightning-Bounties/projects/2</a></td></tr></tbody></table>
-
-
-
-
 
 ## Competing Teams&#x20;
 
+Discover the projects shaping the future of Bitcoin and Lightning Network in this year's Top Builder competition. Each team card links to their project site, Click each project to visit their site and engage with their forward-thinking solutions.
+
 <table data-view="cards" data-full-width="false"><thead><tr><th align="center"></th><th align="center"></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><a href="https://www.branta.pro/"><strong>BRANTA</strong></a></td><td align="center">Branta offers payment verification for various Bitcoin and Lightning technologies.</td><td><a href="../../.gitbook/assets/branta (1).png">branta (1).png</a></td><td><a href="https://www.branta.pro/">https://www.branta.pro/</a></td></tr><tr><td align="center"><a href="https://jippi.app/"><strong>JIPPI</strong></a></td><td align="center">Pokémon GO for Bitcoin.</td><td><a href="../../.gitbook/assets/image (26).png">image (26).png</a></td><td><a href="https://jippi.app/">https://jippi.app/</a></td></tr><tr><td align="center"><a href="https://shopstr.store/"><strong>SHOPSTR</strong></a></td><td align="center">Shopstr is a global, decentralized Nostr marketplace for Bitcoin commerce.</td><td><a href="../../.gitbook/assets/shopstr.jpg">shopstr.jpg</a></td><td><a href="https://shopstr.store/">https://shopstr.store/</a></td></tr><tr><td align="center"><a href="https://www.assign.money"><strong>ASSIGN MONEY</strong></a></td><td align="center">Assign is Bitcoin for teams. Teams create an account, invite members, and assign payments such as salaries, pensions, bonuses, etc.</td><td><a href="../../.gitbook/assets/monirate.jpg">monirate.jpg</a></td><td><a href="https://www.assign.money">www.assign.money </a></td></tr><tr><td align="center"><a href="https://bitcoinonly.events/"><strong>BITCOIN ONLY EVENTS</strong></a></td><td align="center">Carefully curated and comprehensive calendar of major conferences, summits, and gatherings within the Bitcoin-only space</td><td><a href="../../.gitbook/assets/BitcoinEvents_Logo.png">BitcoinEvents_Logo.png</a></td><td><a href="https://bitcoinonly.events/">https://bitcoinonly.events/</a></td></tr><tr><td align="center"><a href="https://sats.gg/"><strong>SATS.GG</strong></a></td><td align="center">Video streaming platform like Twitch.tv, but integrated with Lightning and Nostr.</td><td><a href="../../.gitbook/assets/image (35).png">image (35).png</a></td><td><a href="https://sats.gg/">https://sats.gg/</a></td></tr><tr><td align="center"><a href="https://cozybot.my.canva.site/"><strong>COZYBOT</strong></a></td><td align="center">A gamified platform for AI agents to be created by non-technical users.</td><td><a href="../../.gitbook/assets/cozybot.JPG">cozybot.JPG</a></td><td><a href="https://cozybot.my.canva.site/">https://cozybot.my.canva.site/</a></td></tr><tr><td align="center"><a href="https://plunda.co"><strong>PLUNDA</strong></a></td><td align="center">Bitcoin powered collectibles exchange. Buy, sell &#x26; swap collectibles digitally.</td><td><a href="../../.gitbook/assets/image (29).png">image (29).png</a></td><td><a href="https://plunda.co">https://plunda.co</a></td></tr><tr><td align="center"><a href="https://www.bitcoinflash.xyz/"><strong>FLASH</strong></a></td><td align="center">Combines Lightning and Mobile Money technologies to make access to Bitcoin simple and easy for people in Africa.</td><td><a href="../../.gitbook/assets/image (30).png">image (30).png</a></td><td><a href="https://www.bitcoinflash.xyz/">https://www.bitcoinflash.xyz/</a></td></tr><tr><td align="center"><a href="https://bitsspend.com/"><strong>BITSPEND</strong></a></td><td align="center">BitSpend aims to develop a secure, pluggable, and lightweight Bitcoin payment client that enables applications to process Bitcoin payments on &#x26; off-chain natively.</td><td><a href="../../.gitbook/assets/image (31).png">image (31).png</a></td><td><a href="https://bitsspend.com/">https://bitsspend.com/</a></td></tr><tr><td align="center"><a href="https://questforsats.com"><strong>QUEST FOR SATS</strong></a></td><td align="center">It's like geocaching with Lightning.</td><td><a href="../../.gitbook/assets/image (32).png">image (32).png</a></td><td><a href="https://questforsats.com">https://questforsats.com</a></td></tr><tr><td align="center"><a href="https://clubbink.vercel.app/"><strong>CLUB BINK</strong></a></td><td align="center">Toolkit to bootstrap local peer-to-peer markets within high-trust Bitcoin communities, allowing members to keep their privacy intact and save on commissions.</td><td><a href="../../.gitbook/assets/image (33).png">image (33).png</a></td><td><a href="https://clubbink.vercel.app/">https://clubbink.vercel.app/</a></td></tr><tr><td align="center"><a href="https://pleb.fm/"><strong>PLEB.FM</strong></a></td><td align="center">Auction-style, lightning-powered jukebox. Choose songs and outbid others to control the playlist.</td><td><a href="../../.gitbook/assets/image (34).png">image (34).png</a></td><td><a href="https://pleb.fm/">https://pleb.fm/</a></td></tr><tr><td align="center"><a href="https://github.com/RedVelvetZip/discreetluck"><strong>DISCREET LUCK</strong></a></td><td align="center">DLC-based prediction market on bitcoin. This interface enables instant order fulfillment via Polymarket's liquidity, with end users using only native BTC.</td><td><a href="../../.gitbook/assets/image (37).png">image (37).png</a></td><td><a href="https://github.com/RedVelvetZip/discreetluck">https://github.com/RedVelvetZip/discreetluck</a></td></tr></tbody></table>
-
-
 
 ## Inside Baseball Blogs
 
@@ -95,7 +82,7 @@ Stay informed about our progress and updates during the Top Builder competition 
 
 
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th data-type="content-ref"></th><th></th><th data-hidden data-type="files"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Blog Post On LB Progress Each Week</td><td></td><td>Summary</td><td></td><td><a href="../../.gitbook/assets/Documentation_Card.png">Documentation_Card.png</a></td></tr><tr><td>Blog Post on Top Builder Projects </td><td></td><td>Summary </td><td></td><td><a href="../../.gitbook/assets/Gitbook_Blog_Card.png">Gitbook_Blog_Card.png</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Blog Post On LB Progress Each Week</strong></td><td>Summary</td><td></td><td><a href="../../.gitbook/assets/Documentation_Card.png">Documentation_Card.png</a></td></tr><tr><td><a href="blog-post-featuring-tb-teams/"><strong>Blog Post on Top Builder Projects</strong> </a></td><td>Summary </td><td><a href="blog-post-featuring-tb-teams/">blog-post-featuring-tb-teams</a></td><td><a href="../../.gitbook/assets/Gitbook_Blog_Card.png">Gitbook_Blog_Card.png</a></td></tr></tbody></table>
 
 
 
