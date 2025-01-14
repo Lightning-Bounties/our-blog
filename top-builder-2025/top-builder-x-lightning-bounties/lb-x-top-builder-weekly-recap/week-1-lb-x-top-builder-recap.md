@@ -59,6 +59,8 @@ Overall, lock times protect hunters by assuring them the reward is available, wh
 
 ## Beyond the Hype Validating Your Bitcoin Idea By Teresa Martin
 
+<figure><img src="../../../.gitbook/assets/bitcoin_beyond_the_hype.JPG" alt=""><figcaption><p>Bitcoin Beyond the Hype</p></figcaption></figure>
+
 One of the key takeaways was the importance of concept viability. It's not enough to have a cool idea; we need to ensure our solution addresses a real problem and is unique enough to stand out in the market. This immediately resonated with me due to my past experiences with doing tokenomics analysis for early-stage projects looking to launch a token. Most of my work involved competitor analysis researching how our clients' projects would bring in demand for their tokens. To make a long story short, most of the projects I researched were forks of existing successful projects that claimed to be different or innovative. The truth is, these projects were the same, just a different front-end code.
 
 Another valuable lesson was about gathering feedback and testing early. Teresa suggested building prototypes and testing concepts before investing too much time and resources into full product development. We have begun interviewing our bounty hunters and the feedback has been incredible. However, we are always looking for feedback and implementing features, so feel free to contact us with any suggestions and we can set up a time to discuss each other’s projects. For your time, we are happy to pay you some sats for your feedback.
