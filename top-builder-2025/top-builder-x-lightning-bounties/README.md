@@ -68,36 +68,18 @@ Connect with us and stay up-to-date. Engage through direct communication, code e
 
 
 
-## Top Builder Progress
+## Follow Lightning Bounties Throughout Top Builder
 
-Link to GitHub Project Board needs permissions to everything :(
+Stay informed about our progress and updates during the Top Builder competition by using the following trackers:
 
-
-
-
-
-<table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>This Will Be to Notion Page Biz Dev Dashboard</td><td></td><td><a href="https://lb-bizdev.notion.site/topbuilder-season-2?v=176e1fe7ce6b8168b785000c4c58ed88">https://lb-bizdev.notion.site/topbuilder-season-2?v=176e1fe7ce6b8168b785000c4c58ed88</a></td></tr><tr><td>This Will Be To GuitHub Top Builder Progress</td><td></td><td></td></tr></tbody></table>
+* [**Business Development Task Tracker**](https://lb-bizdev.notion.site/topbuilder-season-2?v=176e1fe7ce6b8168b785000c4c58ed88)**:** Keep an eye on our business development plans and achievements. This tracker outlines our roadmap and the tasks we are focusing on, providing insights into our strategic growth.
+* [**Development Task Tracker & Roadmap**](https://github.com/orgs/Lightning-Bounties/projects/2/views/1)**:** Follow along with our development efforts. This tracker highlights our ongoing projects, key milestones, and the progress we've made for Top Builder, offering a detailed view of our technical journey.
 
 
 
+<table data-card-size="large" data-column-title-hidden data-view="cards" data-full-width="false"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="https://lb-bizdev.notion.site/topbuilder-season-2?v=176e1fe7ce6b8168b785000c4c58ed88"><strong>Business Development Task Tracker</strong></a></td><td>Keep an eye on our business development plans and achievements. This tracker outlines our roadmap and the tasks we focus on during the Top Builder competition.  </td><td><a href="../../.gitbook/assets/notion_bizdev_ss (2).JPG">notion_bizdev_ss (2).JPG</a></td><td><a href="https://lb-bizdev.notion.site/topbuilder-season-2?v=176e1fe7ce6b8168b785000c4c58ed88">https://lb-bizdev.notion.site/topbuilder-season-2?v=176e1fe7ce6b8168b785000c4c58ed88</a></td></tr><tr><td><a href="https://github.com/orgs/Lightning-Bounties/projects/2/views/1"><strong>Development Task Tracker &#x26; Roadmap</strong> </a></td><td>Follow along with our development efforts. This tracker highlights our ongoing projects, key milestones, and progress we've made during the Top Builder competition.</td><td><a href="../../.gitbook/assets/github_tb_issue_ss.JPG">github_tb_issue_ss.JPG</a></td><td><a href="https://github.com/orgs/Lightning-Bounties/projects/2">https://github.com/orgs/Lightning-Bounties/projects/2</a></td></tr></tbody></table>
 
 
-[https://lb-bizdev.notion.site/topbuilder-season-2?v=176e1fe7ce6b8168b785000c4c58ed88](https://lb-bizdev.notion.site/topbuilder-season-2?v=176e1fe7ce6b8168b785000c4c58ed88)
-
-
-
-
-
-````html
-```html
-<iframe
-src="https://lb-bizdev.notion.site/topbuilder-season-2?v=176e1fe7ce6b80bd8a26000ca1c37abd"
-width="100%"
-height="600px"
-frameborder="0">
-</iframe>
-``` 
-````
 
 
 
