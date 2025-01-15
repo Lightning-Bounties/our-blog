@@ -21,11 +21,11 @@ hidden: true
 
 #### LB Team Specific
 
-* [ ] Bio Page **for (About, Card Headshot, Links to Socials)**
-  * [ ] Enrique
-  * [ ] Will
-  * [ ] Pavel&#x20;
-  * [ ] Mike&#x20;
+* [x] Bio Page **for (About, Card Headshot, Links to Socials)**
+  * [x] Enrique
+  * [x] Will
+  * [x] Pavel&#x20;
+  * [x] Mike&#x20;
   *
 * [ ] Figure Out Ideal Documentation design&#x20;
 * [x] Add Top Builder & TimeStamp theme&#x20;
@@ -43,7 +43,7 @@ hidden: true
 
 #### Things to research&#x20;
 
-* [ ] Notion Charts / Sync with Notion & GiitHub projects to embed graphs&#x20;
+* [x] Notion Charts / Sync with Notion & GiitHub projects to embed graphs&#x20;
 * [ ] Embed forms if needed&#x20;
 
 
