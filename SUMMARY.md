@@ -27,7 +27,12 @@
       * [site](https://amber-minda-14.tiiny.site/)
   * [LB x Top Builder Weekly Recap](top-builder-2025/top-builder-x-lightning-bounties/lb-x-top-builder-weekly-recap/README.md)
     * [Week 1: LB x Top Builder Recap](top-builder-2025/top-builder-x-lightning-bounties/lb-x-top-builder-weekly-recap/week-1-lb-x-top-builder-recap.md)
-    * [Week 2: LB x Top Builder Recap](top-builder-2025/top-builder-x-lightning-bounties/lb-x-top-builder-weekly-recap/week-2-lb-x-top-builder-recap.md)
+    * [Week 3: LB x Top Builder Recap](top-builder-2025/top-builder-x-lightning-bounties/lb-x-top-builder-weekly-recap/week-3-lb-x-top-builder-recap.md)
+    * [Copy of Week 4: LB x Top Builder Recap](top-builder-2025/top-builder-x-lightning-bounties/lb-x-top-builder-weekly-recap/copy-of-week-4-lb-x-top-builder-recap.md)
+    * [Week 5: LB x Top Builder Recap](top-builder-2025/top-builder-x-lightning-bounties/lb-x-top-builder-weekly-recap/week-5-lb-x-top-builder-recap.md)
+    * [Week 5: LB x Top Builder Recap](top-builder-2025/top-builder-x-lightning-bounties/lb-x-top-builder-weekly-recap/week-5-lb-x-top-builder-recap-1.md)
+    * [Week 7: LB x Top Builder Recap](top-builder-2025/top-builder-x-lightning-bounties/lb-x-top-builder-weekly-recap/week-7-lb-x-top-builder-recap.md)
+    * [Week 8: LB x Top Builder Recap](top-builder-2025/top-builder-x-lightning-bounties/lb-x-top-builder-weekly-recap/week-8-lb-x-top-builder-recap.md)
   * [TODO](top-builder-2025/top-builder-x-lightning-bounties/todo/README.md)
     * [Top Builder Schedule](top-builder-2025/top-builder-x-lightning-bounties/todo/top-builder-schedule.md)
 

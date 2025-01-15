@@ -1,6 +1,11 @@
 ---
 description: 1/6/2025 - 1/12/2025
+cover: ../../../.gitbook/assets/Blog Banner TB.png
+coverY: 0
 layout:
+  cover:
+    visible: true
+    size: hero
   title:
     visible: true
   description:
@@ -16,8 +21,6 @@ layout:
 # Week 1: LB x Top Builder Recap
 
 ## PlebLab's Week 1 Recap: Lightning Bounties
-
-<figure><img src="../../../.gitbook/assets/tb_season2.JPG" alt="Season2"><figcaption></figcaption></figure>
 
 Welcome to the inaugural edition of PlebLab's Week 1 Recap, presenting insights from the perspective of Lightning Bounties! In this edition, we’ll share the valuable lessons we've learned, highlight the progress we've made with developing our bounty platform, and offer an overview of the engaging Top Builder workshops.
 
