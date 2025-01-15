@@ -1,4 +1,5 @@
 ---
+hidden: true
 cover: ../../../.gitbook/assets/Blog Banner TB (5).png
 coverY: 0
 layout:
