@@ -34,21 +34,24 @@ Here's a simplified diagram of its functionality:
 
 ## **Key Features of Branta**
 
-#### **1. Wallet Verification:**
+## Branta Features Overview
 
-Branta automatically scans your downloads folder and checks the PGP keys of wallet installation files against known legitimate keys, ensuring you're not installing malware or compromised wallets.
+Branta enhances your Bitcoin experience with the following key features:
 
-#### **2. Transaction Protection**
-
-The software provides visibility into your clipboard at runtime, ensuring that no malware is swapping your Bitcoin addresses as you make transactions, preventing man-in-the-middle attacks.
-
-#### **3. Merchant Verification**
-
-Branta offers API support for verifying the authenticity of merchant addresses, reducing the risk of sending funds to impersonators.
-
-#### **4. Lightning Network Integration**
-
-Branta supports Lightning Network functionality, enabling faster and more efficient Bitcoin transactions while maintaining security.
+1. **Wallet Verification**
+   * Automatically scans your downloads folder.
+   * Checks PGP keys of wallet installation files against known legitimate keys.
+   * Ensures you're not installing malware or compromised wallets.
+2. **Transaction Protection**
+   * Provides visibility into your clipboard at runtime.
+   * Prevents malware from swapping your Bitcoin addresses during transactions.
+   * Protects against man-in-the-middle attacks.
+3. **Merchant Verification**
+   * Offers API support for verifying the authenticity of merchant addresses.
+   * Reduces the risk of sending funds to impersonators.
+4. **Lightning Network Integration**
+   * Supports Lightning Network functionality.
+   * Enables faster and more efficient Bitcoin transactions while maintaining security.
 
 ## Here's how Branta works in practice:
 
@@ -70,9 +73,13 @@ When making a Bitcoin transaction, Branta ensures your intended recipient addres
 
 ## **Lightning Bounties Partnership**
 
-<figure><img src="../../../.gitbook/assets/branta_lb_partnership.JPG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/branta_lb_partnership.JPG" alt="branta_lightningbounties_partnership_banner"><figcaption></figcaption></figure>
 
 We at Lightning Bounties are thrilled to be partnered with Branta! We've integrated Branta directly into our application, providing an unparalleled level of security for our users. We can't think of a better way to keep our users safe than having Branta as our security layer. This integration ensures that every transaction, whether on-chain or through the Lightning Network, is protected by Branta's advanced security features.
+
+
+
+For more details on how Lightning Bounties is utilizing Branta, visit Branta's [blog post here. ](https://www.branta.pro/blog?tag=lightningbounties)
 
 ## **The Inspiration Behind Branta**
 
