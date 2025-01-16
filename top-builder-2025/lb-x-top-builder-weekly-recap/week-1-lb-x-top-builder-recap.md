@@ -1,6 +1,6 @@
 ---
 description: 1/6/2025 - 1/12/2025
-cover: ../../../.gitbook/assets/Blog Banner TB.png
+cover: ../../.gitbook/assets/Blog Banner TB.png
 coverY: 0
 layout:
   cover:
@@ -22,6 +22,10 @@ layout:
 
 ## PlebLab's Week 1 Recap: Lightning Bounties
 
+### Let's Dive into Week 1 of Top Builder
+
+In this section, we'll explore the events and highlights of the first week.
+
 Welcome to the inaugural edition of PlebLab's Week 1 Recap, presenting insights from the perspective of Lightning Bounties! In this edition, we’ll share the valuable lessons we've learned, highlight the progress we've made with developing our bounty platform, and offer an overview of the engaging Top Builder workshops.
 
 ## Meeting the Teams
@@ -38,26 +42,24 @@ Seeing all of these amazing projects and meeting the teams behind them got us ov
 
 ## Putting Together Our Roadmaps: Dev and Biz Dev Bored
 
-## Roadmap and Task Breakdown&#x20;
+### Roadmap and Task Breakdown&#x20;
 
 Before diving into development, we prepared a milestone roadmap and task list. Our roadmap is divided into two main sections:
 
 * **Developer Tasks**: Handled by Will and Pavel.
 * **Business Development**: Managed by Enrique and Mike.
 
-## Developer Roadmap /Issue Tracker for Top Builder&#x20;
+### Developer Roadmap /Issue Tracker for Top Builder&#x20;
 
 Will outdid himself by creating an exceptional issue tracker for our Top Builder roadmap. It neatly organizes our milestones, defines clear deliverables, and sets a strong foundation for how we’ll tackle upcoming tasks. By using [this GitHub project](https://github.com/orgs/Lightning-Bounties/projects/2/views/1) as our blueprint, we can easily pinpoint priorities, assign responsibilities, and track progress in real-time. This level of transparency and structure ensures the entire team stays aligned on what needs to be done when it needs to be done, and who is responsible for each piece of the puzzle.
 
-## Biz Dev Roadmap /Tasks Tracker for Top Builder
+### Biz Dev Roadmap /Tasks Tracker for Top Builder
 
 Using Will's issue tracker as a guide, the Biz dev team created a Notion-flavored business development tracker. It’s tailored to help us prioritize key business goals like refining our pitch, getting our LLC converted into a C-Corp, improving our documentation, and adding content for our Blog while serving as sort of a PoW while in Top Builder. This reminds me that I need to find bounties to post on our app. Interested? Ping me [here ](mailto:mike@lightningbounties.com)&#x20;
 
 
 
-<table data-card-size="large" data-column-title-hidden data-view="cards" data-full-width="false"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="https://lb-bizdev.notion.site/topbuilder-season-2?v=176e1fe7ce6b8168b785000c4c58ed88"><strong>Business Development Task Tracker</strong></a></td><td>Keep an eye on our business development plans and achievements. This tracker outlines our roadmap and the tasks we focus on during the Top Builder competition.  </td><td><a href="../../../.gitbook/assets/notion_bizdev_ss (2).JPG">notion_bizdev_ss (2).JPG</a></td><td><a href="https://lb-bizdev.notion.site/topbuilder-season-2?v=176e1fe7ce6b8168b785000c4c58ed88">https://lb-bizdev.notion.site/topbuilder-season-2?v=176e1fe7ce6b8168b785000c4c58ed88</a></td></tr><tr><td><a href="https://github.com/orgs/Lightning-Bounties/projects/2/views/1"><strong>Development Task Tracker &#x26; Roadmap</strong> </a></td><td>Follow along with our development efforts. This tracker highlights our ongoing projects, key milestones, and progress we've made during the Top Builder competition.</td><td><a href="../../../.gitbook/assets/github_tb_issue_ss.JPG">github_tb_issue_ss.JPG</a></td><td><a href="https://github.com/orgs/Lightning-Bounties/projects/2">https://github.com/orgs/Lightning-Bounties/projects/2</a></td></tr></tbody></table>
-
-
+<table data-card-size="large" data-column-title-hidden data-view="cards" data-full-width="false"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="https://lb-bizdev.notion.site/topbuilder-season-2?v=176e1fe7ce6b8168b785000c4c58ed88"><strong>Business Development Task Tracker</strong></a></td><td>Keep an eye on our business development plans and achievements. This tracker outlines our roadmap and the tasks we focus on during the Top Builder competition.  </td><td><a href="../../.gitbook/assets/notion_bizdev_ss (2).JPG">notion_bizdev_ss (2).JPG</a></td><td><a href="https://lb-bizdev.notion.site/topbuilder-season-2?v=176e1fe7ce6b8168b785000c4c58ed88">https://lb-bizdev.notion.site/topbuilder-season-2?v=176e1fe7ce6b8168b785000c4c58ed88</a></td></tr><tr><td><a href="https://github.com/orgs/Lightning-Bounties/projects/2/views/1"><strong>Development Task Tracker &#x26; Roadmap</strong> </a></td><td>Follow along with our development efforts. This tracker highlights our ongoing projects, key milestones, and progress we've made during the Top Builder competition.</td><td><a href="../../.gitbook/assets/github_tb_issue_ss.JPG">github_tb_issue_ss.JPG</a></td><td><a href="https://github.com/orgs/Lightning-Bounties/projects/2">https://github.com/orgs/Lightning-Bounties/projects/2</a></td></tr></tbody></table>
 
 Together, these tools ensure we’re not just moving forward but doing so with clarity and purpose.
 
@@ -68,7 +70,7 @@ The Dev Team introduced a _lock time_ feature that holds each bounty’s reward 
 
 Overall, lock times protect hunters by assuring them the reward is available, while expiration safeguards bounty posters by letting them recover any unclaimed rewards for future bounties or other development tasks. This balance of certainty and flexibility makes bounty-driven collaboration smoother and more efficient.
 
-<figure><img src="../../../.gitbook/assets/lock_expiry_ss.JPG" alt=""><figcaption><p>Issue Lock Reward in Test</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/lock_expiry_ss.JPG" alt=""><figcaption><p>Issue Lock Reward in Test</p></figcaption></figure>
 
 This feature is currently in our test app but willl be implemented in our main app in the coming weeks.&#x20;
 
@@ -86,14 +88,14 @@ Teresa’s presentation has reinforced the importance of thorough in-depth resea
 
 With this in mind, we are lucky to be part of Top Builder where we can connect with founders who've secured investments in the Bitcoin space which will be a priority for us. Their insights and advice will be crucial as we navigate the unique challenges of building a Bitcoin-native business.
 
-<div align="center" data-full-width="false"><figure><img src="../../../.gitbook/assets/bitcoin_beyond_the_hype.JPG" alt=""><figcaption><p>Bitcoin Beyond the Hype</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/bitcoin_beyond_the_hype_img2 (1).JPG" alt="screenshot"><figcaption><p>Remember to Research  </p></figcaption></figure></div>
+<div align="center" data-full-width="false"><figure><img src="../../.gitbook/assets/bitcoin_beyond_the_hype.JPG" alt=""><figcaption><p>Bitcoin Beyond the Hype</p></figcaption></figure> <figure><img src="../../.gitbook/assets/bitcoin_beyond_the_hype_img2 (1).JPG" alt="screenshot"><figcaption><p>Remember to Research  </p></figcaption></figure></div>
 
 ## Wrapping it Up:
 
-&#x20;After Week 1, we’re feeling energized and focused on the road ahead. From setting up our roadmap to launching new features and absorbing valuable lessons from the Pleblab mentors and fellow builders, this week has laid a strong foundation for what’s to come. The Top Builder competition is already proving to be an incredible opportunity to grow, learn, and connect with other passionate builders in the Bitcoin space. We can’t wait to see what Week 2 brings as we continue to push Lightning Bounties forward!
+The Lightning Bounties team is dedicated to sustaining our current momentum and is excited to see continued growth from the ideas and projects generated this week. These will significantly contribute to the wider Lightning Network community. For those interested in joining our mission, we welcome your involvement to help make an impact.
 
-Looking ahead, the Lightning Bounties team are committed to maintaining this momentum. We are excited to see how the ideas and projects generated during this week will continue to evolve and contribute to the broader Lightning Network community. Stay tuned for more updates, and if you're interested in joining our efforts, we encourage you to get involved and make a difference.
+After an energizing Week 1, we are focused on advancing our roadmap, launching new features, and applying insights from Pleblab mentors and fellow builders. This week has laid a solid foundation for future initiatives.
 
-
+The Top Builder competition has already emerged as an excellent avenue for growth, learning, and networking with other passionate Bitcoin builders. We eagerly anticipate the developments of  Week 2 as we continue advancing Lightning Bounties!
 
 [^1]: 
