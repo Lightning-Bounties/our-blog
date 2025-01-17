@@ -34,8 +34,6 @@ Here's a simplified diagram of its functionality:
 
 ## **Key Features of Branta**
 
-## Branta Features Overview
-
 Branta enhances your Bitcoin experience with the following key features:
 
 1. **Wallet Verification**
@@ -71,13 +69,11 @@ When making a Bitcoin transaction, Branta ensures your intended recipient addres
 
 <figure><img src="../../../.gitbook/assets/branta_diagram_transaction_protection.JPG" alt=""><figcaption></figcaption></figure>
 
-## **Lightning Bounties Partnership**
+## **Branta x Lightning Bounties Partnership**
 
 <figure><img src="../../../.gitbook/assets/branta_lb_partnership.JPG" alt="branta_lightningbounties_partnership_banner"><figcaption></figcaption></figure>
 
 We at Lightning Bounties are thrilled to be partnered with Branta! We've integrated Branta directly into our application, providing an unparalleled level of security for our users. We can't think of a better way to keep our users safe than having Branta as our security layer. This integration ensures that every transaction, whether on-chain or through the Lightning Network, is protected by Branta's advanced security features.
-
-
 
 For more details on how Lightning Bounties is utilizing Branta, visit Branta's [blog post here. ](https://www.branta.pro/blog?tag=lightningbounties)
 
@@ -93,14 +89,21 @@ Some of his top tips for guarding against phishing and man-in-the-middle attacks
 
 By combining robust software protection with user education, Branta aims to create a comprehensive security solution for Bitcoin users of all levels of experience.
 
+
+
+{% embed url="https://youtu.be/aWQjEh5TC8U?si=-nInQFyXbKV1hJCy" %}
+Here's Why Yoy Should Build on Branta :point\_up\_2:
+{% endembed %}
+
 ## Conclusion
 
 Branta is transforming Bitcoin security. Whether you're self-custodying your first sats or managing a significant stack as a seasoned Bitcoiner, Branta offers peace of mind by addressing critical vulnerabilities like phishing attacks, wallet authenticity, and address verification. It doesn’t hold your seed phrase and integrates seamlessly into existing setups or applications.
 
 Bitcoiners deserve tools that make transacting safe without sacrificing sovereignty. Branta delivers exactly that—an invisible layer of protection that ensures you're sending to the right place and using authentic software. It’s simple to add, powerful in its protection, and essential for anyone serious about securing their Bitcoin.
 
-
-
 Branta isn’t just a product; it’s a solution helping Bitcoiners sleep better at night.&#x20;
 
+To discover more about Branta, click on the images below to explore their website, Twitter, and GitHub!
+
 <table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-type="files"></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><a href="https://www.branta.pro/"><strong>Website</strong></a></td><td></td><td><a href="../../../.gitbook/assets/branta (1).png">branta (1).png</a></td><td><a href="https://www.branta.pro/">https://www.branta.pro/</a></td></tr><tr><td align="center"><a href="https://x.com/BrantaOps"><strong>Twitter</strong></a></td><td></td><td><a href="../../../.gitbook/assets/x_twitter_card.png">x_twitter_card.png</a></td><td><a href="https://x.com/BrantaOps">https://x.com/BrantaOps</a></td></tr><tr><td align="center"><a href="https://github.com/BrantaOps"><strong>GitHub</strong></a></td><td></td><td><a href="../../../.gitbook/assets/github_card.png">github_card.png</a></td><td><a href="https://github.com/BrantaOps">https://github.com/BrantaOps</a></td></tr></tbody></table>
+
