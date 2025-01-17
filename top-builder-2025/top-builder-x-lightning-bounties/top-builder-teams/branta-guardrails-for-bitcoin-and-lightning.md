@@ -99,10 +99,8 @@ Branta is transforming Bitcoin security. Whether you're self-custodying your fir
 
 Bitcoiners deserve tools that make transacting safe without sacrificing sovereignty. Branta delivers exactly that—an invisible layer of protection that ensures you're sending to the right place and using authentic software. It’s simple to add, powerful in its protection, and essential for anyone serious about securing their Bitcoin.
 
-Branta isn’t just a product; it’s a solution helping Bitcoiners sleep better at night.\
 
 
-\
+Branta isn’t just a product; it’s a solution helping Bitcoiners sleep better at night.&#x20;
 
-
-To learn more about Branta, visit their [website](https://www.branta.pro/).
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-type="files"></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><a href="https://www.branta.pro/"><strong>Website</strong></a></td><td></td><td><a href="../../../.gitbook/assets/branta (1).png">branta (1).png</a></td><td><a href="https://www.branta.pro/">https://www.branta.pro/</a></td></tr><tr><td align="center"><a href="https://x.com/BrantaOps"><strong>Twitter</strong></a></td><td></td><td><a href="../../../.gitbook/assets/x_twitter_card.png">x_twitter_card.png</a></td><td><a href="https://x.com/BrantaOps">https://x.com/BrantaOps</a></td></tr><tr><td align="center"><a href="https://github.com/BrantaOps"><strong>GitHub</strong></a></td><td></td><td><a href="../../../.gitbook/assets/github_card.png">github_card.png</a></td><td><a href="https://github.com/BrantaOps">https://github.com/BrantaOps</a></td></tr></tbody></table>
