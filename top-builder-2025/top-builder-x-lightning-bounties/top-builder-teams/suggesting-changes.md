@@ -92,9 +92,13 @@ Congratulations, you submitted a pull request! 🎉 The Lightning Bounties team 
 ## Earning Rewards
 
 1. Visit [https://app.lightningbounties.com](https://app.lightningbounties.com/)
-2.
+2. Look for bounties titled "Help Improve Our Blog & Docs and Earn Sats!"
+3. Claim a bounty by linking your pull request
+4. Once approved, you'll receive sats as a reward!
 
+## Additional Info
 
+1. For a more detailed walkthrough on how to submit a pull request on the blog article file through Lightning Bounties see [here](https://docs.lightningbounties.com/docs/solve-a-bounty/working-on-the-bounty)
+2. Also, feel free to contact us at [mike@lightningbounties.com](mailto:mike@lightningbounties.com)
 
-
-
+Thank you for helping us improve our documentation!
