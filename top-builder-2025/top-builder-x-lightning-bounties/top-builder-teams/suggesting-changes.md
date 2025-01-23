@@ -7,13 +7,13 @@ description: Learn how to edit and add new media, pages and sections
 Want to make our documentation even better? First of all, thank you! This page will guide you through our contribution process, including:
 
 * The steps you need to follow to make contributions and edits on our blog.&#x20;
-* How to claim a bounty on app.lightningbounties.com for your contrinutions.&#x20;
+* How to claim a bounty on [app.lightningbounties.com](https://app.lightningbounties.com/) for your contrinutions.&#x20;
 
 To edit our docs, you must have a GitHub account. If you already have one, make sure you are logged in. If you don't, please [create one](https://github.com/join).
 
 ## Understanding GitBook's integration with GitHub <a href="#understanding-gitbooks-integration-with-github" id="understanding-gitbooks-integration-with-github"></a>
 
-We use a platform called [GitBook](https://www.gitbook.com/) to host, manage and serve our documentation. GitBook fetches files from our GitHub repository **opencollective/documentation**, reads them and converts them into the pages you can access on [docs.lightningbounties.com](https://docs.lightningbounties.com). A generic structure of a documentation hosted on GitBook would look like this:\
+We use a platform called [GitBook](https://www.gitbook.com/) to host, manage and serve our documentation. GitBook fetches files from our GitHub repository [**Lightning-Bounties/our-blog**](https://github.com/Lightning-Bounties/our-blog/issues/4), reads them and converts them into the pages you can access on [docs.lightningbounties.com](https://docs.lightningbounties.com). A generic structure of a documentation hosted on GitBook would look like this:\
 
 
 {% tabs %}
