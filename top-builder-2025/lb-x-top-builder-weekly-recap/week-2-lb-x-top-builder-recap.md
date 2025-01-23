@@ -22,13 +22,7 @@ layout:
 
 ## PlebLab's Week 2 Recap: Lightning Bounties
 
-In this weeks edition, we’ll explore the key milestones and achievements from the second week of the Top Builder competition. For week 2, Lightning Bounties focused on expanding our business development efforts, documenting our journey, and fostering collaboration with other teams. From publishing our [**Week 1 Recap**](week-1-lb-x-top-builder-recap.md) and featuring[ **Branta**](../top-builder-x-lightning-bounties/top-builder-teams/branta-guardrails-for-bitcoin-and-lightning.md) as a partner to launching a metrics dashboard and simplifying documentation contributions, we’ve made significant progress. Join us as we reflect on these accomplishments and look ahead to what’s next!
-
-## Development Milestones&#x20;
-
-We're excited to share our recent progress and upcoming plans for Lightning Bounties. Here's a rundown of our latest achievements and what's on the horizon:
-
-***
+In this weeks edition, we’ll explore the key milestones and achievements from the second week of Pleb Lab's Top Builder competition. For week 2, Lightning Bounties focused on expanding our business development efforts, documenting our journey, and implementing our Time Lock and Bounty Expiry feature onto our production app. Join us as we dive into an eventful Week 2 of Top Builder and explore what these developments mean for Lightning Bounties!
 
 ### **Time Lock and Expiry Feature Now Live on Lightning Bounties!**
 
@@ -53,7 +47,7 @@ This feature makes bounty hunting less risky for contributors while giving proje
 * This led to improved health checks and more reliable integration with GitHub.
 * A key improvement: GitHub now guarantees that merging a PR will close associated issues, enhancing our workflow reliability.
 
-### **What's Next: Milestone 2 Planning**
+### **What's Next: Dev Milestone 2 Planning**
 
 **Key Focus Areas**
 
@@ -67,17 +61,9 @@ This feature makes bounty hunting less risky for contributors while giving proje
 * Implementing time tracking for development periods
 * Collaborating with @BrantaOps for expiry feature testing
 
-We're excited about these developments and the direction we're heading. Stay tuned for more updates as we continue to build-on and improve Lightning Bounties!
+We're excited about these developments and the direction we're heading. Stay tuned for more updates as we continue to build and improve Lightning Bounties!
 
-## Business Development Milestones&#x20;
-
-In Week 2, the Business Development team achieved key milestones, including publishing our  [**Week 1 Recap**](week-1-lb-x-top-builder-recap.md), featuring [**Branta**](../top-builder-x-lightning-bounties/top-builder-teams/branta-guardrails-for-bitcoin-and-lightning.md) in a blog post, and launching initiatives like a metrics dashboard and rolling out our first iteration with documentation bounties.
-
-Now, let’s dive into what happened on the business development front in Week 2!
-
-***
-
-### **Documenting Our Journey: Week 1 Recap and Branta Spotlight**
+### **Documenting Our Journey: Week 1 Recap & Diving Into Branta**&#x20;
 
 For week 2, we kicked off our journey in the Top Builder competition by publishing our [**Week 1 Recap**](week-1-lb-x-top-builder-recap.md), highlighting our interactions with fellow Top Builder Teams, what we learned from the Week 1 workshops, development progress and lessions we learned along the way. This[ blog post](week-1-lb-x-top-builder-recap.md) provides a transparent look into our progress while celebrating collaborative milestones. We also featured [**Branta**](../top-builder-x-lightning-bounties/top-builder-teams/branta-guardrails-for-bitcoin-and-lightning.md), a Top Builder team and valued partner of Lightning Bounties, in a dedicated article. [Branta’s ](https://www.branta.pro/)important solutions, such as wallet verification, transaction protection, and Lightning Network integration, provide essential safeguards for Bitcoin users, aligning perfectly with our mission to enhance security and usability in the Bitcoin ecosystem.
 
@@ -85,7 +71,7 @@ For week 2, we kicked off our journey in the Top Builder competition by publishi
 
 We’re excited to continue featuring Top Builder teams in future posts and invite others to contact [**mike@lightningbounties.com**](mailto:mike@lightningbounties.com) for an interview to share their story with the community!
 
-### Metrics Dashboard for Lightning Bounties
+### Alanytics Dashboard for Lightning Bounties
 
 Thanks to Enrique's efforts, the Biz Dev team has developed an internal dashboard to visualize key metrics for our bug bounty platform. This dashboard tracks essential data, including the percentage of open versus solved bounties, average and total sats per bounty, the number of developers, unique repositories, and Twitter follower growth. These insights will enhance our understanding of user engagement and help us refine our strategies. In the coming weeks, we will actively monitor these metrics and make necessary adjustments to ensure our platform remains attractive to both bounty issuers and hunters.
 
@@ -103,39 +89,33 @@ This effort not only improves the quality of our written content but also encour
 
 ## YoPaki Mentorship Session
 
-The YoPaki Mentorship workshop, led by Francisco, whom we met at the 2024 PlebLab Startup Day in Mexico City, provided valuable insights for developers and entrepreneurs looking to build on Bitcoin Lightning. Francisco anticipates a significant influx of developers entering this space within the next 12-18 months, highlighting the growing importance of Lightning Network applications. The workshop emphasized the challenges of getting apps approved on Apple and Android app stores, particularly for those dealing with Bitcoin payments. Key advice included being prepared for initial rejections, appealing decisions after multiple rejections, and carefully framing the app's functionality to avoid raising red flags with app store reviewers.
+The YoPaki Mentorship workshop, led by Francisco, whom we met at the 2024 PlebLab Startup Day in Mexico City, provided valuable advice for developers and entrepreneurs looking to build on Bitcoin & Lightning. Francisco anticipates a significant influx of developers entering this space within the next 12-18 months, highlighting the growing importance of Lightning Network applications. The workshop emphasized the challenges of getting apps approved on Apple and Android app stores, particularly for those dealing with Bitcoin payments. Key advice included being prepared for initial rejections, appealing decisions after multiple rejections, and carefully framing the app's functionality to avoid raising red flags with app store reviewers.
 
 The session also touched on the complexities of navigating Geo-IP restrictions and jurisdictional rules, emphasizing the need for patience and collaboration with other Bitcoin companies to overcome these hurdles. Francisco encouraged Top Builder teams to collaborate with each other and stressed the importance of discerning good advice from bad when receiving feedback. For those seeking funding, the workshop highlighted that VCs often look for founders with a track record of successful fundraising and teams capable of delivering on their roadmaps. Setting realistic goals and maintaining momentum throughout the development process were identified as crucial factors for success in the Lightning Network ecosystem.
 
-To learn more about YoPaki, click the images below to view their presentation and elevator pitch at PlebLab’s 2024 startup day, and YoPaki's website. Also, stay tuned for their Android app store release coming soon and if you have an iPhone check out YoPaki's website to download the app and start stacking sats!&#x20;
+To learn more about YoPaki, click the images below to view their presentation and elevator pitch at PlebLab’s 2024 startup day. Also, stay tuned for their Android app store release coming soon and if you have an iPhone check out YoPaki's website to download the app and start stacking sats!&#x20;
 
 <table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><a href="https://www.yopaki.com/"><strong>Website</strong></a></td><td><a href="../../.gitbook/assets/yopaki_logo_no_bg.png">yopaki_logo_no_bg.png</a></td><td><a href="https://www.yopaki.com/">https://www.yopaki.com/</a></td></tr><tr><td align="center"><a href="https://youtu.be/jVtekBhztdg?si=CganMIjin4ZqdcoS"><strong>Presentation</strong></a></td><td><a href="../../.gitbook/assets/yopaki2_yt.PNG">yopaki2_yt.PNG</a></td><td><a href="https://youtu.be/jVtekBhztdg?si=kS81SSx4KWg7EH6h">https://youtu.be/jVtekBhztdg?si=kS81SSx4KWg7EH6h</a></td></tr><tr><td align="center"><a href="https://x.com/BitcoinNewsCom/status/1838688514038280276"><strong>Elevator Pitch</strong></a></td><td><a href="../../.gitbook/assets/yopaki_pitch.PNG">yopaki_pitch.PNG</a></td><td><a href="https://x.com/BitcoinNewsCom/status/1838688514038280276">https://x.com/BitcoinNewsCom/status/1838688514038280276</a></td></tr></tbody></table>
 
 ## PlebLab Early Days Interview with Lightning Bounties&#x20;
 
-The interview with Car was an engaging and insightful experience for our team, as we reflected on the journey of building Lightning Bounties and the lessons learned along the way. Car's thought-provoking questions, such as how hackathons shaped our team and why Lightning Network was chosen for rewards, gave us the opportunity to share our story in depth. We appreciated the chance to discuss how our team came together through hackathons, starting with a mix of skills and backgrounds, and how those connections evolved into a strong, collaborative unit. It was fun recounting moments like winning the MIT Bitcoin Hackathon and how those early experiences shaped our vision for Lightning Bounties.&#x20;
+Our interview with Car on PlebTV's Early Days Podcast was a highlight of the week. It was a great opportunity to reflect on how Lightning Bounties came to life and share our journey so far. Car asked insightful questions about our decision to build on the Lightning Network, how we’ve tackled challenges like managing development alongside operations, and the lessons we’ve learned along the way.&#x20;
 
-Car's curiosity about our platform's evolution and the challenges we’ve faced made the conversation dynamic and reflective. We enjoyed sharing insights about balancing development with operations, navigating centralization risks with GitHub, and ensuring seamless user experiences for both developers and organizations. The interview also highlighted the importance of fostering collaboration within the open-source community and onboarding more people to Bitcoin through meaningful use cases. It was a pleasure being part of this discussion, and we’re excited to tune into other Top Builder teams’ interviews to learn from their journeys as well!
+We also discussed how using Lightning Bounties for our own development has helped us refine the platform while staying connected to the needs of both developers and organizations. The conversation touched on fun topics like AI in coding and the future of decentralized technologies, making it both thought-provoking and fun.&#x20;
+
+It was a blast being featured on the podcast, and we’re looking forward to tuning into other Top Builder teams’ stories in upcoming episodes!
 
 {% embed url="https://youtu.be/9gMe6KlH3uk?si=y_b8ueofVAks0b5l" %}
 PlebLab Early Days Interview with Lightning Bounties
 {% endembed %}
 
+## Bitcoin Design UX & UI Workshop with Sam Brewton
 
+Sam Brewton’s recent workshop on Bitcoin interface and experience design was both insightful and inspiring. His focus on creating designs that support mass adoption resonated deeply with our team as we work to make Lightning Bounties accessible to a broad range of diverse users.&#x20;
 
-## Bitcoin Design UX & UI with Sam Brewton
+Sam highlighted three key principles that we’re excited to apply. First, he stressed the importance of reducing friction in Bitcoin transactions by carefully designing every step of the user journey. Small details, like animations providing feedback during transactions, can go a long way in building user confidence. Second, he underscored the value of accessibility by designing for edge cases, such as users with disabilities, which ultimately improves usability for everyone. Lastly, Sam emphasized real-world testing with actual users to uncover issues that might not surface otherwise—a hands-on approach we plan to incorporate into our development process.&#x20;
 
-**Sam Brewton's Presentation on Bitcoin Interface and Experience Design: A Detailed Overview**
-
-Sam Brewton recently delivered a presentation that we found to be incredibly insightful, especially concerning Bitcoin interface and experience design. His intense focus on crafting designs that cater to mass adoption really resonated with our team because we are actively working on developing a platform that is appealing and accessible to a wide variety of users.
-
-Throughout the presentation, Sam emphasized several key points that we can explore further when building Lightning Bounties. First, he stressed the importance of user experience (UX) in reducing anxiety and friction around Bitcoin transactions. This involves carefully considering every touchpoint in the product journey, from initial interaction to final transaction. Sam's example of using animations to provide feedback during transactions highlighted how small design elements can significantly impact user confidence.
-
-Secondly, Sam discussed the value of accessibility and universal design principles. He explained that by designing for edge cases, such as users with disabilities, we can create products that work better for everyone. This approach not only broadens the potential user base but also future-proofs designs as technology evolves. Sam's critique of overly complex designs, like the multi-functional eating utensil, drove home the point that simplicity often leads to better usability.
-
-Lastly, Sam emphasized the importance of real-world testing with actual users. He recommended conducting in-person testing sessions with at least three people per session to identify usability issues that might otherwise be missed. This hands-on approach allows developers to observe user behaviors directly, which can differ significantly from what users say they do or want.
-
-Sam's presentation has given us a lot to think about as we work on creating a user-friendly Bitcoin platform that can drive mass adoption and onboard new developers, many of which are using Bitcoin for the first time. His emphasis on simplicity, accessibility, and real-world testing will be crucial guideposts as we develop Lightning Bounties.
+This workshop gave us actionable insights as we continue building a platform that welcomes new developers and drives Bitcoin adoption. Simplicity, accessibility, and user-focused testing will remain at the core of our design philosophy moving forward.
 
 To see Sam's entire workshop click the video below :arrow\_down:
 
@@ -143,9 +123,7 @@ To see Sam's entire workshop click the video below :arrow\_down:
 Bitcoin Design UX & UI with Sam Brewton
 {% endembed %}
 
-
-
-## Wrapping it Up
+## Wrapping Up Week 2
 
 As we wrap up our Week 2 recap, we’re pleased with the progress made at Lightning Bounties. The deployment of the Time Lock and Expiry feature and improvements to our documentation and analytics have enhanced our platform's functionality. Additionally, insights from the YoPaki Mentorship session and Sam Brewton's presentation on Bitcoin design have provided valuable guidance as we work to improve user experience.&#x20;
 
