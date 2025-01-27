@@ -24,19 +24,46 @@ Topics You Can Expect:
 2. Platform updates and new features
 3. Recaps of industry events
 4. Lightning Network Startup Spotlight
-5. Op-eds on Bitcoin, Lightning, and open-source development
-6. Lightning Bounties in the media
-7. Posts by the Lightning Bounties team
+5. Lightning Bounties in the media
+6. Posts by the Lightning Bounties team
 
 
 
 ## Events&#x20;
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td><a href=".gitbook/assets/Devs to follow (1).svg">Devs to follow (1).svg</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="top-builder-2025/top-builder-x-lightning-bounties/"><strong>Lightning Bounties: Top Builder 2025</strong></a></td><td></td><td><a href=".gitbook/assets/teams_card3.png">teams_card3.png</a></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><a href="lightning-bounties-recap-of-pleblabs-startup-day-2024-cmdx.md"><strong>Lightning Bounties: PlebLab Startup Day 2024</strong></a></td><td></td><td><a href=".gitbook/assets/PlebLab_Banner.png">PlebLab_Banner.png</a></td><td><a href="lightning-bounties-recap-of-pleblabs-startup-day-2024-cmdx.md">lightning-bounties-recap-of-pleblabs-startup-day-2024-cmdx.md</a></td></tr><tr><td><a href="enrique-gamboa/lightning-bounties-at-tabconf-2024-a-four-day-adventure-into-the-heart-of-bitcoin-innovation.md"><strong>Lightning Bounties at Tab Conf 2024</strong></a></td><td></td><td><a href=".gitbook/assets/tabconf6logoyellow512x512.png">tabconf6logoyellow512x512.png</a></td><td><a href="enrique-gamboa/lightning-bounties-at-tabconf-2024-a-four-day-adventure-into-the-heart-of-bitcoin-innovation.md">lightning-bounties-at-tabconf-2024-a-four-day-adventure-into-the-heart-of-bitcoin-innovation.md</a></td></tr><tr><td><a href="enrique-gamboa/winning-the-mit-hackathon-2024.md"><strong>Lightning Bounties: Winning MIT BTC Hackathon 2024</strong></a></td><td></td><td><a href=".gitbook/assets/GKFQNf2XEAAN3Ce.jpg">GKFQNf2XEAAN3Ce.jpg</a></td><td><a href="enrique-gamboa/winning-the-mit-hackathon-2024.md">winning-the-mit-hackathon-2024.md</a></td></tr></tbody></table>
 
 
 
-<table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th align="center"></th><th align="center"></th><th align="center"></th><th align="center"></th><th data-type="content-ref"></th><th data-type="content-ref"></th><th data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center"><a href="https://x.com/pavelkononov93"><strong>Pavel Kononov</strong></a></td><td align="center"><strong>Engineering</strong></td><td align="center"><em>Concentration in Security &#x26; Backend, previously built a merchant payments app, and worked on chip design CAD. Currently completing CS degree.</em></td><td align="center"><img src=".gitbook/assets/image (39).png" alt="" data-size="line"> <a href="https://x.com/pavelkononov93"><strong>Twitter</strong></a>     <img src=".gitbook/assets/image (38).png" alt="" data-size="line"> <a href="https://github.com/super-jaba"><strong>GitHub</strong></a>       <img src=".gitbook/assets/image (40).png" alt="" data-size="line">  <a href="https://www.linkedin.com/in/kononovp/"><strong>LinkedIn</strong></a></td><td></td><td></td><td></td><td><a href=".gitbook/assets/pavel_blog_image.png">pavel_blog_image.png</a></td></tr><tr><td align="center"><a href="https://x.com/JEGamboaFuentes"><strong>Enrique Gamboa</strong></a></td><td align="center"><strong>Business Development</strong></td><td align="center"><em>DataEngineer, previous founder at MetaverseProfessional (NFT’s for merch shops). Motivated to bring tech and Bitcoin to Latin America.</em></td><td align="center"><img src=".gitbook/assets/image (39).png" alt="" data-size="line">  <a href="https://x.com/JEGamboaFuentes"><strong>Twitter</strong> </a>      <img src=".gitbook/assets/image (38).png" alt="" data-size="line"> <a href="https://github.com/jegamboafuentes"><strong>GitHub</strong> </a>        <img src=".gitbook/assets/Nostr_Icon" alt="" data-size="line"> <a href="https://primal.net/p/npub1wn587kxv8kh2nrm2njgpcth4egswhqpf8js883gqdj904ka2flsshcw44t"><strong>Nostr</strong> </a> </td><td></td><td></td><td></td><td><a href=".gitbook/assets/enrique_blog_image.png">enrique_blog_image.png</a></td></tr><tr><td align="center"><a href="https://x.com/SonnyTheDegen"><strong>Mike Abramo</strong></a></td><td align="center"><strong>Business Development</strong></td><td align="center"><p><em>DeFi researcher, key player in BostonDAO.</em> </p><p></p><p><em>Inspired by the potential of Bitcoin to upend centralized power structures.</em>  </p></td><td align="center"><img src=".gitbook/assets/image (39).png" alt="" data-size="line">  <a href="https://x.com/SonnyTheDegen"><strong>Twitter</strong> </a>      <img src=".gitbook/assets/image (38).png" alt="" data-size="line"> <a href="https://github.com/SonnyMonroe"><strong>GitHub</strong> </a>       <img src=".gitbook/assets/Nostr_Icon" alt="" data-size="line"> <a href="https://primal.net/p/npub1cd85dyka9us80hk386n3vmy6tewr3fltzwcydxy2wqrcalx75vqqg33na8"><strong>Nostr</strong> </a><a href="https://primal.net/p/npub1cd85dyka9us80hk386n3vmy6tewr3fltzwcydxy2wqrcalx75vqqg33na8"> </a></td><td></td><td></td><td></td><td><a href=".gitbook/assets/mike_blog_image.png">mike_blog_image.png</a></td></tr><tr><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td></td><td></td><td></td><td><a href=".gitbook/assets/will_blog_image.png">will_blog_image.png</a></td></tr></tbody></table>
+## Blogs By Lightning Bounties Team
+
+
+
+<table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th align="center"></th><th data-type="content-ref"></th><th data-type="content-ref"></th><th data-type="content-ref"></th><th data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><a href="https://x.com/pavelkononov93"><strong>Pavel Kononov</strong></a></td><td></td><td></td><td></td><td></td><td><a href=".gitbook/assets/pavel_blog_image.png">pavel_blog_image.png</a></td><td></td></tr><tr><td align="center"><a href="enrique-gamboa/"><strong>Enrique Gamboa</strong></a></td><td><a href="enrique-gamboa/winning-the-mit-hackathon-2024.md">winning-the-mit-hackathon-2024.md</a></td><td><a href="enrique-gamboa/lightning-bounties-at-tabconf-2024-a-four-day-adventure-into-the-heart-of-bitcoin-innovation.md">lightning-bounties-at-tabconf-2024-a-four-day-adventure-into-the-heart-of-bitcoin-innovation.md</a></td><td></td><td></td><td><a href=".gitbook/assets/enrique_blog_image.png">enrique_blog_image.png</a></td><td></td></tr><tr><td align="center"><a href="mike-abramo/"><strong>Mike Abramo</strong></a></td><td><a href="mike-abramo/wtf-if-lightning-network.md">wtf-if-lightning-network.md</a></td><td><a href="lightning-bounties-recap-of-pleblabs-startup-day-2024-cmdx.md">lightning-bounties-recap-of-pleblabs-startup-day-2024-cmdx.md</a></td><td><a href="mike-abramo/exploring-lightning-bounties-the-intersection-of-open-source-and-bitcoin.md">exploring-lightning-bounties-the-intersection-of-open-source-and-bitcoin.md</a></td><td></td><td><a href=".gitbook/assets/mike_blog_image.png">mike_blog_image.png</a></td><td><a href="mike-abramo/">mike-abramo</a></td></tr><tr><td align="center"><a href="blog-post-1/"><strong>Will Sutton</strong></a></td><td><a href="blog-post-1/l-apps-and-building.md">l-apps-and-building.md</a></td><td><a href="blog-post-1/thoughts-on-saylor.md">thoughts-on-saylor.md</a></td><td><a href="blog-post-1/thoughts-on-l402.md">thoughts-on-l402.md</a></td><td><a href="the-power-of-bounties-in-innovation-a-historical-and-modern-perspective.md">the-power-of-bounties-in-innovation-a-historical-and-modern-perspective.md</a></td><td><a href=".gitbook/assets/will_blog_image.png">will_blog_image.png</a></td><td></td></tr></tbody></table>
+
+
+
+&#x20;
+
+## Mastering Lightning Bounties: Detailed Tutorials & New Feature Updates:
+
+Welcome to the Lightning Bounties blog section, where you can find in-depth tutorials and the latest platform updates. Our tutorials will help you navigate the Lightning Bounties platform, covering everything from initial setup to advanced features, ensuring you can make the most of your experience.&#x20;
+
+Stay informed about new features and enhancements to the Lightning Bounties platform, so you can leverage the latest tools and improvements.&#x20;
+
+Whether you're a newcomer or an experienced user, this section is your go-to resource for mastering Lightning Bounties.
+
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><p><strong>Step-by-Step Tutorials:</strong> </p><p></p><p>Enhance your skills with concise tutorials that guide you through using Lightning Bounties effectively. From account setup to advanced features, our tutorials are tailored for all skill levels.</p></td><td><a href=".gitbook/assets/tutorial_card.png">tutorial_card.png</a></td></tr><tr><td><p><strong>Latest Updates</strong>: </p><p></p><p>Stay informed about new features and enhancements to the Lightning Bounties platform, so you can leverage the latest tools and improvements.</p></td><td><a href=".gitbook/assets/platform_card.png">platform_card.png</a></td></tr></tbody></table>
+
+
+
+
+
+## Lightning Bounties In the Media
+
+
+
+<table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td></td><td></td></tr><tr><td></td><td><a href=".gitbook/assets/lightningbounties_yt (1).PNG">lightningbounties_yt (1).PNG</a></td></tr><tr><td></td><td><a href=".gitbook/assets/branta_lb_partnership.JPG">branta_lb_partnership.JPG</a></td></tr></tbody></table>
 
 
 
