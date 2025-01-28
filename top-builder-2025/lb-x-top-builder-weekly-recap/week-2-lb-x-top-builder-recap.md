@@ -71,7 +71,7 @@ For week 2, we kicked off our journey in the Top Builder competition by publishi
 
 We’re excited to continue featuring Top Builder teams in future posts and invite others to contact [**mike@lightningbounties.com**](mailto:mike@lightningbounties.com) for an interview to share their story with the community!
 
-### Alanytics Dashboard for Lightning Bounties
+### Analytics Dashboard for Lightning Bounties
 
 Thanks to Enrique's efforts, the Biz Dev team has developed an internal dashboard to visualize key metrics for our bug bounty platform. This dashboard tracks essential data, including the percentage of open versus solved bounties, average and total sats per bounty, the number of developers, unique repositories, and Twitter follower growth. These insights will enhance our understanding of user engagement and help us refine our strategies. In the coming weeks, we will actively monitor these metrics and make necessary adjustments to ensure our platform remains attractive to both bounty issuers and hunters.
 
