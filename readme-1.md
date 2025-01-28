@@ -1,7 +1,17 @@
 ---
 description: Welcome & Table of Contents
 hidden: true
-layout: landing
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: false
+  outline:
+    visible: false
+  pagination:
+    visible: true
 ---
 
 # Draft Copy of Lightning Bounties Blog
@@ -16,7 +26,7 @@ Our blog serves as a hub for the latest updates, insights, and success stories f
 
 
 
-Lightning Bounties is a Bitcoin-powered bug bounty platform integrated with GitHub. We connect developers with organizations through open-source challenges and instant Bitcoin rewards. This blog provides success stories, industry updates, and key information about the Lightning Network and software security. Developers seeking new challenges and organizations looking for solutions will find valuable insights here.
+Lightning Bounties is a Bitcoin-powered bug bounty platform integrated with GitHub. We connect developers with organizations through open-source bounties and instant Bitcoin rewards. This blog provides success stories, industry updates, and key information about the Lightning Network and software security. Developers seeking new challenges and organizations looking for solutions will find valuable insights here.
 
 Topics You Can Expect:
 
@@ -27,9 +37,11 @@ Topics You Can Expect:
 5. Lightning Bounties in the media
 6. Posts by the Lightning Bounties team
 
+Whether you're hunting bounties or securing your codebase, dive into stories of bugs turned into Bitcoin, platform updates, and the future of decentralized development.
 
+## Lightning Bounties Event Recaps&#x20;
 
-## Events&#x20;
+Catch our team in action—attending, presenting, and collaborating at Bitcoin and Lightning Network gatherings worldwide.
 
 <table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="top-builder-2025/top-builder-x-lightning-bounties/"><strong>Lightning Bounties: Top Builder 2025</strong></a></td><td></td><td><a href=".gitbook/assets/teams_card3.png">teams_card3.png</a></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><a href="lightning-bounties-recap-of-pleblabs-startup-day-2024-cmdx.md"><strong>Lightning Bounties: PlebLab Startup Day 2024</strong></a></td><td></td><td><a href=".gitbook/assets/PlebLab_Banner.png">PlebLab_Banner.png</a></td><td><a href="lightning-bounties-recap-of-pleblabs-startup-day-2024-cmdx.md">lightning-bounties-recap-of-pleblabs-startup-day-2024-cmdx.md</a></td></tr><tr><td><a href="enrique-gamboa/lightning-bounties-at-tabconf-2024-a-four-day-adventure-into-the-heart-of-bitcoin-innovation.md"><strong>Lightning Bounties at Tab Conf 2024</strong></a></td><td></td><td><a href=".gitbook/assets/tabconf6logoyellow512x512.png">tabconf6logoyellow512x512.png</a></td><td><a href="enrique-gamboa/lightning-bounties-at-tabconf-2024-a-four-day-adventure-into-the-heart-of-bitcoin-innovation.md">lightning-bounties-at-tabconf-2024-a-four-day-adventure-into-the-heart-of-bitcoin-innovation.md</a></td></tr><tr><td><a href="enrique-gamboa/winning-the-mit-hackathon-2024.md"><strong>Lightning Bounties: Winning MIT BTC Hackathon 2024</strong></a></td><td></td><td><a href=".gitbook/assets/GKFQNf2XEAAN3Ce.jpg">GKFQNf2XEAAN3Ce.jpg</a></td><td><a href="enrique-gamboa/winning-the-mit-hackathon-2024.md">winning-the-mit-hackathon-2024.md</a></td></tr></tbody></table>
 
@@ -39,7 +51,7 @@ Topics You Can Expect:
 
 
 
-<table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th align="center"></th><th data-type="content-ref"></th><th data-type="content-ref"></th><th data-type="content-ref"></th><th data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><a href="https://x.com/pavelkononov93"><strong>Pavel Kononov</strong></a></td><td></td><td></td><td></td><td></td><td><a href=".gitbook/assets/pavel_blog_image.png">pavel_blog_image.png</a></td><td></td></tr><tr><td align="center"><a href="enrique-gamboa/"><strong>Enrique Gamboa</strong></a></td><td><a href="enrique-gamboa/winning-the-mit-hackathon-2024.md">winning-the-mit-hackathon-2024.md</a></td><td><a href="enrique-gamboa/lightning-bounties-at-tabconf-2024-a-four-day-adventure-into-the-heart-of-bitcoin-innovation.md">lightning-bounties-at-tabconf-2024-a-four-day-adventure-into-the-heart-of-bitcoin-innovation.md</a></td><td></td><td></td><td><a href=".gitbook/assets/enrique_blog_image.png">enrique_blog_image.png</a></td><td></td></tr><tr><td align="center"><a href="mike-abramo/"><strong>Mike Abramo</strong></a></td><td><a href="mike-abramo/wtf-if-lightning-network.md">wtf-if-lightning-network.md</a></td><td><a href="lightning-bounties-recap-of-pleblabs-startup-day-2024-cmdx.md">lightning-bounties-recap-of-pleblabs-startup-day-2024-cmdx.md</a></td><td><a href="mike-abramo/exploring-lightning-bounties-the-intersection-of-open-source-and-bitcoin.md">exploring-lightning-bounties-the-intersection-of-open-source-and-bitcoin.md</a></td><td></td><td><a href=".gitbook/assets/mike_blog_image.png">mike_blog_image.png</a></td><td><a href="mike-abramo/">mike-abramo</a></td></tr><tr><td align="center"><a href="blog-post-1/"><strong>Will Sutton</strong></a></td><td><a href="blog-post-1/l-apps-and-building.md">l-apps-and-building.md</a></td><td><a href="blog-post-1/thoughts-on-saylor.md">thoughts-on-saylor.md</a></td><td><a href="blog-post-1/thoughts-on-l402.md">thoughts-on-l402.md</a></td><td><a href="the-power-of-bounties-in-innovation-a-historical-and-modern-perspective.md">the-power-of-bounties-in-innovation-a-historical-and-modern-perspective.md</a></td><td><a href=".gitbook/assets/will_blog_image.png">will_blog_image.png</a></td><td></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th align="center"></th><th data-type="content-ref"></th><th data-type="content-ref"></th><th data-type="content-ref"></th><th data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><a href="enrique-gamboa/"><strong>Enrique Gamboa</strong></a></td><td><a href="enrique-gamboa/winning-the-mit-hackathon-2024.md">winning-the-mit-hackathon-2024.md</a></td><td><a href="enrique-gamboa/lightning-bounties-at-tabconf-2024-a-four-day-adventure-into-the-heart-of-bitcoin-innovation.md">lightning-bounties-at-tabconf-2024-a-four-day-adventure-into-the-heart-of-bitcoin-innovation.md</a></td><td></td><td></td><td><a href=".gitbook/assets/enrique_blog_image.png">enrique_blog_image.png</a></td><td></td></tr><tr><td align="center"><a href="blog-post-1/"><strong>Will Sutton</strong></a></td><td><a href="blog-post-1/l-apps-and-building.md">l-apps-and-building.md</a></td><td><a href="blog-post-1/thoughts-on-saylor.md">thoughts-on-saylor.md</a></td><td><a href="blog-post-1/thoughts-on-l402.md">thoughts-on-l402.md</a></td><td><a href="the-power-of-bounties-in-innovation-a-historical-and-modern-perspective.md">the-power-of-bounties-in-innovation-a-historical-and-modern-perspective.md</a></td><td><a href=".gitbook/assets/will_blog_image.png">will_blog_image.png</a></td><td></td></tr><tr><td align="center"><a href="mike-abramo/"><strong>Mike Abramo</strong></a></td><td><a href="mike-abramo/wtf-if-lightning-network.md">wtf-if-lightning-network.md</a></td><td><a href="lightning-bounties-recap-of-pleblabs-startup-day-2024-cmdx.md">lightning-bounties-recap-of-pleblabs-startup-day-2024-cmdx.md</a></td><td><a href="mike-abramo/exploring-lightning-bounties-the-intersection-of-open-source-and-bitcoin.md">exploring-lightning-bounties-the-intersection-of-open-source-and-bitcoin.md</a></td><td></td><td><a href=".gitbook/assets/mike_blog_image.png">mike_blog_image.png</a></td><td><a href="mike-abramo/">mike-abramo</a></td></tr><tr><td align="center"><a href="https://x.com/pavelkononov93"><strong>Pavel Kononov</strong></a></td><td></td><td></td><td></td><td></td><td><a href=".gitbook/assets/pavel_blog_image.png">pavel_blog_image.png</a></td><td></td></tr></tbody></table>
 
 
 
@@ -61,9 +73,9 @@ Whether you're a newcomer or an experienced user, this section is your go-to res
 
 ## Lightning Bounties In the Media
 
+Discover how our Bitcoin-powered bug bounty platform is gaining recognition for connecting global developers with projects, turning code contributions into instant Bitcoin rewards.
 
-
-<table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td></td><td></td></tr><tr><td></td><td><a href=".gitbook/assets/lightningbounties_yt (1).PNG">lightningbounties_yt (1).PNG</a></td></tr><tr><td></td><td><a href=".gitbook/assets/branta_lb_partnership.JPG">branta_lb_partnership.JPG</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th align="center"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center"></td><td></td></tr><tr><td align="center"></td><td><a href=".gitbook/assets/lightningbounties_yt (1).PNG">lightningbounties_yt (1).PNG</a></td></tr><tr><td align="center"><a href="https://www.branta.pro/blog/lightningbounties"><strong>Lightning Bounties secures BOLT-11 Deposits with Branta</strong></a></td><td><a href=".gitbook/assets/image (14).png">image (14).png</a></td></tr></tbody></table>
 
 
 
@@ -86,7 +98,7 @@ Main Blog
   * [Building L-Apps](blog-post-1/l-apps-and-building.md)
 * Mike Abramo
   * [WTF is Lightning?](mike-abramo/wtf-if-lightning-network.md)
-  * [exploring-lightning-bounties-the-intersection-of-open-source-and-bitcoin.md](mike-abramo/exploring-lightning-bounties-the-intersection-of-open-source-and-bitcoin.md "mention")
+  * [Lightning Bounties: Exploring the Intersection of Open-Source & Bitcoin](mike-abramo/exploring-lightning-bounties-the-intersection-of-open-source-and-bitcoin.md)
 * Enrique Gamboa
   * [Winning MIT Hackathon](enrique-gamboa/winning-the-mit-hackathon-2024.md)
   * [Lightning Bounties at TABConf 2024](enrique-gamboa/lightning-bounties-at-tabconf-2024-a-four-day-adventure-into-the-heart-of-bitcoin-innovation.md)
