@@ -25,6 +25,18 @@ layout:
 
 
 
+Documenting our journey through PlebLab's Top Builder competition is more than just a weekly update—it's an inside look at the invaluable resources and mentorship shaping the future of Bitcoin innovation. Week 3 was particularly intense, packed with workshops that delivered crucial insights for early-stage startups like Lightning Bounties.This week, we had the privilege of attending four transformative sessions:
+
+Documenting our journey in PlebLab's Top Builder competition goes beyond weekly updates—it's an in-depth exploration of the invaluable resources and mentorship shaping the future of Bitcoin innovation. Week 3 was particularly demanding, filled with workshops offering vital insights for early-stage startups like Lightning Bounties. This week, we had the privilege of attending
+
+1. [Media Strategy with Phil of 21M Communications](week-3-lb-x-top-builder-recap.md#mentor-session-phil-of-21m-communications)
+2. [AMA with Topher Scott on Lightning Network Development](week-3-lb-x-top-builder-recap.md#ama-session-with-topher-scott)
+3. [Product, Users, and Revenue with Santos Hernandez](week-3-lb-x-top-builder-recap.md#product-users-and-revenue-with-santos-hernandez)
+4. Investing in Bitcoin Companies with Dr. Arman Meguerian
+5. [**imestamp Financial: Invest In Bitcoin Startups with as Little as $100**](https://www.timestampfinancial.com/)
+
+Each workshop was so rich with actionable advice that we've decided to focus on highlighting key takeaways rather than diving deep into each one. To do justice to these presentations would require a much longer read, but we encourage fellow builders to seek out these mentors directly.
+
 
 
 ## Mentor Session - Phil of [21M Communications](https://www.21mcommunications.com/)
@@ -34,8 +46,6 @@ layout:
 This session sharpened our approach to media strategy as a Bitcoin startup, emphasizing how to protect our mission from misrepresentation. We learned to anchor messaging in clear problem-solution narratives—for Lightning Bounties, this means spotlighting how instant Bitcoin payouts break barriers for developers globally. Phil stressed targeting Bitcoin-native outlets like [_**Bitcoin News**_](https://bitcoinnews.com/) while cautioning against legacy media’s tendency to twist narratives, as seen in the [Boston Globe’s misleading framing of Caroline Ellison’s fraud as a “crypto issue”](https://www.bostonglobe.com/2022/12/06/business/caroline-ellison-math-whiz-newton-native-was-bound-success-then-she-got-into-crypto/) rather than individual misconduct.
 
 Key insights included tailoring pitches for B2B (project owners) versus B2C (developers), leveraging partnerships for credibility, and collaborating with Bitcoin communities in regions like Africa to address local payment challenges. To counter legacy media’s fixation on price speculation, we’ll pivot interviews to our core mission: fair, borderless compensation for developers. These strategies will ensure our story stays focused during Top Builder, amplifying our impact while safeguarding Bitcoin’s transformative potential.
-
-
 
 ## AMA Session with Topher Scott&#x20;
 
@@ -48,8 +58,6 @@ Want to help shape Lightning Bounties? **You can contribute to our documentation
 <figure><img src="../../.gitbook/assets/uncle-sam.jpg" alt="We Want You To Continute to Lightning Bounties!"><figcaption><p>We Want You To Continute to Lightning Bounties!</p></figcaption></figure>
 
 Want to contribute but don't know how to get started? No problem! **Reach out to** [**mike@lightningbounties.com**](mailto:mike@lightningbounties.com) to get started and claim your first documentation bounty today!
-
-
 
 ## Product, Users, and Revenue with Santos Hernandez
 
@@ -68,43 +76,37 @@ Collaboration within the Top Builder ecosystem, such as cross-promotions with ot
 
 
 
-
-
 {% embed url="https://www.youtube.com/watch?v=lZXOGLZIqbM" %}
 Click here to see Santos' Full Workshop!
 {% endembed %}
 
-
-
-
-
 ## Investing in Bitcoin Companies with Dr. Arman Meguerian
 
+<figure><img src="../../.gitbook/assets/Hero_Pleblab_Timestamp.png" alt="Timestamp and PlebLab the Real MVP&#x27;s"><figcaption><p><span data-gb-custom-inline data-tag="emoji" data-code="261d">☝️</span>The MVP's Right Here <span data-gb-custom-inline data-tag="emoji" data-code="261d">☝️</span></p></figcaption></figure>
 
+[Dr. Arman Meguerian’s](https://x.com/DrBitcoinMD) workshop offered a sobering yet strategic look at fundraising for Bitcoin startups, emphasizing that raising capital is “brutal but sometimes necessary.” For Lightning Bounties, his insights arrived at a pivotal moment as we transition from an LLC to a C-corp—a move critical for attracting investors. Arman stressed the importance of getting corporate structure right early, from equity allocation to bylaws, to avoid costly revisions later. His guidance, coupled with our monthly consultations, has been invaluable in navigating this complex process while maintaining focus on product growth.
 
-Dr. Arman Meguerian’s workshop offered a sobering yet strategic look at fundraising for Bitcoin startups, emphasizing that raising capital is “brutal but necessary.” For Lightning Bounties, his insights arrived at a pivotal moment as we transition from an LLC to a C-corp—a move critical for attracting institutional investors. Arman stressed the importance of getting corporate structure right early, from equity allocation to bylaws, to avoid costly revisions later. His guidance, coupled with our monthly consultations, has been invaluable in navigating this complex process while maintaining focus on product growth.
-
-A key takeaway was the need to “speak the language of fundraising,” particularly when pitching to investors. Arman’s framework for pitch decks—starting with problem-solution narratives and bottom-up market sizing—reshaped how we articulate Lightning Bounties’ value. Instead of claiming “1% of the global developer market,” we now calculate our Total Addressable Market (TAM) based on active Bitcoin contributors, making projections more credible. For early-stage startups like ours, he advised prioritizing proof-of-work milestones (e.g., user traction, partnerships) to build investor confidence without over-diluting equity.
-
-Arman also highlighted alternative funding avenues, like [Timestamp Financial](https://www.timestampfinancial.com/), which enables anyone—not just accredited investors—to back early-stage Bitcoin startups with as little as $100. This democratized approach aligns with our ethos of open collaboration. As we refine our pitch and corporate structure, Arman’s mantra rings true: _“No half-measures.”_ Fundraising demands full commitment, but with a clear roadmap and relentless focus on _why_ our product matters, we’re building momentum to empower developers globally—one sat at a time.
-
-<figure><img src="../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
-
-
+A key takeaway was the need to “speak the language of fundraising,” particularly when pitching to investors. Arman’s framework for pitch decks—starting with problem-solution narratives and bottom-up market sizing—reshaped how we articulate Lightning Bounties’ value. Instead of claiming “1% of the global developer market,” we now calculate our Total Addressable Market (TAM) based on active  [Bitcoin contributors](https://www.developerreport.com/developer-report), making projections more credible. For early-stage startups like ours, he advised prioritizing proof-of-work milestones (e.g., user traction, partnerships) to build investor confidence without over-diluting equity.
 
 {% embed url="https://youtu.be/lNUC5Y-YpUg?si=lEGIogOkPNYtYJMQ" %}
 Click here to see Arman's' Full Workshop!
 {% endembed %}
 
+[**Timestamp Financial: Invest In Bitcoin Startups with as Little as $100**](https://www.timestampfinancial.com/)
 
+As co-founder of [Timestamp Financia](https://www.timestampfinancial.com/)[l,](https://www.timestampfinancial.com/) Arman practices what he preaches. The platform disrupts traditional venture capital by letting _anyone_ invest in early-stage Bitcoin startups with as little as **$100**—no accreditation required. Current listings include [**Jippi**](https://jippi.app/), a Pokémon Go-style game rewarding players with Bitcoin, and [**Shopstr**](https://shopstr.store/), a Nostr-based marketplace slashing eBay’s 15% fees. These projects exemplify Bitcoin’s potential to reimagine industries through decentralized applications.
 
+<figure><img src="../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
 
-
-
-
-
+For Lightning Bounties, Timestamp represents more than funding—it’s a community-powered launchpad. While we’re early in our C-corp transition, the platform’s ethos mirrors our vision of open collaboration. Future listings will invite supporters to back our mission directly, turning users into stakeholders. As we refine our pitch and structure, Timestamp’s model—like Arman’s mantra of “no half-measures”—reminds us that Bitcoin’s future is built by those willing to democratize access, one sat at a time.
 
 ## Wrapping it Up
 
+These workshops have reshaped our approach to everything from user onboarding to fundraising strategy. As we apply these lessons, we're more committed than ever to building in public and iterating quickly based on user feedback.Next week, we'll shift focus to Lightning Bounties' recent developments, including:
 
+* New bounty hunters joining our platform and bounties solved
+* A comprehensive explainer on why GitHub login is necessary (we only request read-only access)
+* Our exciting meeting with MIT BTC Expo, where we're exploring the possibility of mentoring hackers and enabling bounty postings for hackathon projects
+
+We're also making progress on our transition from LLC to C-corp, guided by insights from Dr. Meguerian's workshop and our ongoing consultations.&#x20;
 
