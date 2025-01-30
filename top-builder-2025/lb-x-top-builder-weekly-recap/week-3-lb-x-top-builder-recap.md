@@ -82,9 +82,13 @@ Click here to see Santos' Full Workshop!
 
 
 
+Dr. Arman Meguerian’s workshop offered a sobering yet strategic look at fundraising for Bitcoin startups, emphasizing that raising capital is “brutal but necessary.” For Lightning Bounties, his insights arrived at a pivotal moment as we transition from an LLC to a C-corp—a move critical for attracting institutional investors. Arman stressed the importance of getting corporate structure right early, from equity allocation to bylaws, to avoid costly revisions later. His guidance, coupled with our monthly consultations, has been invaluable in navigating this complex process while maintaining focus on product growth.
 
+A key takeaway was the need to “speak the language of fundraising,” particularly when pitching to investors. Arman’s framework for pitch decks—starting with problem-solution narratives and bottom-up market sizing—reshaped how we articulate Lightning Bounties’ value. Instead of claiming “1% of the global developer market,” we now calculate our Total Addressable Market (TAM) based on active Bitcoin contributors, making projections more credible. For early-stage startups like ours, he advised prioritizing proof-of-work milestones (e.g., user traction, partnerships) to build investor confidence without over-diluting equity.
 
+Arman also highlighted alternative funding avenues, like [Timestamp Financial](https://www.timestampfinancial.com/), which enables anyone—not just accredited investors—to back early-stage Bitcoin startups with as little as $100. This democratized approach aligns with our ethos of open collaboration. As we refine our pitch and corporate structure, Arman’s mantra rings true: _“No half-measures.”_ Fundraising demands full commitment, but with a clear roadmap and relentless focus on _why_ our product matters, we’re building momentum to empower developers globally—one sat at a time.
 
+<figure><img src="../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
 
 
 
