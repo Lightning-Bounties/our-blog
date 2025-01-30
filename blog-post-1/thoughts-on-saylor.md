@@ -12,4 +12,4 @@ It's a good sign when people take the idea of Bitcoin, and see in it another ide
 
 In my opinion, Saylor _is_ onto something insightful with his "wall of energy" hypothesis, but he hasn't been able to quantify it. The analogy I would make is just as the finance profession prices firms by a discounted set of projected cashflows, a blockchain token could be valued by its projected future hashrate. Stated another way: A bitcoin has value 1.) _if and only if_ producers continue to mine it in the future, 2.) the growth in value is proportional to the growth in the hashrate in the long run.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>

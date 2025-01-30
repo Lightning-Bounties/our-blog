@@ -6,7 +6,7 @@ description: >-
 
 # The Power of Bounties in Innovation: A Historical and Modern Perspective
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 _August 10, 2024_
 
