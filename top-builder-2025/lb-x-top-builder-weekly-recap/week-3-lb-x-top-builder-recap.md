@@ -1,6 +1,5 @@
 ---
 description: 1/20/2025 - 1/26/2025
-hidden: true
 cover: ../../.gitbook/assets/Blog Banner TB (3).png
 coverY: 0
 layout:
