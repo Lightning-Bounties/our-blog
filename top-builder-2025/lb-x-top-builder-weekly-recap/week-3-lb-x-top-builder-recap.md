@@ -22,8 +22,6 @@ layout:
 
 ## PlebLab's Week 3 Recap: Lightning Bounties
 
-
-
 Documenting our journey through PlebLab's Top Builder competition is more than just a weekly update—it's an inside look at the valuable resources and mentorship shaping the future of Bitcoin innovation. Week 3 was particularly intense, packed with workshops that delivered crucial insights for early-stage startups like Lightning Bounties. This week, we had the privilege of attending four transformative sessions:
 
 Documenting our journey through PlebLab’s Top Builder competition isn’t just about weekly check-ins—it’s a front-row seat to the groundbreaking ideas and mentorship shaping Bitcoin’s next wave of innovation. Week 3 pushed us to new limits, packed with intensive workshops that delivered critical insights for early-stage startups like Lightning Bounties. This week, we participated in four transformative sessions led by industry pioneers, each unpacking strategies to navigate the unique challenges of building in Bitcoin. From refining user experiences to rethinking fundraising, here’s how these lessons are accelerating **our mission to create a Bitcoin-powered bug bounty platform that rewards developers worldwide—in real time, directly through GitHub—for fixing software bugs.**
@@ -36,7 +34,7 @@ Documenting our journey through PlebLab’s Top Builder competition isn’t just
 2. [AMA with Topher Scott on Lightning Network Development](week-3-lb-x-top-builder-recap.md#ama-session-with-topher-scott)
 3. [Product, Users, and Revenue with Santos Hernandez](week-3-lb-x-top-builder-recap.md#product-users-and-revenue-with-santos-hernandez)
 4. [Investing in Bitcoin Companies with Dr. Arman Meguerian](https://app.gitbook.com/o/BGwrTsFHxhSQHPgv6nD1/s/gvH1HLwrajw9XplSBFfy/)
-5. [**imestamp Financial: Invest In Bitcoin Startups with as Little as $100**](https://www.timestampfinancial.com/)
+5. T**imestamp Financial: Invest In Bitcoin Startups with as Little as $100**
 
 Each workshop was so rich with actionable advice that we've decided to focus on highlighting key takeaways rather than diving deep into each one. To do justice to these presentations would require a much longer read, but we encourage fellow builders to seek out these mentors directly.
 
@@ -93,7 +91,7 @@ A key takeaway was the need to _**“speak the language of fundraising,”**_ pa
 Click here to see Arman's' Full Workshop!
 {% endembed %}
 
-[**Timestamp Financial: Invest In Bitcoin Startups with as Little as $100**](https://www.timestampfinancial.com/)
+[**Timestamp Financial: Invest In Bitcoin Startups with as Little as $100**](https://blog.lightningbounties.com/top-builder-2025/lb-x-top-builder-weekly-recap/week-3-lb-x-top-builder-recap#investing-in-bitcoin-companies-with-dr.-arman-meguerian)
 
 As co-founder of [Timestamp Financia](https://www.timestampfinancial.com/)[l,](https://www.timestampfinancial.com/) Arman practices what he preaches. The platform disrupts traditional venture capital by letting almost _anyone_ invest in early-stage Bitcoin startups with as little as **$100**—no accreditation required. Current listings include [**Jippi**](https://jippi.app/), a Pokémon Go-style game rewarding players with Bitcoin, and [**Shopstr**](https://shopstr.store/), a Nostr-based marketplace slashing eBay’s 15% fees. These projects exemplify Bitcoin’s potential to reimagine industries through decentralized applications.
 
@@ -112,4 +110,3 @@ Next week's edition, we'll shift focus to Lightning Bounties' recent development
 * Exciting discussions at the MIT BTC Expo on mentoring hackers and organizing bounty postings for hackathon projects.
 
 Plus much much more! Tune in next week for TopBuilder Recap week 4!&#x20;
-
