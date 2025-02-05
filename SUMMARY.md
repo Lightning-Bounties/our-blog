@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Lightning Bounties Blog](README.md)
-* [Lightning Bounties Blog](readme-1.md)
+* [Lightning Bounties Blog \[archived\]](readme-1.md)
 * [The Power of Bounties in Innovation: A Historical and Modern Perspective](the-power-of-bounties-in-innovation-a-historical-and-modern-perspective.md)
 * [Lightning Bounties' Recap of PlebLab's Startup Day 2024 - CMDX](lightning-bounties-recap-of-pleblabs-startup-day-2024-cmdx.md)
 * [Will Sutton](blog-post-1/README.md)
