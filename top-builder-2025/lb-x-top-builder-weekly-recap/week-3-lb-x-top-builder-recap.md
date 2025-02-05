@@ -42,7 +42,7 @@ Each workshop was packed with actionable insights that could fill an entire play
 
 ## Mentor Session - Phil of [21M Communications](https://www.21mcommunications.com/)
 
-<figure><img src="../../.gitbook/assets/image.png" alt="https://www.21mcommunications.com/"><figcaption><p><a href="https://www.21mcommunications.com/">https://www.21mcommunications.com/</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt="https://www.21mcommunications.com/"><figcaption><p><a href="https://www.21mcommunications.com/">https://www.21mcommunications.com/</a></p></figcaption></figure>
 
 This session sharpened our approach to media strategy as a Bitcoin startup, emphasizing how to protect our mission from misrepresentation. We learned to anchor messaging in clear problem-solution narratives—_for Lightning Bounties, this means spotlighting how instant Bitcoin payouts break barriers for developers globally._ Phil stressed targeting Bitcoin-native outlets like [_**Bitcoin News**_](https://bitcoinnews.com/) while cautioning against legacy media’s filthy habbit of twisting narratives, as seen in the [Boston Globe’s misleading framing of Caroline Ellison’s fraud as a “crypto issue”](https://www.bostonglobe.com/2022/12/06/business/caroline-ellison-math-whiz-newton-native-was-bound-success-then-she-got-into-crypto/) rather than gross misconduct.
 
@@ -71,7 +71,7 @@ The session also highlighted the critical role of _frictionless user journeys_. 
 **Monetization & Growth: Lessons for Lightning Startups**\
 Santos challenged the myth of delaying revenue, urging startups to monetize early. For Lightning Bounties, this could start with testing a small fee-per-bounty model while focusing on retention through gamification (e.g., achievement badges for top contributors). Email marketing, often overlooked in Bitcoin, offers a 36:1 ROI—a tool we’ll leverage for product updates and educational content. Retention tactics like rewarding loyal users and reactivating inactive ones are 5-25x cheaper than acquisition.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt="Distribution of Content Flow"><figcaption><p>Distribution of Content Flow</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt="Distribution of Content Flow"><figcaption><p>Distribution of Content Flow</p></figcaption></figure>
 
 Collaboration within the Top Builder ecosystem, such as cross-promotions with other teams, amplifies growth organically. Ultimately, the workshop reinforced that Bitcoin startups thrive by balancing user needs with sustainable revenue. This means staying lean, iterating quickly, and keeping the _“build in public”_ ethos at the core—turning every piece of feedback into a step toward reshaping open-source collaboration.
 
