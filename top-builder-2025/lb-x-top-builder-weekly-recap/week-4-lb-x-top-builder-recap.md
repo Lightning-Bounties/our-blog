@@ -64,8 +64,6 @@ Visit [https://shopstr.store/](https://shopstr.store/) to start shopping, or wat
 
 {% embed url="https://youtu.be/tx3Pw3Ap_88?si=FU4sy5H6CdWWEpWN" %}
 
-
-
 ## Lightning Bounties: Milestones & Achievements
 
 Week 4 marks significant strides in our platform's evolution and community engagement. From taking our first steps toward mentoring at the 2025 MIT Bitcoin Expo to improving our documentation with a revamped blog landing page, and conducting our first live coding session trial - each milestone reflects our commitment to building in public and fostering collaboration within the Top Builder competition. Let's dive into these achievements.
@@ -96,11 +94,9 @@ If you have ideas to further simplify or improve our blog content, we’d love t
 
 ### First Live Coding Session (Trial Run)
 
+<figure><img src="../../.gitbook/assets/image (43).png" alt="Screen Shot of First Live Coding Session"><figcaption><p>Screen Shot of First Live Coding Session</p></figcaption></figure>
+
 Our team conducted our first experimental live coding session this week, testing the waters for future community-focused development streams. Using Aider and DeepSeek-R1 AI tools, we worked through UI improvements while exploring how to create engaging, educational content for developers interested in bug bounty hunting. While the session revealed some technical challenges with streaming and AI response times, it provided valuable insights into how we can structure future live coding sessions. This trial run aligns with our mission to make bug bounty hunting more accessible and collaborative, laying the groundwork for Twitch-style streams where developers can learn, contribute, and earn Bitcoin in real-time.
-
-
-
-
 
 ## Bounty of the Week: Contribute to PlebBook.com
 
