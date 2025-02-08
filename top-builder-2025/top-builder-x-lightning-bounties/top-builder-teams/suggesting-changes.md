@@ -81,7 +81,7 @@ _**a.** On certain occasions, you may see a button saying **Edit on GitHub** abo
 **6.** On the **Pull request** page, write a short comment explaining why are proposing those changes (e.g. improving readability, covering cases that weren't mentioned, adding critical details about our platform) and publish your pull request clicking on **Create pull request**.\
 
 
-<figure><img src="../../../.gitbook/assets/image.avif" alt=""><figcaption><p>Screenshot of the Pull request page. It shows a box for the title of the Pull request, another for any comments. Below them, there's a Create pull request button.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).avif" alt=""><figcaption><p>Screenshot of the Pull request page. It shows a box for the title of the Pull request, another for any comments. Below them, there's a Create pull request button.</p></figcaption></figure>
 
 {% hint style="info" %}
 Congratulations, you submitted a pull request! 🎉 The Lightning Bounties team will review it and merge them to our documentation if approved.

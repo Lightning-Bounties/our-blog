@@ -1,6 +1,5 @@
 ---
 description: 1/27/25 - 2/2/25
-hidden: true
 cover: ../../.gitbook/assets/Blog Banner TB (4).png
 coverY: 0
 layout:
@@ -31,6 +30,10 @@ Week 4 of PlebLab's Top Builder competition has been transformative for Lightnin
 
 
 
+* ## Bitcoin Marketing & Media with Brandon Keys
+
+[Bitcoin Marketing & Media with Brandon Keys](copy-of-week-4-lb-x-top-builder-recap.md#bitcoin-marketing-and-media-with-brandon-keys-1)
+
 
 
 
@@ -44,10 +47,6 @@ His practical content creation tips were game-changing, especially around the po
 Want to see Brandon's full presentation? Check out the recording here: :arrow\_down\_small:
 
 {% embed url="https://youtu.be/FHjSL_kCPUk?si=pTSV4zhrB3aeijON" %}
-
-
-
-
 
 
 
@@ -104,7 +103,16 @@ Our team conducted our first experimental live coding session this week, testing
 
 ## Bounty of the Week: Contribute to PlebBook.com
 
+<figure><img src="../../.gitbook/assets/Home (6).svg" alt=""><figcaption></figcaption></figure>
 
+PlebBook stands as the essential builder's manual for the Bitcoin and Lightning ecosystem, serving as a comprehensive resource hub where developers and enthusiasts can learn, contribute, and grow. Think of it as the community-driven documentation that helps bridge the gap between curiosity and capability in the Bitcoin building space.This week's featured bounty presents an exciting opportunity to help refresh PlebBook's content across 24 different categories. The Bitcoin ecosystem evolves rapidly, and keeping documentation current is crucial for newcomers and experienced builders alike. By contributing to PlebBook, you're not just earning sats—you're helping maintain a vital resource that empowers the next generation of Bitcoin builders.Why does this matter? Because documentation is the foundation of adoption. Every line you update, every concept you clarify, and every category you refresh makes Bitcoin development more accessible to someone starting their journey. Plus, you'll earn sats for each successfully updated category while gaining recognition as a PlebBook contributor. Ready to make an impact?&#x20;
+
+Visit [https://app.lightningbounties.com/issue/b32dedf6-67c9-4dd5-bd68-8aa5641a2054](https://app.lightningbounties.com/issue/b32dedf6-67c9-4dd5-bd68-8aa5641a2054) to get started, and help shape the future of Bitcoin education!\
+
+
+{% embed url="https://app.lightningbounties.com/issue/b32dedf6-67c9-4dd5-bd68-8aa5641a2054" %}
+
+<figure><img src="../../.gitbook/assets/image (1).avif" alt="" width="188"><figcaption></figcaption></figure>
 
 ## Looking Ahead: What's Next for Lightning Bounties
 
