@@ -18,7 +18,7 @@ layout:
     visible: true
 ---
 
-# Copy of Week 4: LB x Top Builder Recap
+# Week 4: LB x Top Builder Recap
 
 ## PlebLab's Week 4 Recap: Lightning Bounties
 
@@ -30,11 +30,14 @@ Week 4 of PlebLab's Top Builder competition has been transformative for Lightnin
 
 
 
-* ## Bitcoin Marketing & Media with Brandon Keys
+#### Must Watch Content
 
-[Bitcoin Marketing & Media with Brandon Keys](copy-of-week-4-lb-x-top-builder-recap.md#bitcoin-marketing-and-media-with-brandon-keys-1)
+* [Bitcoin Marketing & Media with Brandon Keys](week-4-lb-x-top-builder-recap.md#bitcoin-marketing-and-media-with-brandon-keys-1)
+* [Must Watch: Shopstr on Early Days Podcast!](https://app.gitbook.com/o/BGwrTsFHxhSQHPgv6nD1/s/K0Wa8Pq0phTb0SwmqL5e/~/changes/89/top-builder-2025/lb-x-top-builder-weekly-recap/week-4-lb-x-top-builder-recap#must-watch-shopstr-on-early-days-podcast)
 
+#### Lightning Bounties: Milestones & Achievements
 
+*
 
 
 
@@ -50,7 +53,7 @@ Want to see Brandon's full presentation? Check out the recording here: :arrow\_d
 
 
 
-### Must Watch: Shopstr on Early Days Podcast!&#x20;
+### Shopstr on Early Days Podcast!&#x20;
 
 Our journey with Shopstr began when we met CalDev at the 2024 PlebLab Startup Day in Mexico City, where his passion for revolutionizing e-commerce immediately resonated with our team. After watching their compelling Early Days podcast interview, we were inspired to try the platform ourselves. We purchased a Shopstr-themed t-shirt, and the experience perfectly demonstrated their vision - a seamless, peer-to-peer marketplace that just works. Unlike traditional platforms like eBay that take a hefty 15% cut from sellers, Shopstr's Bitcoin-native approach using Lightning Network for payments and Nostr for communication creates a more efficient, cost-effective solution for everyone involved.
 
@@ -60,8 +63,6 @@ Visit [https://shopstr.store/](https://shopstr.store/) to start shopping, or wat
 
 
 {% embed url="https://youtu.be/tx3Pw3Ap_88?si=FU4sy5H6CdWWEpWN" %}
-
-
 
 
 
