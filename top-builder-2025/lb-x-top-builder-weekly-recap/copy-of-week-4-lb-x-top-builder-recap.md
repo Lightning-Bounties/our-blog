@@ -23,6 +23,8 @@ layout:
 
 ## PlebLab's Week 4 Recap: Lightning Bounties
 
+Week 4 of PlebLab's Top Builder competition has been transformative for Lightning Bounties. From laying groundwork as future mentors at the 2025 MIT Bitcoin Expo to enhancing our platform's documentation with a revamped blog landing page, and launching our first experimental live coding session - each milestone demonstrates our commitment to building value for the Bitcoin ecosystem. These achievements not only showcase our progress in the competition but also highlight our dedication to making bug bounty hunting more accessible and rewarding for developers worldwide. Let's dive into these developments that are shaping our journey through Top Builder.
+
 
 
 ### This Week's Journey: A Snapshot
@@ -66,9 +68,9 @@ Visit [https://shopstr.store/](https://shopstr.store/) to start shopping, or wat
 
 ## Lightning Bounties: Milestones & Achievements
 
+Week 4 marks significant strides in our platform's evolution and community engagement. From taking our first steps toward mentoring at the 2025 MIT Bitcoin Expo to improving our documentation with a revamped blog landing page, and conducting our first live coding session trial - each milestone reflects our commitment to building in public and fostering collaboration within the Top Builder competition. Let's dive into these achievements.
 
-
-
+Let's dive into each of these developments.
 
 ### Initial Steps Toward Mentoring in the 2025 MIT Bitcoin Expo Hackathon
 
@@ -78,11 +80,23 @@ Our journey with the MIT Bitcoin Expo holds a special place in Lightning Bountie
 
 ### Blog Landing Page Improvements
 
+The evolution of our blog's landing page reflects our commitment to building comprehensive, accessible documentation for the Lightning Bounties community. By restructuring our content into clear categories - from event recaps and team insights to media coverage and upcoming tutorials - we're making it easier for users to navigate our growing knowledge base.&#x20;
+
+Whether you're exploring our platform updates, diving into technical guides, or following our building journey through the Bitcoin ecosystem, the improved layout ensures a smoother path to the information you need. It's all part of our iterative approach to building in public and growing alongside our community of builders and bounty hunters.&#x20;
+
+Click the video below to see a quick visual of the before and after!
+
+{% embed url="https://youtu.be/hw-4-GrF_JM" %}
+
+{% hint style="info" %}
+If you have ideas to further simplify or improve our blog content, we’d love to hear from you! Visit our platform at [app.lightningbounties.com ](https://app.lightningbounties.com/issue/40bbd95b-929b-4502-92d3-2028159fb79c)and help us make our documentation better for everyone. Your contributions matter!
+{% endhint %}
+
 
 
 ### First Live Coding Session (Trial Run)
 
-
+Our team conducted our first experimental live coding session this week, testing the waters for future community-focused development streams. Using Aider and DeepSeek-R1 AI tools, we worked through UI improvements while exploring how to create engaging, educational content for developers interested in bug bounty hunting. While the session revealed some technical challenges with streaming and AI response times, it provided valuable insights into how we can structure future live coding sessions. This trial run aligns with our mission to make bug bounty hunting more accessible and collaborative, laying the groundwork for Twitch-style streams where developers can learn, contribute, and earn Bitcoin in real-time.
 
 
 
