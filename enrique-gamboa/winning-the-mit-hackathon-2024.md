@@ -18,4 +18,4 @@ The atmosphere at the [hackathon ](https://devpost.com/software/lightning-bounty
 
 **Read the full article here:** [**https://jegamboafuentes.medium.com/our-epic-win-at-the-mit-bitcoin-hackathon-2024-34fab944e78d**](https://jegamboafuentes.medium.com/our-epic-win-at-the-mit-bitcoin-hackathon-2024-34fab944e78d)
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>

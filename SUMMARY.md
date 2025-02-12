@@ -21,7 +21,7 @@
   * [Top Builder Teams](top-builder-2025/top-builder-x-lightning-bounties/top-builder-teams/README.md)
     * [Suggesting Changes](top-builder-2025/top-builder-x-lightning-bounties/top-builder-teams/suggesting-changes.md)
     * [Branta: Guardrails for Bitcoin & Lightning](top-builder-2025/top-builder-x-lightning-bounties/top-builder-teams/branta-guardrails-for-bitcoin-and-lightning.md)
-    * [Shopstr: a Marketplace to Buy & Sell Anything Anonymously with Bitcoin](top-builder-2025/top-builder-x-lightning-bounties/top-builder-teams/shopstr-a-marketplace-to-buy-and-sell-anything-anonymously-with-bitcoin.md)
+    * [Shopstr: a Marketplace to Buy & Sell Anything Anonymously with Bitcoin:](top-builder-2025/top-builder-x-lightning-bounties/top-builder-teams/shopstr-a-marketplace-to-buy-and-sell-anything-anonymously-with-bitcoin.md)
     * [Page 3](top-builder-2025/top-builder-x-lightning-bounties/top-builder-teams/page-3.md)
     * [Page 4](top-builder-2025/top-builder-x-lightning-bounties/top-builder-teams/page-4.md)
     * [Top Builder](top-builder-2025/top-builder-x-lightning-bounties/top-builder-teams/top-builder/README.md)
