@@ -49,10 +49,6 @@ The session dove into practical aspects of Lightning development, with Austin hi
 
 What particularly resonated with our team was [Austin's ](https://x.com/bitcoinplebdev)perspective on how Nostr and Lightning Network complement each other, creating possibilities for authentication and payments that weren't previously possible. His experience both as DevRel at[ Voltage](https://www.voltage.cloud/) and building [PlebDevs.com](https://x.com/pleb_devs) offers valuable lessons as we continue developing Lightning Bounties' features and community engagement tools.
 
-
-
-
-
 ### Ted Thayer (FeedFilter AI)
 
 Ted Thayer from FeedFilter.AI delivered an invaluable mentorship session focused on the critical aspects of building and pitching Bitcoin startups. Drawing from his experience with three early-stage startups, Ted emphasized the fundamental importance of thorough market research and understanding user problems. His current venture, FeedFilter.AI, which helps users filter out unwanted content from social media feeds, served as a practical example of identifying and solving real user pain points. For our team at Lightning Bounties, his insights about conducting market research early and often resonated deeply with our mission to make bug bounty hunting more accessible and rewarding.&#x20;
@@ -86,30 +82,38 @@ Check out the full Early Days interview here: :arrow\_down:
 Full Early Days Interview ft. Branta
 {% endembed %}
 
-
-
-
-
-
-
 ## Competition updates:
 
 
 
-### &#x20;Round 2 team announcements
+### &#x20;Top Builder Round 2 Team Announcements
 
+{% embed url="https://youtu.be/230vP2UutXU?si=0kV1x1uPTR-Sit7P" %}
+Car Announces Top Builder Round 2 Teams!
+{% endembed %}
 
+Lightning Bounties is thrilled and honored to announce our advancement to Round 2 of PlebLab's Top Builder competition! The caliber of projects moving forward with us is truly impressive, showcasing the incredible innovation happening in the Lightning Network ecosystem. Each team brings unique solutions and powerful visions for Bitcoin's future, making this next phase both exciting and challenging.
+
+Click the project cards below to explore what each Round 2 team is building and discover the next wave of Lightning Network innovation.
+
+<table data-view="cards" data-full-width="false"><thead><tr><th align="center"></th><th align="center"></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><a href="https://www.branta.pro/"><strong>BRANTA</strong></a></td><td align="center">Branta offers payment verification for various Bitcoin and Lightning technologies.</td><td><a href="../../.gitbook/assets/branta (1).png">branta (1).png</a></td><td><a href="https://www.branta.pro/">https://www.branta.pro/</a></td></tr><tr><td align="center"><a href="https://jippi.app/"><strong>JIPPI</strong></a></td><td align="center">Pokémon GO for Bitcoin.</td><td><a href="../../.gitbook/assets/image (26).png">image (26).png</a></td><td><a href="https://jippi.app/">https://jippi.app/</a></td></tr><tr><td align="center"><a href="https://shopstr.store/"><strong>SHOPSTR</strong></a></td><td align="center">Shopstr is a global, decentralized Nostr marketplace for Bitcoin commerce.</td><td><a href="../../.gitbook/assets/shopstr.jpg">shopstr.jpg</a></td><td><a href="https://shopstr.store/">https://shopstr.store/</a></td></tr><tr><td align="center"><a href="https://www.assign.money"><strong>ASSIGN MONEY</strong></a></td><td align="center">Assign is Bitcoin for teams. Teams create an account, invite members, and assign payments such as salaries, pensions, bonuses, etc.</td><td><a href="../../.gitbook/assets/monirate.jpg">monirate.jpg</a></td><td><a href="https://www.assign.money">www.assign.money </a></td></tr><tr><td align="center"><a href="https://bitcoinonly.events/"><strong>BITCOIN ONLY EVENTS</strong></a></td><td align="center">Carefully curated and comprehensive calendar of major conferences, summits, and gatherings within the Bitcoin-only space</td><td><a href="../../.gitbook/assets/BitcoinEvents_Logo.png">BitcoinEvents_Logo.png</a></td><td><a href="https://bitcoinonly.events/">https://bitcoinonly.events/</a></td></tr><tr><td align="center"><a href="https://clubbink.vercel.app/"><strong>CLUB BINK</strong></a></td><td align="center">Toolkit to bootstrap local peer-to-peer markets within high-trust Bitcoin communities, allowing members to keep their privacy intact and save on commissions.</td><td><a href="../../.gitbook/assets/image (33).png">image (33).png</a></td><td><a href="https://clubbink.vercel.app/">https://clubbink.vercel.app/</a></td></tr><tr><td align="center"><a href="https://sats.gg/"><strong>SATS.GG</strong></a></td><td align="center">Video streaming platform like Twitch.tv, but integrated with Lightning and Nostr.</td><td><a href="../../.gitbook/assets/image (35).png">image (35).png</a></td><td><a href="https://sats.gg/">https://sats.gg/</a></td></tr><tr><td align="center"><a href="https://cozybot.my.canva.site/"><strong>COZYBOT</strong></a></td><td align="center">A gamified platform for AI agents to be created by non-technical users.</td><td><a href="../../.gitbook/assets/cozybot.JPG">cozybot.JPG</a></td><td><a href="https://cozybot.my.canva.site/">https://cozybot.my.canva.site/</a></td></tr><tr><td align="center"><a href="https://www.bitcoinflash.xyz/"><strong>FLASH</strong></a></td><td align="center">Combines Lightning and Mobile Money technologies to make access to Bitcoin simple and easy for people in Africa.</td><td><a href="../../.gitbook/assets/image (30).png">image (30).png</a></td><td><a href="https://www.bitcoinflash.xyz/">https://www.bitcoinflash.xyz/</a></td></tr><tr><td align="center"><a href="https://bitsspend.com/"><strong>BITSPEND</strong></a></td><td align="center">BitSpend aims to develop a secure, pluggable, and lightweight Bitcoin payment client that enables applications to process Bitcoin payments on &#x26; off-chain natively.</td><td><a href="../../.gitbook/assets/image (31).png">image (31).png</a></td><td><a href="https://bitsspend.com/">https://bitsspend.com/</a></td></tr><tr><td align="center"><a href="https://github.com/PlebLab/Top-Builder-Season-2/issues/17"><strong>INHERIT FINANCE</strong></a></td><td align="center">Self-custodial Bitcoin recovery solution, enabling users to time-lock their BTC to guard against wrench attacks &#x26; quantum threats, with an optional dead man's switch for recovery in case of key loss or unexpected life events.</td><td><a href="../../.gitbook/assets/inherit_logo.JPG">inherit_logo.JPG</a></td><td><a href="https://github.com/PlebLab/Top-Builder-Season-2/issues/17">https://github.com/PlebLab/Top-Builder-Season-2/issues/17</a></td></tr><tr><td align="center"><a href="https://blockstamp.app/">BLOCKSTAMP.APP</a></td><td align="center">Allow users to "stamp the blockchain" to commemorate meaningful events (birth of a kid, wedding dates, etc.). </td><td><a href="../../.gitbook/assets/blockstamp_app.JPG">blockstamp_app.JPG</a></td><td><a href="https://blockstamp.app/">https://blockstamp.app/</a></td></tr></tbody></table>
 
 
 
 ### Lightning Bounties' Round 1 Recap In 100 Seconds
 
-\
+Want to see Lightning Bounties' journey through Round 1? Check out our "Lightning Bounties Round 1 Recap in 100 Seconds" below for a rapid-fire tour of our key milestones and achievements!\
+
+
+{% embed url="https://youtu.be/cpS3ZaGbWcU?si=VdFDlcsqEeJSiAOU" %}
+Lightning Bounties Round 1 Recap in 100 Seconds
+{% endembed %}
+
 
 
 ## Closing Thoughts:
 
-
+As we gear up for Round 2, let's take a moment to reflect on our journey through Round 1. Below are some key milestones we've achieved during these intensive weeks of building, learning, and growing. These achievements have laid a strong foundation for what's ahead, and we're excited to keep pushing the boundaries of what's possible with Lightning Bounties.
 
 
 
