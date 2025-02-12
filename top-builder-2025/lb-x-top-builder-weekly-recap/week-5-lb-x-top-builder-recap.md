@@ -1,6 +1,5 @@
 ---
 description: 2/3/25 - 2/9/25
-hidden: true
 cover: ../../.gitbook/assets/Blog Banner TB (5).png
 coverY: 0
 layout:
@@ -43,13 +42,13 @@ What particularly resonated with our team was [Austin's ](https://x.com/bitcoinp
 
 Ted Thayer from FeedFilter.AI delivered an invaluable mentorship session focused on the critical aspects of building and pitching Bitcoin startups. Drawing from his experience with three early-stage startups, Ted emphasized the fundamental importance of thorough market research and understanding user problems. His current venture, FeedFilter.AI, which helps users filter out unwanted content from social media feeds, served as a practical example of identifying and solving real user pain points. For our team at Lightning Bounties, his insights about conducting market research early and often resonated deeply with our mission to make bug bounty hunting more accessible and rewarding.&#x20;
 
-The session transformed how we view Lightning Bounties' market potential and pitch strategy. Ted's advice to "build your startup deck, then delete 90% of your words" helped us refine our core message: anyone with a GitHub account can earn Bitcoin instantly through open-source contributions. His warning about Bitcoin founders underselling their total addressable market (TAM) hit home - our platform's reach extends to every developer and organization using GitHub worldwide. Ready to earn Bitcoin for your coding skills or find talented developers to solve your issues? Visit app.lightningbounties.com to start your journey today!
+The session transformed how we view Lightning Bounties' market potential and pitch strategy. Ted's advice to "build your startup deck, then think about removing 90% of your words" helped us refine our core message: anyone with a GitHub account can earn Bitcoin instantly through open-source contributions. His warning about Bitcoin founders underselling their total addressable market (TAM) hit home - our platform's reach extends to every developer and organization using GitHub worldwide. Ready to earn Bitcoin for your coding skills or find talented developers to solve your issues? Visit [app.lightningbounties.com](https://app.lightningbounties.com/) to start your journey today!
 
 ### Bitcoin UX For the Streets by Stephen Delorme
 
 Stephen DeLorme delivered an eye-opening workshop on Bitcoin UI/UX design that demonstrated the power of combining AI tools with traditional design principles. The interactive session showcased how tools like Midjourney can revolutionize the design process - what typically takes weeks of UI component development, Stephen accomplished in minutes through well-crafted AI prompts that combined specific requirements with style references.
 
-For Lightning Bounties, learning that [ShadCN ](https://ui.shadcn.com/)works seamlessly with AI coding tools like Cursor was a game-changer. As our preferred component library, we initially had concerns about AI compatibility with newer design frameworks like [ShadCN](https://ui.shadcn.com/). Stephen's demonstrations eliminated these doubts, providing us with a clear pathway to enhance our live coding sessions. We're already implementing these insights as we test AI coding tools, using his workshop as a practical guide to sharpen our development process.
+For [Lightning Bounties](https://app.lightningbounties.com/), learning that [ShadCN ](https://ui.shadcn.com/)works seamlessly with AI coding tools like Cursor was a game-changer. As our preferred component library, we initially had concerns about AI compatibility with newer design frameworks like [ShadCN](https://ui.shadcn.com/). Stephen's demonstrations eliminated these doubts, providing us with a clear pathway to enhance our live coding sessions. We're already implementing these insights as we test AI coding tools, using his workshop as a practical guide to sharpen our development process.
 
 The workshop's emphasis on UI/UX testing strategies, particularly gathering multiple perspectives while making users comfortable with statements like "We are testing the UI/UX, not you," perfectly aligns with our mission to create an intuitive platform.&#x20;
 
@@ -95,4 +94,6 @@ Lightning Bounties Round 1 Recap in 100 Seconds
 
 ## Closing Thoughts:
 
-As we gear up for Round 2, let's take a moment to reflect on our journey through Round 1. Below are some key milestones we've achieved during these intensive weeks of building, learning, and growing. These achievements have laid a strong foundation for what's ahead, and we're excited to keep pushing the boundaries of what's possible with Lightning Bounties.
+As we move into Round 2 of Top Builder, the competition is fiercer than ever. We're already brainstorming ideas for a 'home run' feature or partnership that would energize the entire PlebDev ecosystem and strengthen our bid for the final five. The caliber of projects advancing alongside us is incredible, pushing us to think bigger and build better.&#x20;
+
+We want to hear from you! What features would make Lightning Bounties an essential tool in your development workflow? Are you looking to streamline your software bug management with Bitcoin rewards? Whether you're a potential partner or a developer with ideas, reach out to us - we'd love to explore how we can build something amazing together!
