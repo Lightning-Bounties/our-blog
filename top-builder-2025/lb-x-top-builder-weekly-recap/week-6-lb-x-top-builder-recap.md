@@ -135,7 +135,25 @@ _“PR isn’t about hype—it’s about proving you’re solving real problems.
 
 
 
-## Meet the Builders Stream
+### Must Watch Cozy on Early Days Podcast
+
+### **Kiki’s Journey to Building Cozy**
+
+{% embed url="https://youtu.be/yw-KBGvafIk?si=yhjbyNCJ-GEaid1F" %}
+Full Early Days Interview ft. Kiki from Cozy :point\_up\_2:
+{% endembed %}
+
+\
+Kiki’s path to tech innovation defies convention. A former yogi, artist, and dog trainer, she stumbled into coding while helping an artist collective explore virtual reality (VR) and 3D modeling. Her Venezuelan upbringing—marked by hyperinflation and distrust in centralized systems—fueled her fascination with Bitcoin’s decentralized promise. After enrolling in a VR program and winning third place at her first Bitcoin hackathon in Austin, Kiki merged her creative instincts with technical rigor. This fusion birthed _Cozy_, a gaming experience blending Tamagotchi-like digital pets with Bitcoin-powered utility. Players train AI agents to perform real-world tasks—like purchasing items via Lightning or managing social media—while earning sats through challenges. For Kiki, Cozy isn’t just a game; it’s a gateway to financial sovereignty, where playful interactions teach Bitcoin’s value without jargon.
+
+### **Cozy’s Vision: Where Play Meets Pragmatism**
+
+\
+Cozy reimagines gaming as a tool for everyday Bitcoin adoption. Set in a vibrant, interconnected world, players customize AI agents that handle practical tasks—think virtual pets that pay invoices or crowdfund projects. Kiki envisions a deep in-game economy reflecting real-world transactions, powered entirely by Bitcoin. Drawing inspiration from machine-to-machine payment trends and Nostr’s decentralized social layer, she aims to eliminate friction between play and utility. Within 18 months, Kiki plans to assemble a team to expand Cozy’s ecosystem, emphasizing community collaboration—a lesson from her hackathon days. For newcomers intimidated by Bitcoin’s complexity, Cozy offers a whimsical on-ramp: “Delight,” she says, “is the best teacher.” As VR and AI reshape digital interaction, Kiki’s work proves creativity and decentralized principles can coexist—one playful agent at a time.
+
+
+
+## Meet the Top Builders Stream
 
 {% embed url="https://www.youtube.com/live/j-QgBCFyGM0?si=3jIOFhd88XSYHRhl" %}
 Click to Watch the Entire Session :point\_up\_2:
@@ -143,9 +161,9 @@ Click to Watch the Entire Session :point\_up\_2:
 
 
 
-The 2025 Pleb Lab Top Builder competition has become a launchpad for Bitcoin’s most audacious innovators. In a recent virtual roundtable, eight teams shared their progress, struggles, and visions for reshaping Bitcoin’s ecosystem—from gamified education to decentralized marketplaces. Each project reflects a unique approach to onboarding the next million users while staying true to Bitcoin’s core ethos.
+The 2025 Pleb Lab Top Builder competition has become a launchpad for Bitcoin’s most audacious innovators. In a recent virtual roundtable, seven teams shared their progress, struggles, and visions for reshaping Bitcoin’s ecosystem—from gamified education ([Jippi](https://jippi.app/)) to decentralized commerce ([Shopstr](https://shopstr.store/)) and self-custody solutions ([Inherit](https://x.com/Inherit_to)). Each project reflects a unique approach to onboarding the next million users while staying true to Bitcoin’s core ethos: collaboration over corporations, sovereignty over surveillance.&#x20;
 
-Here’s an inside look at the builders pushing boundaries.
+Here’s a closer look at the teams pushing Bitcoin’s boundaries.
 
 ## Meet the Teams
 
@@ -181,8 +199,6 @@ Here’s an inside look at the builders pushing boundaries.
 * **Origin Story:** I befriended an elderly man seeking a self-custodial way to pass on his Bitcoin without changing his wallet setup, inspired by John McAfee's "dead man switch" concept.
 * **Quote:** _“Your keys shouldn’t die with you.”_
 
-
-
 ### 5. [Cozy](https://cozybot.my.canva.site/)
 
 * **Team:** [Kiki](https://x.com/kikidesignsfun)
@@ -207,29 +223,13 @@ Here’s an inside look at the builders pushing boundaries.
 * **Origin Story:** Andrew founded BitcoinOnly Events after years of attending grassroots Bitcoin meetups, where he saw firsthand how fragmented event organization had become. Frustrated by reliance on centralized platforms like Eventbrite, he envisioned a decentralized alternative that aligned with Bitcoin’s ethos. Inspired by the Lightning Network’s scalability and community-driven growth, he built a tool to empower organizers, amplify Bitcoin-only principles, and foster local adoption through education-first gatherings.
 * **Quote:** _“Bitcoin’s community thrives when it gathers.”_
 
-### 8. Lightning Bounties&#x20;
-
-* **Team:**&#x20;
-* **Description:**&#x20;
-* **Mission:**
-* **Progress**:
-* **Quote:**&#x20;
-
-A Bitcoin-native bug bounty platform where developers solve GitHub issues for Bitcoin.&#x20;
+From [Lightning Bounties’](https://app.lightningbounties.com/) mission to turn developers into Bitcoin contributors to [Shopstr’s ](https://shopstr.store/)uncensorable marketplace, these builders prove Bitcoin’s potential stretches far beyond “digital gold.” Whether safeguarding generational wealth ([Inherit](https://x.com/Inherit_to)), securing transactions ([Branta](https://www.branta.pro/)), or reimagining AI assistants ([Cozy](https://cozybot.my.canva.site/)), their work fuels an ecosystem where innovation thrives without gatekeepers. As [BitcoinOnly Events ](https://bitcoinonly.events/)connects communities and [Jippi ](https://jippi.app/)gamifies onboarding, one truth emerges: Bitcoin’s future isn’t built in silos. It’s forged by builders who stack sats—and principles—together.
 
 
 
 
 
-### Must Watch Cozy on Early Days Podcast
 
-
-
-Check out the full Early Days interview here: :arrow\_down:
-
-{% embed url="https://youtu.be/yw-KBGvafIk?si=yhjbyNCJ-GEaid1F" %}
-Full Early Days Interview ft. Kiki from Cozy :point\_up\_2:
-{% endembed %}
 
 
 
