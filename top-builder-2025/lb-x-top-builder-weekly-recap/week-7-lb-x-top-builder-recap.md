@@ -1,6 +1,7 @@
 ---
+description: 2/17/25 - 2/23/25
 hidden: true
-cover: ../../../.gitbook/assets/Blog Banner TB (7).png
+cover: ../../.gitbook/assets/Blog Banner TB (7).png
 coverY: 0
 layout:
   cover:
