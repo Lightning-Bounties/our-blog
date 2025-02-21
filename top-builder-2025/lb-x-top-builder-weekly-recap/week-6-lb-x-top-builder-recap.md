@@ -20,7 +20,7 @@ layout:
 
 # Week 6: LB x Top Builder Recap
 
-This week, Lightning Bounties doubled down on growth—sharpening strategy with mentors like Alby’s Moritz Kaminski, tightening legal safeguards via Jim Chester’s no-nonsense advice, and refining PR tactics with Phil's media mastery. Meanwhile, the _Top Builder_ teams—from Cozy’s AI-powered gaming to Inherit’s custody solutions—proved Bitcoin’s potential stretches far beyond transactions. On our own platform, two new features (_Anonymous Rewards_ and _Add Without Login_) began dismantling barriers to collaboration, letting anyone contribute sats—privately or effortlessly. Here’s how Week 6 pushed us closer to a decentralized future.
+This week, Lightning Bounties doubled down on growth—sharpening strategy with mentors like Alby’s Moritz Kaminski, tightening legal safeguards via Jim Chester’s no-nonsense advice, and refining PR tactics with Phil's media mastery. On our own platform, two new features (_Anonymous Rewards_ and _Add Without Login_) began dismantling barriers to collaboration, letting anyone contribute sats—privately or effortlessly. Here’s what went down in Week 6 of PlebLab's Top Builder competition.
 
 ## Mentor Session - Moritz Kaminski of Alby
 
@@ -28,9 +28,9 @@ This week, Lightning Bounties doubled down on growth—sharpening strategy with 
 
 [**Moritz Kaminski**](https://www.moritzkaminski.com/), co-founder of the Bitcoin Lightning wallet [Alby ](https://albyhub.com/)and former venture capitalist, has spent years bridging the gap between startup pragmatism and Bitcoin’s decentralized ethos—a perspective he shared candidly during the mentorship session. Known for his work streamlining micropayments for [podcasters ](https://www.podcastjunkies.com/moritz-kaminski-interview/)and web developers, Kaminski offered hard-won lessons on balancing user needs with business growth in Bitcoin’s unique ecosystem.
 
-During our mentorship session with Moritz Kaminski from Alby, his deep understanding of two-sided markets in Bitcoin shone through. He pointed out a crucial insight about bounty platforms: **while finding hunters is relatively straightforward, securing organizations to post bounties presents the real challenge.** His experience with Alby's scattered bounty system across GitHub, separate bounty platforms, and their website highlighted the need for consolidation. The suggestion to start with simpler bounties - focusing on front-end fixes or documentation - before tackling complex Lightning-specific issues resonated strongly. His emphasis on tiered difficulty levels to manage submission quality felt particularly relevant.
+During our mentorship session Moritz showcased, his deep understanding of two-sided markets in Bitcoin shone through. He pointed out a crucial insight about bounty platforms: **while finding hunters is relatively straightforward, securing organizations to post bounties presents the real challenge.** His experience with Alby's scattered bounty system across GitHub, separate bounty platforms, and their website highlighted the need for consolidation. The suggestion to start with simpler bounties - focusing on front-end fixes or documentation - before tackling complex Lightning-specific issues resonated strongly. His emphasis on tiered difficulty levels to manage submission quality felt particularly relevant.
 
-On the fundraising front, Moritz didn't sugarcoat his advice. He stressed **quick closure when a fund shows interest rather than shopping for better terms**. For pre-seed valuations, he shared that companies with solid user traction could reasonably target a $3 million cap. The fundraising strategy he outlined was refreshingly practical: rank potential investors from most to least desirable, and work down the list systematically.
+On the fundraising front, Moritz didn't sugarcoat his advice. He stressed **quick closure when a fund shows interest rather than shopping for better terms**. For pre-seed valuations, he shared that companies with solid user traction could reasonably target a $3 million pre-seed valuation cap. The fundraising strategy he outlined was refreshingly practical: rank potential investors from most to least desirable, and work down the list systematically.
 
 When discussing controversial feature requests, Moritz emphasized staying true to core mission over chasing every suggestion. This philosophy extends to his approach with Layer 2 protocols - while [Alby](https://albyhub.com/) explores options like [Ark](https://ark-protocol.org/), they carefully weigh whether new integrations justify the resources required. His measured responses and frequent pauses to think demonstrated the depth of consideration he gives to each decision in building Bitcoin products.
 
@@ -42,7 +42,7 @@ When discussing controversial feature requests, Moritz emphasized staying true t
 Click to Watch the Entire Session :point\_up\_2:
 {% endembed %}
 
-Navigating Bitcoin’s legal gray zones demands equal parts innovation and prudence. In a recent mentorship session with **Jim Chester**, a 25-year tech lawyer and SMU professor, Lightning Bounties absorbed hard truths about startup pitfalls. Chester—a veteran of Bitcoin ventures like Timestamp Financial—stressed that _legal hygiene isn’t optional_, even in decentralized ecosystems.
+Navigating Bitcoin’s legal gray zones demands equal parts innovation and prudence. In a recent mentorship session with **Jim Chester**, a 25-year tech lawyer and SMU professor, Lightning Bounties absorbed hard truths about startup pitfalls. Chester—a veteran of Bitcoin ventures—stressed that _legal hygiene isn’t optional_, even in decentralized ecosystems.
 
 <figure><img src="../../.gitbook/assets/8_common_legal_mistakes_from_startups.webp" alt="8 Common Startup Mistakes"><figcaption><p>8 Common Startup Mistakes</p></figcaption></figure>
 
@@ -52,7 +52,7 @@ Here’s how his advice applies to Bitcoin builders:
 
 _“Bitcoin startups aren’t exempt from legal fires.”_
 
-Set aside funds for foundational legal work upfront—even 5-10% of early capital. For Lightning Bounties, this meant drafting **multisig escrow clauses** and reviewing state-specific Bitcoin regulations. Templates won’t cover crypto’s gray areas.
+Set aside funds for foundational legal work upfront—even 5-10% of early capital. For Lightning Bounties, this meant drafting **multisig escrow clauses** and reviewing state-specific Bitcoin regulations.&#x20;
 
 ### **2. Wrong Lawyer Choice**
 
@@ -70,7 +70,7 @@ Start as a **simple LLC** (e.g., Texas) to avoid governance bloat. Convert only 
 
 _“ChatGPT privacy policies = legal Russian roulette.”_
 
-Generic template terms from the likes of ChatGPT miss Bitcoin-specific risks (e.g., time-locked sats, Nostr integrations). Jim advised reverse-engineering competitors’ docs for industry nuances—_then_ customizing.
+Generic template terms from the likes of ChatGPT miss Bitcoin-specific risks (e.g., time-locked sats, Nostr integrations). Jim advised reverse-engineering competitors’ docs for industry nuances—_then_ customizing these documents with the help of an expierenced attorney.
 
 ### **5. Inadequate Founder Agreements**
 
@@ -99,7 +99,7 @@ Define buyout terms (sats-based valuations) and equity redistribution. For decen
 #### **Jim’s Bitcoin-Specific Wisdom**
 
 * _“Your v1 legal strategy will suck. Iterate publicly.”_
-* Use **BDD (Budget/Deadline/Deliverable)** with lawyers: “Draft a Lightning-compliant bounty agreement: $2k, 10 days, markdown.”
+* Use **BDD (Budget/Deadline/Deliverable)** with lawyers: “Draft a Lightning-compliant bounty agreement”
 * _Never lie to counsel_—regulators already assume you’re guilty.
 
 <figure><img src="../../.gitbook/assets/working_with_attorneys_BDD_w.webp" alt="Working with Attorneys: B.D.D"><figcaption><p>Working with Attorneys: B.D.D</p></figcaption></figure>
@@ -120,7 +120,7 @@ Phil from 21M Communications broke down PR strategy into three core buckets for 
 
 <figure><img src="../../.gitbook/assets/drafting_the_perfect_pitch_upscaled.JPG" alt="Drafting the perfect Pitch"><figcaption><p>Drafting the Perfect Pitch</p></figcaption></figure>
 
-Crafting pitches requires surgical precision: subject lines must hook reporters in 5-7 words (i.e: _“Lightning Bounties Launches Auto-Expiring Bug Rewards”_), while embargo strategies (8-day lead time, avoiding Mondays or Fridays) balance exclusivity and reach. For Bitcoin startups, targeting niche reporters at outlets like [_Bitcoin Magazine_](https://x.com/BitcoinMagazine) or [_Bitcoin News_](https://x.com/BitcoinNewsCom) beats spray-and-pray. Phil highlighted cost-effective PR wires ($500-$6.5K) for SEO boosts but urged prioritizing _feature coverage_ for credibility—like a [_Coindesk_ ](https://www.coindesk.com/)deep dive on how tiered bounties attract global dev talent.
+Crafting pitches requires surgical precision: subject lines must hook reporters in 5-7 words (i.e: _“Lightning Bounties Launches Auto-Expiring Bug Bounties”_), while embargo strategies (8-day lead time, avoiding Mondays or Fridays) balance exclusivity and reach. For Bitcoin startups, targeting niche reporters at outlets like [_Bitcoin Magazine_](https://x.com/BitcoinMagazine) or [_Bitcoin News_](https://x.com/BitcoinNewsCom) beats spray-and-pray. Phil highlighted cost-effective PR wires ($500-$6.5K) for SEO boosts but urged prioritizing _feature coverage_ for credibility—like a [_Coindesk_ ](https://www.coindesk.com/)deep dive on how tiered bounties attract global dev talent.
 
 <div align="center"><figure><img src="../../.gitbook/assets/strategy_opeds_upscaled.JPG" alt="Content Strategy" width="339"><figcaption><p>Write, Publish, Pitch</p></figcaption></figure> <figure><img src="../../.gitbook/assets/media_activity_building_relationships_upscaled.JPG" alt="Building Relationships" width="376"><figcaption><p>Media Activity: Building Relationships</p></figcaption></figure></div>
 
@@ -128,27 +128,21 @@ Long-term, Phil framed PR as a marathon: weekly refinement of op-eds (800-1,000 
 
 _“PR isn’t about hype—it’s about proving you’re solving real problems.”_ – Phil’s parting wisdom.
 
-
-
 ## Must Watch: Cozy on Early Days Podcast
 
 {% embed url="https://youtu.be/yw-KBGvafIk?si=yhjbyNCJ-GEaid1F" %}
 Full Early Days Interview ft. Kiki from Cozy :point\_up\_2:
 {% endembed %}
 
-
-
 ### **Kiki’s Journey to Building Cozy**
 
 \
-Kiki’s path to tech innovation defies convention. A former yogi, artist, and dog trainer, she stumbled into coding while helping an artist collective explore virtual reality (VR) and 3D modeling. Her Venezuelan upbringing—marked by hyperinflation and distrust in centralized systems—fueled her fascination with Bitcoin’s decentralized promise. After enrolling in a VR program and winning third place at her first Bitcoin hackathon in Austin, Kiki merged her creative instincts with technical rigor. This fusion birthed _Cozy_, a gaming experience blending Tamagotchi-like digital pets with Bitcoin-powered utility. Players train AI agents to perform real-world tasks—like purchasing items via Lightning or managing social media—while earning sats through challenges. For Kiki, Cozy isn’t just a game; it’s a gateway to financial sovereignty, where playful interactions teach Bitcoin’s value without jargon.
+Kiki’s path to tech innovation defies convention. A former artist, and dog trainer, she stumbled into coding while helping an artist collective explore virtual reality (VR) and 3D modeling. Her Venezuelan upbringing—marked by hyperinflation and distrust in centralized systems—fueled her fascination with Bitcoin’s decentralized promise. After enrolling in a VR program and winning third place at her first Bitcoin hackathon in Austin, Kiki merged her creative instincts with technical rigor. This fusion birthed _Cozy_, a gaming experience blending Tamagotchi-like digital pets with Bitcoin-powered utility. Players train AI agents to perform real-world tasks—like purchasing items via Lightning or managing social media—while earning sats through challenges. For Kiki, Cozy isn’t just a game; it’s a gateway to financial sovereignty, where playful interactions teach Bitcoin’s value without complex jargon.
 
 ### **Cozy’s Vision: Where Play Meets Pragmatism**
 
 \
-Cozy reimagines gaming as a tool for everyday Bitcoin adoption. Set in a vibrant, interconnected world, players customize AI agents that handle practical tasks—think virtual pets that pay invoices or crowdfund projects. Kiki envisions a deep in-game economy reflecting real-world transactions, powered entirely by Bitcoin. Drawing inspiration from machine-to-machine payment trends and Nostr’s decentralized social layer, she aims to eliminate friction between play and utility. Within 18 months, Kiki plans to assemble a team to expand Cozy’s ecosystem, emphasizing community collaboration—a lesson from her hackathon days. For newcomers intimidated by Bitcoin’s complexity, Cozy offers a whimsical on-ramp: “Delight,” she says, “is the best teacher.” As VR and AI reshape digital interaction, Kiki’s work proves creativity and decentralized principles can coexist—one playful agent at a time.
-
-
+Cozy reimagines gaming as a tool for everyday Bitcoin adoption. Set in a vibrant, interconnected world, players customize AI agents that handle practical tasks—think virtual pets that pay invoices or crowdfund projects. Kiki envisions a deep in-game economy reflecting real-world transactions, powered entirely by Bitcoin. Drawing inspiration from machine-to-machine payment trends and Nostr’s decentralized social layer, she aims to eliminate friction between play and utility. Within 18 months, Kiki plans to assemble a team to expand Cozy’s ecosystem, emphasizing community collaboration—a lesson from her hackathon days. For newcomers intimidated by Bitcoin’s complexity, Cozy offers a whimsical on-ramp: “Play,” she says, “is the best teacher.” As VR and AI reshape digital interaction, Kiki’s work proves creativity and decentralized principles can coexist—one playful agent at a time.
 
 ## Meet the Top Builders Stream
 
@@ -156,9 +150,7 @@ Cozy reimagines gaming as a tool for everyday Bitcoin adoption. Set in a vibrant
 Click to Watch the Entire Session :point\_up\_2:
 {% endembed %}
 
-
-
-The 2025 Pleb Lab Top Builder competition has become a launchpad for Bitcoin’s most audacious innovators. In a recent virtual roundtable, seven teams shared their progress, struggles, and visions for reshaping Bitcoin’s ecosystem—from gamified education ([Jippi](https://jippi.app/)) to decentralized commerce ([Shopstr](https://shopstr.store/)) and self-custody solutions ([Inherit](https://x.com/Inherit_to)). Each project reflects a unique approach to onboarding the next million users while staying true to Bitcoin’s core ethos: collaboration over corporations, sovereignty over surveillance.&#x20;
+The 2025 Pleb Lab Top Builder competition has become a launchpad for Bitcoin’s most audacious innovators. In a recent virtual roundtable, seven teams shared their progress, struggles, and visions for reshaping Bitcoin’s ecosystem—from gamified education ([Jippi](https://jippi.app/)) to decentralized commerce ([Shopstr](https://shopstr.store/)) and self-custody solutions ([Inherit](https://x.com/Inherit_to)). Each project reflects a unique approach to onboarding the next billion users while staying true to Bitcoin’s core ethos: collaboration over corporations, sovereignty over surveillance.&#x20;
 
 Here’s a closer look at the teams pushing Bitcoin’s boundaries.
 
@@ -175,8 +167,8 @@ Here’s a closer look at the teams pushing Bitcoin’s boundaries.
 ### 2. [Jippi](https://jippi.app/)
 
 * **Team:** [Oliver](https://x.com/heyolpo)
-* **Description:** Jippi is Pokémon GO for Bitcoin. Our mission is to educate the next generation of Bitcoiners through gamification.
-* **Mission:** To gamify Bitcoin learning, making it accessible and fun through augmented reality experiences.
+* **Description:** Jippi is Pokémon GO for Bitcoin.&#x20;
+* **Mission:** To educate the next generation of Bitcoiners through gamification.
 * **Origin Story:** Jippi began as a hobby project in 2022 and was born from Oliver's love for Bitcoin and education. As a receiver of the orange pill in 2020, he started learning through various books, podcasts, and articles that make up the recommended learning for new Bitcoiners. This multitude of content was overwhelming at the time. He decided to set to work to build the most accessible on-ramp into the Bitcoin ecosystem for beginners. A fun and friendly tool to educate the next generation.
 * **Quote:** _“Bitcoin’s future depends on capturing 8-second attention spans.”_
 
@@ -185,7 +177,7 @@ Here’s a closer look at the teams pushing Bitcoin’s boundaries.
 * **Team:** [Keith](https://x.com/unfakekeith)
 * **Description:** Branta offers payment verification for various bitcoin and lightning technologies.
 * **Mission: E**xpanding Bitcoin as a Medium of Exchange:[ See here](https://www.branta.pro/blog?tag=whybuildbranta)
-* **Origin Story:** Read Bitcoin Standard and never looked back.
+* **Origin Story:** Read the Bitcoin Standard and never looked back.
 * **Quote:** _“Bitcoin’s final settlement needs good security.”_
 
 ### 4. [**Inherit Finance** ](https://x.com/Inherit_to)&#x20;
@@ -201,7 +193,7 @@ Here’s a closer look at the teams pushing Bitcoin’s boundaries.
 * **Team:** [Kiki](https://x.com/kikidesignsfun)
 * **Description:** A gamified platform for AI agents to be created by non technical users.
 * **Mission:** Make Bitcoin interactions fun, playful, and accessible.
-* **Origin Story:** As a new mom, I rely on voice assistants like Alexa a lot, but they constantly frustrate me. I find myself repeating commands, dealing with irrelevant ads, and realizing Alexa is designed to serve Amazon—not me. It doesn’t learn, adapt, or truly assist in a meaningful way. This frustration led me to create CozyBot during my student innovation project at the University of Advancing Technology—a personalized, intelligent assistant built on open protocols like Bitcoin, Lightning, and Nostr to prioritize the user, not a corporation.
+* **Origin Story:** As a new mom, I rely on voice assistants like Alexa a lot, but they constantly frustrate me. I find myself repeating commands, dealing with irrelevant ads, and realizing Alexa is designed to serve Amazon—not me. It doesn’t learn, adapt, or truly assist in a meaningful way. This frustration led me to create Cozy during my student innovation project at the University of Advancing Technology—a personalized, intelligent assistant built on open protocols like Bitcoin, Lightning, and Nostr to prioritize the user, not a corporation.
 * **Quote:** _“Delight as a gateway to financial sovereignty.”_
 
 ### 6. [Shopstr ](https://shopstr.store/)
@@ -238,7 +230,7 @@ This feature encourages participation from individuals and organizations that pr
 
 ### Add Without Login&#x20;
 
-The **Add Without Login** feature allows anyone to contribute sats to existing bounties on the Lightning Bounties platform without needing to create an account or log in. This is perfect for users who want to support developers but don’t have a GitHub account or prefer not to sign up. By removing this barrier, more people can participate in funding open-source development, helping bounties grow faster and attracting more contributors.
+The **Add Without Login** feature allows anyone to contribute sats to existing bounties on the Lightning Bounties platform without needing to create an account or log in. This is perfect for users who want to support developers but don’t have a GitHub account or prefer not to login. By removing this barrier, more people can participate in funding open-source development, helping bounties grow faster and attracting more contributors.
 
 To ensure security, this feature leverages **Branta’s address verification**, protecting both the platform and bounty hunters while maintaining trustworthiness. Add Without Login expands accessibility, making it easier than ever for anyone to back projects they care about.
 
