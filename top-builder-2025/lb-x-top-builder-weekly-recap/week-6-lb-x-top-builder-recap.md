@@ -21,11 +21,7 @@ layout:
 
 # Week 6: LB x Top Builder Recap
 
-
-
-
-
-
+This week, Lightning Bounties doubled down on growth—sharpening strategy with mentors like Alby’s Moritz Kaminski, tightening legal safeguards via Jim Chester’s no-nonsense advice, and refining PR tactics with Phil's media mastery. Meanwhile, the _Top Builder_ teams—from Cozy’s AI-powered gaming to Inherit’s custody solutions—proved Bitcoin’s potential stretches far beyond transactions. On our own platform, two new features (_Anonymous Rewards_ and _Add Without Login_) began dismantling barriers to collaboration, letting anyone contribute sats—privately or effortlessly. Here’s how Week 6 pushed us closer to a decentralized future.
 
 ## Mentor Session - Moritz Kaminski of Alby
 
@@ -135,13 +131,15 @@ _“PR isn’t about hype—it’s about proving you’re solving real problems.
 
 
 
-### Must Watch Cozy on Early Days Podcast
-
-### **Kiki’s Journey to Building Cozy**
+## Must Watch: Cozy on Early Days Podcast
 
 {% embed url="https://youtu.be/yw-KBGvafIk?si=yhjbyNCJ-GEaid1F" %}
 Full Early Days Interview ft. Kiki from Cozy :point\_up\_2:
 {% endembed %}
+
+
+
+### **Kiki’s Journey to Building Cozy**
 
 \
 Kiki’s path to tech innovation defies convention. A former yogi, artist, and dog trainer, she stumbled into coding while helping an artist collective explore virtual reality (VR) and 3D modeling. Her Venezuelan upbringing—marked by hyperinflation and distrust in centralized systems—fueled her fascination with Bitcoin’s decentralized promise. After enrolling in a VR program and winning third place at her first Bitcoin hackathon in Austin, Kiki merged her creative instincts with technical rigor. This fusion birthed _Cozy_, a gaming experience blending Tamagotchi-like digital pets with Bitcoin-powered utility. Players train AI agents to perform real-world tasks—like purchasing items via Lightning or managing social media—while earning sats through challenges. For Kiki, Cozy isn’t just a game; it’s a gateway to financial sovereignty, where playful interactions teach Bitcoin’s value without jargon.
@@ -227,13 +225,30 @@ From [Lightning Bounties’](https://app.lightningbounties.com/) mission to turn
 
 
 
+## **New Features on Lightning Bounties: Anonymous Rewards & Adding Rewards Without Login**
+
+This week, Lightning Bounties introduced two powerful features to enhance user participation. **Anonymous Rewards** allows logged-in users to contribute sats to bounties privately, ensuring their identity remains hidden while still supporting open-source development. **Add Without Login** enables anyone to add sats to bounties without creating an account, making it easier for non-developers or those without GitHub accounts to get involved.
+
+Explore these features in detail below and see how they’re shaping the future of collaboration on Lightning Bounties.
+
+### **Anonymous** Rewards&#x20;
+
+The **Anonymous Rewards** feature enables logged-in users on Lightning Bounties to add sats to bounties without revealing their identity. This is ideal for contributors who value privacy but still want to incentivize progress on open issues. With Anonymous Rewards, users can fund bounties discreetly while maintaining full control over their contributions.
+
+This feature encourages participation from individuals and organizations that prefer to stay private while supporting the Bitcoin and Lightning ecosystem. It’s another step toward decentralizing collaboration and ensuring that anyone can contribute, regardless of their need for anonymity.
+
+### Add Without Login&#x20;
+
+The **Add Without Login** feature allows anyone to contribute sats to existing bounties on the Lightning Bounties platform without needing to create an account or log in. This is perfect for users who want to support developers but don’t have a GitHub account or prefer not to sign up. By removing this barrier, more people can participate in funding open-source development, helping bounties grow faster and attracting more contributors.
+
+To ensure security, this feature leverages **Branta’s address verification**, protecting both the platform and bounty hunters while maintaining trustworthiness. Add Without Login expands accessibility, making it easier than ever for anyone to back projects they care about.
 
 
 
+<figure><img src="../../.gitbook/assets/add_to_reward_modal (1).gif" alt="Add to Reward Without Login Preview"><figcaption><p>Add to Reward Without Login Preview</p></figcaption></figure>
 
 
 
+## Wrapping Up Week 6:
 
-
-
-
+Week 6 wasn’t just about coding or compliance—it was about building with intention. Moritz’s insights on balancing user needs, Jim’s legal firewalls, and Phil’s PR pragmatism gave us tools to navigate Bitcoin’s chaos. With new features empowering contributors and a community stacking sats (and principles) together, Lightning Bounties is proof that collaboration outpaces competition. Onward to Week 7!
