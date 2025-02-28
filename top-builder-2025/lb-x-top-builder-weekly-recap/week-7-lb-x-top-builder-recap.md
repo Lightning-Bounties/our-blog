@@ -1,6 +1,5 @@
 ---
 description: 2/17/25 - 2/23/25
-hidden: true
 cover: ../../.gitbook/assets/Blog Banner TB (7).png
 coverY: 0
 layout:
@@ -21,23 +20,11 @@ layout:
 
 # Week 7: LB x Top Builder Recap
 
+This week tested builders under intense pressure as the **Top Builder competition narrowed from 14 teams to just 5**, with finalists set to pitch at PlebLab’s Startup Day in Austin. Amidst the high stakes, founders balanced critical workshops on Bitcoin’s most urgent challenges—from **Joe Wood** (Satoshi Pacioli) demystifying accounting pitfalls to **Phil** (21M Communications) refining PR strategies for Bitcoin’s no-bullshit ecosystem. For every team, the goal was clear: build products that survive Bitcoin’s volatility _and_ outlast crypto’s noise.
 
+Did Lightning Bounties secure a spot in the final round? We’ll share the results at the end.
 
-## Opener&#x20;
-
-
-
-Here’s what went down during Week 7 of PlebLab's Top Builder competition.
-
-
-
-&#x20;
-
-
-
-
-
-
+_Spoiler: Tears were shed. Sats were stacked. Let’s dive in._
 
 ## Bitcoin Startup Accounting&#x20;
 
@@ -52,7 +39,7 @@ Bitcoin businesses face a minefield of accounting quirks—but [Joe Wood’s](ht
 ### **1. Accounting for Bitcoin: What Actually Matters**
 
 * **Valuation**: Bitcoin’s price swings hit your balance sheet. Unrealized gains/losses now get tracked, so monitor them like a hawk.
-* **Taxes**: Holding Bitcoin? No taxes until you sell/spend it. But _every transaction_ (sending, receiving, swapping) triggers a taxable event. Track sats like your freedom depends on it—because it does.
+* **Taxes**: Holding Bitcoin? No taxes until you sell/spend it. But _every transaction_ (sending, receiving, swapping) triggers a taxable event. Track sats like your startup depends on it—because it does.
 
 ### **2. Using Bitcoin as Payment**
 
@@ -85,19 +72,15 @@ Bitcoin accounting isn’t about compliance—it’s about survival. Messy books
 
 ## Phil 21M Communications on Early Days Podcast
 
-In a recent conversation, [**Phil**](https://x.com/coldhardsats), the founder and CEO of [21M Communications](https://www.21mcommunications.com/)**,** shared his journey and insights into the Bitcoin space, particularly focusing on public relations (PR) and marketing for Bitcoin companies. His unique perspective stems from a rich background in media and a deep commitment to Bitcoin, which he believes is fundamentally different from the broader crypto landscape. This summary encapsulates Phil's key points, emphasizing the importance of tailored PR strategies for Bitcoin startups, the nuances of marketing in this niche, and actionable advice for early-stage founders.
+In a recent conversation, [**Phil**](https://x.com/coldhardsats), the founder and CEO of [21M Communications](https://www.21mcommunications.com/)**,** shared his journey and insights into the Bitcoin space, particularly focusing on public relations (PR) and marketing for Bitcoin companies. His unique perspective stems from a rich background in media and a deep commitment to Bitcoin, which is fundamentally different from the broader crypto landscape. This summary encapsulates Phil's key points, emphasizing the importance of tailored PR strategies for Bitcoin startups, the nuances of marketing in this niche, and actionable advice for early-stage founders.
 
 {% embed url="https://youtu.be/u2vmnmy3HgI?si=Nzw-Bilhpq17WlpJ" %}
 Watch the Full Interview :point\_up:
 {% endembed %}
 
-### An Analytical Summary of Phil's Insights on Bitcoin PR and Marketing
-
-***
-
 ### Phil's Background and the Birth of 21M Communications
 
-Phil's journey into the Bitcoin realm began with a solid foundation in media, having worked across various platforms, including print, digital, and broadcast. His experiences in traditional PR agencies led him to recognize a gap in the market for Bitcoin-focused PR services.
+Phil's journey into the Bitcoin realm began with a solid foundation in media, having worked across various platforms, including print, digital, and podcasts. His experiences in traditional PR agencies led him to recognize a gap in the market for Bitcoin-focused PR services.
 
 * **Key Motivations for Founding 21M Communications:**
   * **Focus on Bitcoin:** Phil's disillusionment with the broader crypto space, particularly the prevalence of "shitcoins," drove him to concentrate solely on Bitcoin.
@@ -146,7 +129,7 @@ Phil discussed the evolving landscape of influencer marketing within the Bitcoin
 
 Phil's insights into Bitcoin PR and marketing reveal a landscape that is both challenging and ripe with opportunity. His emphasis on authenticity, long-term vision, and community engagement provides a roadmap for Bitcoin startups looking to navigate the complexities of the media landscape. As the Bitcoin ecosystem continues to evolve, the strategies outlined by Phil will be crucial for founders aiming to make a meaningful impact.
 
-Key takeaways to take with you&#x20;
+Key takeaways from Phil:&#x20;
 
 * **Focus on Bitcoin:** Prioritize long-term goals and ethical practices.
 * **Craft Authentic Narratives:** Engage with the media through compelling storytelling.
@@ -157,6 +140,8 @@ By following these principles, Bitcoin startups can effectively position themsel
 ## Top Builder Final 5 Teams Announced&#x20;
 
 {% embed url="https://youtu.be/7yRBRlUt9vo?si=e5wO_6z7aMgcjy2I" %}
+See the Full Announcement :point\_up:
+{% endembed %}
 
 We’re honored to share that [**Lightning Bounties**](https://app.lightningbounties.com/) has been selected as one of the **Top 5 teams** advancing to Pleb Lab’s Startup Day on **March 13 in Austin, Texas**, during [SXSW](https://www.sxsw.com/). Standing alongside innovators like [_**Jippi**_ ](https://jippi.app/)(gamifying Bitcoin education), [_**Branta**_ ](https://www.branta.pro/)(securing Lightning transactions), [_**Shopstr**_ ](https://shopstr.store/)(uncensorable commerce), and [_**Sats.gg**_](https://sats.gg/) (live streaming platform akin to [twitch.tv](https://www.twitch.tv/)) is both thrilling and humbling.
 
@@ -164,9 +149,9 @@ This season’s competition was fierce. With **243 applications reviewed**, **35
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt="Top Builder Season 2 by the Numbers"><figcaption><p>Top Builder Season 2 by the Numbers</p></figcaption></figure>
 
-To every builder who participated: your work inspired us. It really did. The creativity and grit we saw over these six weeks. Some of the projects I'm personally excited about include:
+To every builder who participated: your work inspired us. It really did. The creativity and grit we saw over these six weeks pushed boundaries and reminded us of the incredible potential within our community. Some of the projects I'm personally excited about include:
 
-&#x20;[Club Bink's](https://www.bink.club/) open-source toolkit, designed for Bitcoin evangelists to easily facilitate peer-to-peer DCA trades with friends & Family.&#x20;
+[Club Bink's](https://www.bink.club/) open-source toolkit, designed for Bitcoin evangelists to easily facilitate peer-to-peer DCA trades with friends & Family.&#x20;
 
 [Cozy's ](https://cozybot.my.canva.site/)gamified platform for AI agents to be created by non technical users.
 
@@ -187,4 +172,3 @@ We’ve got two weeks to refine our pitch for Austin. No victory laps. Just grat
 **To Austin, with purpose.**
 
 > _**“Iron sharpens iron. Keep building.” — Car PlebLab CEO**_
-
