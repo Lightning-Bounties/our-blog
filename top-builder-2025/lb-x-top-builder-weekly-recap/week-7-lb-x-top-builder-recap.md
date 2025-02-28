@@ -27,15 +27,11 @@ layout:
 
 
 
-## Open Agents Mentor Session&#x20;
+Here’s what went down during Week 7 of PlebLab's Top Builder competition.
 
 
 
-
-
-
-
-<figure><img src="../../.gitbook/assets/ag_img_9edf2e93-b7c1-44f1-8575-085f0b48b581.jpg" alt=""><figcaption></figcaption></figure>
+&#x20;
 
 
 
@@ -45,15 +41,17 @@ layout:
 
 ## Bitcoin Startup Accounting&#x20;
 
+_Workshop Recap with_ [_Joe Wood_](https://x.com/JoeWoodCPA) _(_[_Satoshi Paciol_](https://satoshipacioli.com/)_i)_
+
 {% embed url="https://youtu.be/UtSgI1wYkoY?si=2Zkt-CnMozyUSrm-" %}
+Watch the Full Workshop :point\_up:
+{% endembed %}
 
-_Workshop Recap with Joe Wood (Satoshi Patoli)_
-
-Bitcoin businesses face a minefield of accounting quirks—but Joe Wood’s workshop cut through the noise. Here’s what builders need to know:
+Bitcoin businesses face a minefield of accounting quirks—but [Joe Wood’s](https://x.com/JoeWoodCPA) workshop cut through the noise. Here’s what builders need to know:
 
 ### **1. Accounting for Bitcoin: What Actually Matters**
 
-* **Valuation**: Bitcoin’s price swings hit your balance sheet. Unrealized gains/losses now get tracked, so monitor them like hawk.
+* **Valuation**: Bitcoin’s price swings hit your balance sheet. Unrealized gains/losses now get tracked, so monitor them like a hawk.
 * **Taxes**: Holding Bitcoin? No taxes until you sell/spend it. But _every transaction_ (sending, receiving, swapping) triggers a taxable event. Track sats like your freedom depends on it—because it does.
 
 ### **2. Using Bitcoin as Payment**
@@ -85,33 +83,23 @@ Bitcoin businesses face a minefield of accounting quirks—but Joe Wood’s work
 **Why This Matters for Builders**\
 Bitcoin accounting isn’t about compliance—it’s about survival. Messy books attract regulators. Sloppy tax reporting kills startups. Joe’s takeaway? _“Run your Bitcoin business like a Fortune 500 company, but with better money.”_
 
-_Next week: How to handle payroll for a fully remote, Bitcoin-only team._
-
-**Toolkit**: [Zap](https://zaphq.io/) | [Clan Tech](https://clan.tech/) | [Mercury](https://mercury.com/)
-
-
-
-
-
 ## Phil 21M Communications on Early Days Podcast
 
+In a recent conversation, [**Phil**](https://x.com/coldhardsats), the founder and CEO of [21M Communications](https://www.21mcommunications.com/)**,** shared his journey and insights into the Bitcoin space, particularly focusing on public relations (PR) and marketing for Bitcoin companies. His unique perspective stems from a rich background in media and a deep commitment to Bitcoin, which he believes is fundamentally different from the broader crypto landscape. This summary encapsulates Phil's key points, emphasizing the importance of tailored PR strategies for Bitcoin startups, the nuances of marketing in this niche, and actionable advice for early-stage founders.
+
 {% embed url="https://youtu.be/u2vmnmy3HgI?si=Nzw-Bilhpq17WlpJ" %}
-
-
+Watch the Full Interview :point\_up:
+{% endembed %}
 
 ### An Analytical Summary of Phil's Insights on Bitcoin PR and Marketing
 
-
-
-In a recent conversation, Phil, the founder and CEO of 21M Communications, shared his journey and insights into the Bitcoin space, particularly focusing on public relations (PR) and marketing for Bitcoin companies. His unique perspective stems from a rich background in media and a deep commitment to Bitcoin, which he believes is fundamentally different from the broader crypto landscape. This summary encapsulates Phil's key points, emphasizing the importance of tailored PR strategies for Bitcoin startups, the nuances of marketing in this niche, and actionable advice for early-stage founders.
-
 ***
 
-### Phil's Background and the Birth of 21m Communications
+### Phil's Background and the Birth of 21M Communications
 
 Phil's journey into the Bitcoin realm began with a solid foundation in media, having worked across various platforms, including print, digital, and broadcast. His experiences in traditional PR agencies led him to recognize a gap in the market for Bitcoin-focused PR services.
 
-* **Key Motivations for Founding 21m Communications:**
+* **Key Motivations for Founding 21M Communications:**
   * **Focus on Bitcoin:** Phil's disillusionment with the broader crypto space, particularly the prevalence of "shitcoins," drove him to concentrate solely on Bitcoin.
   * **Community-Centric Approach:** He aimed to create a PR agency "for Bitcoiners, by Bitcoiners," ensuring a deep understanding of the Bitcoin ethos.
   * **Long-Term Vision:** Phil emphasized the importance of aligning with companies that have a long-term vision, contrasting them with the high time preference often seen in the crypto space.
@@ -136,7 +124,7 @@ Phil shared his thoughts on the marketing landscape within the Bitcoin ecosystem
 
 ### Practical Advice for Early-Stage Founders
 
-Phil provided actionable insights for founders looking to establish their presence in the Bitcoin space.
+Phil provided practical advice for founders looking to establish their presence in the Bitcoin space.
 
 1. **Create a Document for Announcements:**
    * Maintain a running list of potential announcements, product updates, and partnerships to keep the media informed.
@@ -166,31 +154,37 @@ Key takeaways to take with you&#x20;
 
 By following these principles, Bitcoin startups can effectively position themselves for success in a competitive and rapidly evolving environment.
 
-
-
-## Top Builder Final 5 Announced&#x20;
-
-
-
-
+## Top Builder Final 5 Teams Announced&#x20;
 
 {% embed url="https://youtu.be/7yRBRlUt9vo?si=e5wO_6z7aMgcjy2I" %}
 
-We’re honored to share that Lightning Bounties has been selected as one of the **Top 5 teams** advancing to Pleb Lab’s Startup Day on **March 13 in Austin, Texas**, during SXSW. Standing alongside innovators like _Jippi_ (gamifying Bitcoin education), _Branta_ (securing Lightning transactions), _Shopstr_ (uncensorable commerce), and _SATs.GG_ (gaming economies) is both thrilling and humbling.
+We’re honored to share that [**Lightning Bounties**](https://app.lightningbounties.com/) has been selected as one of the **Top 5 teams** advancing to Pleb Lab’s Startup Day on **March 13 in Austin, Texas**, during [SXSW](https://www.sxsw.com/). Standing alongside innovators like [_**Jippi**_ ](https://jippi.app/)(gamifying Bitcoin education), [_**Branta**_ ](https://www.branta.pro/)(securing Lightning transactions), [_**Shopstr**_ ](https://shopstr.store/)(uncensorable commerce), and [_**Sats.gg**_](https://sats.gg/) (live streaming platform akin to [twitch.tv](https://www.twitch.tv/)) is both thrilling and humbling.
 
-This season’s competition was fierce. With **243 applications reviewed**, **35 projects submitted**, and **17 teams onboarded**, the talent pool was staggering. To every builder who participated: your work inspired us. It really did. The creativity and grit we saw over these six weeks
+This season’s competition was fierce. With **243 applications reviewed**, **35 projects submitted**, and **17 teams onboarded**, the talent pool was staggering.&#x20;
 
-—like tools for self-custody, privacy, and global payments—prove Bitcoin’s ecosystem is stronger than ever. To those not advancing: keep building.&#x20;
+<figure><img src="../../.gitbook/assets/image (1).png" alt="Top Builder Season 2 by the Numbers"><figcaption><p>Top Builder Season 2 by the Numbers</p></figcaption></figure>
 
+To every builder who participated: your work inspired us. It really did. The creativity and grit we saw over these six weeks. Some of the projects I'm personally excited about include:
 
+&#x20;[Club Bink's](https://www.bink.club/) open-source toolkit, designed for Bitcoin evangelists to easily facilitate peer-to-peer DCA trades with friends & Family.&#x20;
 
-The space _needs_ your ideas.
+[Cozy's ](https://cozybot.my.canva.site/)gamified platform for AI agents to be created by non technical users.
+
+[BitcoinOnly Events:](https://bitcoinonly.events/) a platform dedicated to organizing, promoting, and supporting Bitcoin-focused meetups, conferences, and community events worldwide.
+
+[Inherit's](https://x.com/Inherit_to) self-custodial Bitcoin recovery solution, enabling users to time-lock their BTC to guard against wrench attacks and quantum threats.&#x20;
+
+and the list goes on.&#x20;
+
+These projects prove that Bitcoin’s ecosystem is stronger than ever. To those not advancing: keep building. This space _needs_ you!
 
 Pleb Lab’s stats say it all: **65+ Bitcoin projects launched since 2022**, **280+ workshops held**, and a community of **640+ learners**. This isn’t just a competition—it’s a movement.
 
-We’ve got two weeks to refine our pitch for Austin. No victory laps. Just gratitude for the push from peers, mentors, and the 161 founders in this trenches with us. Let’s show why Bitcoin collaboration matters.
+<figure><img src="../../.gitbook/assets/image.png" alt="PlebLab&#x27;s Impact By the Numbers"><figcaption><p>PlebLab's Impact By the Numbers</p></figcaption></figure>
+
+We’ve got two weeks to refine our pitch for Austin. No victory laps. Just gratitude for the push from peers, mentors, and the other founders in this trenches with us. Let’s show why Bitcoin collaboration matters!
 
 **To Austin, with purpose.**
 
-“Iron sharpens iron. Keep building.” — Car PlebLab CEO
+> _**“Iron sharpens iron. Keep building.” — Car PlebLab CEO**_
 

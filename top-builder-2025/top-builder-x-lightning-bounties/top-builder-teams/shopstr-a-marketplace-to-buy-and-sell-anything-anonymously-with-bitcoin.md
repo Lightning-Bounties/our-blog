@@ -48,14 +48,14 @@ Shopstr represents what online marketplaces should be: open, private, and access
 
 Looking beyond traditional e-commerce models, Shopstr's approach to merchant empowerment is revolutionary. While platforms like eBay and Amazon focus on maximizing their own profits through fees and data collection, Shopstr prioritizes creating direct connections between buyers and sellers. This approach not only reduces costs but also builds stronger community relationships and trust within the marketplace.
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt="Why Choose Shopstr?"><figcaption><p>Why Choose Shopstr?</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt="Why Choose Shopstr?"><figcaption><p>Why Choose Shopstr?</p></figcaption></figure>
 
 ## The Inspiration behind Shopstr:
 
 \
 The idea for Shopstr came from a simple question - _what can you actually buy with Bitcoin?_ When founder Calvadev's father asked this, it highlighted a crucial gap in the Bitcoin ecosystem. While inspired by early pioneers like Silk Road's vision of free market exchange, Shopstr takes a different approach - focusing on empowering individual creators and artisans through Bitcoin and Nostr. This vision of enabling permissionless commerce while maintaining privacy and security has resonated strongly with the community.
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt="How Shopstr Works"><figcaption><p>How Shopstr Works</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt="How Shopstr Works"><figcaption><p>How Shopstr Works</p></figcaption></figure>
 
 ## Advice for Aspiring Builders:
 
