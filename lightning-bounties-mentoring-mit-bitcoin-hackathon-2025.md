@@ -1,6 +1,23 @@
-# Lightning Bounties: Mentoring MIT Bitcoin Hackathon 2025
+---
+cover: .gitbook/assets/1_S0nH076q_8qV7CXYQD_y-Q.webp
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
 
-<figure><img src=".gitbook/assets/1_S0nH076q_8qV7CXYQD_y-Q.webp" alt="MIT Bitcoin Expo"><figcaption><p><a href="https://www.mitbtcexpo.org/">MIT Bitcoin Expo</a></p></figcaption></figure>
+# Lightning Bounties: Mentoring MIT Bitcoin Hackathon 2025
 
 This past weekend, the Lightning Bounties team returned to the MIT Bitcoin Hackathon—not as participants, but as mentors. Just one year after winning Track 1 with our GitHub-Bitcoin payment integration, we found ourselves guiding **510 hackers** through the challenges we had faced ourselves. This full-circle journey from competitors to coaches at the "Freedom Tech" hackathon highlighted not only Bitcoin's growing ecosystem but also the powerful community knowledge transfer that drives innovation forward. Here's our story of mentorship, technical challenges, and the incredible projects that emerged over those intensive 30 hours.
 
@@ -78,7 +95,9 @@ If there's one thing that keeps Bitcoin builders humble, it's watching the next 
 TANOS
 {% endembed %}
 
-[**Payjoin Integrations**](https://devpost.com/software/payjoin-integrations) claimed the Track 1 prize (our old stomping grounds!) with three distinct implementations, including the first browser-based Payjoin using WASM and enhanced privacy features for inheritance wallets.
+[**Payjoin Integrations**](https://devpost.com/software/payjoin-integrations) claimed the Track 1 prize (our old stomping grounds!) With the power of vibe coding they launched a web app that educates the user on how payjoin works via a step by step walkthrough, while coordinating a real payjoin live. It is not merely an educational tool. It is the first use of PDK in JavaScript and the most complete implementation available in JavaScript.
+
+The demo presents a sender and receiver wallet. They sync to Mutinynet using Bitcoin Dev Kit. The team shows examples of what sending and receiving could look like. They also give an "under the hood" look at the Payjoin process.
 
 {% embed url="https://youtu.be/OLkQhD0Us88?si=sHXRrbZC8-4butGa" %}
 Payjoin Intergrations
@@ -98,7 +117,7 @@ BitBet
 Lightning Time
 {% endembed %}
 
-[**ZipZap** ](https://app.gitbook.com/s/vISvCG0TPrYF0uu5b2Up/collaboration/communities)allows for social media tipping over Lightning, using BOLT 12 offers and taking advantage of the latest protocol upgrades to Lightning. ZipZaps enable nostr users to tip each other's posts while maintaining self-custody and privacy.
+[**ZipZap** ](https://devpost.com/software/zipzap-cjwqz0)allows for social media tipping over Lightning, using BOLT 12 offers and taking advantage of the latest protocol upgrades to Lightning. Zip Zap enable nostr users to tip each other's posts while maintaining self-custody and privacy.
 
 {% embed url="https://youtu.be/FQf9DSoCGIE?si=qWPT3hkQ9Np7dD7E" %}
 Zip Zap
@@ -122,9 +141,7 @@ Each project reflected not just technical skill but a deep understanding of how 
 
 The energy at the 2025 MIT Bitcoin Hackathon reminded us why we built Lightning Bounties in the first place: to nurture innovation in the Bitcoin ecosystem through collaboration and incentives. The energy at MIT confirmed what we've suspected all along—Bitcoin's future isn't just bright, it's blinding when viewed through the creative lens of builders who care deeply about financial freedom.
 
-We're expanding our commitment to nurturing Bitcoin's builder ecosystem in two concrete ways:
-
-<mark style="background-color:blue;">**First, we're opening our mentorship pipeline to more hackathons. If you're organizing a Bitcoin or Lightning-focused event and need experienced mentors who've been on both sides of the judging table, reach out directly to our team. We'll bring workshops, technical guidance, and firsthand perspective to your participants.**</mark>
+**We're expanding our commitment to nurturing Bitcoin's builder ecosystem in two concrete ways:**
 
 {% hint style="success" %}
 First, we're opening our mentorship pipeline to more hackathons. **If you're organizing a Bitcoin or Lightning-focused hackathon and need experienced mentors who've been on both sides of the judging table, reach out directly to our team.** We'll bring workshops, technical guidance, and firsthand perspective to your participants.
@@ -133,8 +150,6 @@ First, we're opening our mentorship pipeline to more hackathons. **If you're org
 {% hint style="success" %}
 **Second—and this one's specifically for MIT Hackathon participants—we're putting our money where our mouth is. If you're continuing to build your hackathon project and hit technical roadblocks or bugs that need solving, reach out to us! Links below** :arrow\_down:**. We'll fund a bounty on our platform (**[**app.lightningbounties.com**](https://app.lightningbounties.com)**) to help you overcome those challenges and keep your project moving forward.**
 {% endhint %}
-
-
 
 {% include ".gitbook/includes/lightningbountiessocials.md" %}
 
