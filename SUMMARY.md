@@ -4,6 +4,7 @@
 * [Lightning Bounties Blog \[archived\]](readme-1.md)
 * [The Power of Bounties in Innovation: A Historical and Modern Perspective](the-power-of-bounties-in-innovation-a-historical-and-modern-perspective.md)
 * [Lightning Bounties' Recap of PlebLab's Startup Day 2024 - CMDX](lightning-bounties-recap-of-pleblabs-startup-day-2024-cmdx.md)
+* [Lightning Bounties: Mentoring MIT Bitcoin Hackathon 2025](lightning-bounties-mentoring-mit-bitcoin-hackathon-2025.md)
 * [Will Sutton](blog-post-1/README.md)
   * [Thoughts on Saylor](blog-post-1/thoughts-on-saylor.md)
   * [Thoughts on L402](blog-post-1/thoughts-on-l402.md)
