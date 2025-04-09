@@ -59,7 +59,7 @@ Our workshop at the MIT Bitcoin Hackathon 2025 was a cornerstone of our mentorsh
 
 The turnout was incredible, with over **50 participants**, [19 Replit forks](https://replit.com/@sutt/LNBits-Tutorial-2025) of our tutorial and an active Discord discussion buzzing with questions and ideas. Hackers left the workshop equipped with practical skills and ready to integrate Lightning payments into their hackathon projects. Several teams leveraged this knowledge, creating projects that embodied the hackathon's "Freedom Tech" theme. From streaming payment automations to scalable developer tools, the workshop proved that hands-on mentorship can really help foster excitement and accelerate project creation.
 
-{% embed url="https://x.com/i/status/1908295003203367278" %}
+{% embed url="https://x.com/i/status/1908295003203367278" fullWidth="true" %}
 Will Conducting the LNBits Workshop
 {% endembed %}
 
@@ -75,7 +75,7 @@ Fork the Tutorial on Replit Here :point\_right:   [https://replit.com/@sutt/LNBi
 
 This year, we had the unique privilege of seeing the hackathon from yet another angle—as judges. Our team members Enrique and Pavel joined the judging panel, evaluating projects based on technical merit, impact, and originality.
 
-<div><figure><img src=".gitbook/assets/judgePavel.jpg" alt="" width="188"><figcaption><p>Judge Pavel</p></figcaption></figure> <figure><img src=".gitbook/assets/judgeEnrique.jpg" alt="" width="375"><figcaption><p>Judge Enrique</p></figcaption></figure></div>
+<div data-full-width="false"><figure><img src=".gitbook/assets/judgePavel.jpg" alt="" width="188"><figcaption><p>Judge Pavel</p></figcaption></figure> <figure><img src=".gitbook/assets/judgeEnrique.jpg" alt="" width="375"><figcaption><p>Judge Enrique</p></figcaption></figure></div>
 
 > _"The level of technical creativity I saw was humbling,"_ Enrique reflected. _"The energy and inspiration from this year's participants were a beautiful reminder of what can be accomplished with hard work."_
 
