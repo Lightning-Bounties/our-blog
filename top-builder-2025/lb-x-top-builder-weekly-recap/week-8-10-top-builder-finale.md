@@ -45,8 +45,6 @@ This philosophy has transformed PlebLab into what Car describes as "an accelerat
 
 If you've never experienced PlebLab, you're missing Bitcoin's most powerful startup ecosystem. Born in 2021 from the minds of Car González, and Keyan Kousha, PlebLab started as a humble coworking space at Capital Factory in Austin. What began with Bitcoin meetups drawing crowds of 200+ people has evolved into what Car calls "an accelerator for the Bitcoin era".
 
-
-
 Today, PlebLab has become the beating heart of Bitcoin innovation in Texas—a hybrid hacker garage and startup incubator that's launched 65+ Bitcoin projects and hosted 280+ workshops since 2022. It's where Bitcoin builders come to transform impossible ideas into working products.
 
 
@@ -61,9 +59,13 @@ Our journey through Top Builder Season 2 led us to the final round, where we fac
 
 ## The Final Contenders
 
+<div><figure><img src="../../.gitbook/assets/BrantaBanner.png" alt=""><figcaption><p><strong>Branta</strong></p></figcaption></figure> <figure><img src="../../.gitbook/assets/shopstrBanner.png" alt="Shopstr"><figcaption><p><strong>Shopstr</strong></p></figcaption></figure> <figure><img src="../../.gitbook/assets/SatsggBanner.png" alt="SATS.GG"><figcaption><p><strong>SATS.GG</strong></p></figcaption></figure> <figure><img src="../../.gitbook/assets/LightningBountiesBanner.png" alt=""><figcaption><p><strong>Lightning Bounties</strong></p></figcaption></figure> <figure><img src="../../.gitbook/assets/JippiBanner.png" alt=""><figcaption><p><strong>Jippi</strong> </p></figcaption></figure></div>
+
 <figure><img src="../../.gitbook/assets/teamsSmallBanner.JPG" alt="Branta, Shopstr, SATS.GG, Lightning Bounties, Jippi "><figcaption><p>Branta, Shopstr, SATS.GG, Lightning Bounties, Jippi </p></figcaption></figure>
 
 ## Branta: Guardrails for Bitcoin
+
+<figure><img src="../../.gitbook/assets/BrantaBanner.png" alt="Branta"><figcaption><p><strong>Branta</strong></p></figcaption></figure>
 
 Branta's presentation focused on enhancing Bitcoin as a medium of exchange. Their flagship product, Guardrail, provides payment verification to solve the "last mile problem" in Bitcoin transactions. When you interact with Bitcoin, you typically see a QR code and a string representing a Bolt11 invoice or address. What happens if that information gets compromised somewhere between generation and scanning?
 
@@ -73,15 +75,19 @@ During the presentation, Branta also announced new partnerships with Ambos for c
 
 ## Shopstr: Revolutionizing Bitcoin Commerce
 
-Shopstr addresses a significant problem: permissionless commerce. As Christian (calev) explained in his presentation, small merchants frequently face censorship on centralized platforms. He shared examples of sellers getting shut down on Etsy for seemingly minor issues like claiming a tallow cream was "deeply moisturizing".
+<figure><img src="../../.gitbook/assets/shopstrBanner.png" alt="Shopstr"><figcaption><p><strong>Shopstr</strong></p></figcaption></figure>
 
-Shopstr provides a permissionless marketplace built on three technologies: Bitcoin/Lightning for payments, ecash for privacy, and Nostr for social infrastructure and distribution. The platform makes it remarkably simple for merchants to list products and receive Bitcoin payments, without requiring extensive technical knowledge or payment infrastructure.
+Shopstr addresses a significant problem: permissionless commerce. As Christian (calvadev) explained in his presentation, small merchants frequently face censorship on centralized platforms. He shared examples of sellers getting shut down on Etsy for seemingly minor issues like claiming a tallow cream was "deeply moisturizing".
+
+Shopstr provides a permissionless marketplace built on three technologies: Bitcoin/Lightning for payments, ecash for privacy, and Nostr for social infrastructure and distribution. Shopstr makes it remarkably simple for merchants to list products and receive Bitcoin payments, without requiring extensive technical knowledge or payment infrastructure.
 
 What impressed me was their self-hostable solution—merchants can install their own client on Umbrel or Start9, completely removing reliance on DNS or other centralized internet technologies. With about 50 people already running their own instances and 5 million sats in transaction volume, they're demonstrating real traction.
 
 
 
 ## [SATS.GG](http://sats.gg/): Post Content. Get Paid.
+
+<figure><img src="../../.gitbook/assets/SatsggBanner.png" alt="SATS.GG"><figcaption><p><strong>SATS.GG</strong></p></figcaption></figure>
 
 Chad from [SATS.GG](http://sats.gg/) presented a compelling solution for content creators struggling with monetization. He highlighted how platforms like YouTube provide minimal revenue to creators (showing an example of 83,000 views generating only $280), forcing them to use services like Patreon or OnlyFans, which require followers to create new accounts and enter payment information.
 
@@ -91,6 +97,8 @@ The live demo showed how content creators can stream, set pricing tiers for diff
 
 ## Lightning Bounties: Fix Code, Earn Bitcoin
 
+<figure><img src="../../.gitbook/assets/LightningBountiesBanner.png" alt="Lightning Bounties"><figcaption><p><strong>Lightning Bounties</strong></p></figcaption></figure>
+
 Our platform, Lightning Bounties, connects developers with projects needing code contributions. We identified the disconnect between Bitcoin open-source projects needing development help and talented developers looking to earn Bitcoin. Our solution creates a marketplace where projects can post bounties and developers can claim them, all using Bitcoin's Lightning Network for instant, borderless payments.
 
 We've focused on making the platform both user-friendly for newcomers to Bitcoin development and powerful enough for experienced coders. Our escrow system ensures fair payment while our reputation system builds trust in the ecosystem.
@@ -98,6 +106,8 @@ We've focused on making the platform both user-friendly for newcomers to Bitcoin
 Our journey through Top Builder helped us refine our platform and connect with the broader Bitcoin developer community, creating relationships that will continue to grow long after the competition ends.
 
 ## Jippi: An AR Adventure Game with a Bitcoin Twist
+
+<figure><img src="../../.gitbook/assets/JippiBanner.png" alt="Jippi"><figcaption><p><strong>Jippi</strong></p></figcaption></figure>
 
 Oliver presented Jippi, an augmented reality game reminiscent of Pokémon Go but with a Bitcoin education twist. The app targets Gen Z, who have an 8-second attention span but represent a massive potential market with $12 trillion in expected purchasing power by 2030.
 
@@ -107,9 +117,11 @@ Oliver demonstrated how players progress through educational "islands" before ca
 
 ## The Winner Is... Jippi!
 
-🎉 When the judges announced Jippi as the winner of Top Builder 2025, it was a well-deserved victory. Oliver and his team had built a truly innovative product with real mainstream potential. Their ability to make Bitcoin education fun and engaging for a demographic that's notoriously difficult to reach impressed everyone in the room.
+🎉 When the judges announced Jippi as the winner of Top Builder 2025, it was a well-deserved victory. Oliver built a truly innovative product with real mainstream potential. His ability to make Bitcoin education fun and engaging for a demographic that's notoriously difficult to reach impressed everyone in the room.
 
 The judging panel described Jippi as "mind-blowing" with its "live, functioning app, man-on-the-street surveys, and app tests in a local university," along with a "masterful presentation of the rationale and vision". The app genuinely has viral potential that could bring a new generation into Bitcoin.
+
+<div data-full-width="true"><figure><img src="../../.gitbook/assets/download.jpg" alt="Oliver (Jippi&#x27;s Founder) Winner f Top Builder Season 2!"><figcaption></figcaption></figure></div>
 
 ## Reflections on Top Builder
 
@@ -125,7 +137,7 @@ In the coming months, we'll be expanding our platform capabilities, improving ou
 
 ## A Thank You to Car, the Teams, and PlebLab
 
-I want to express my profound gratitude to Car González and the entire PlebLab team for creating this incredible platform for Bitcoin builders. The structure of Top Builder, with its emphasis on shipping code and building viable products rather than just pitching ideas, truly sets it apart from other startup competitions.
+I want to express my profound gratitude to Car González and the entire PlebLab ecosystem for creating this incredible platform for Bitcoin builders. The structure of Top Builder, with its emphasis on shipping code and building viable products rather than just pitching ideas, truly sets it apart from other startup competitions.
 
 To my fellow competitors—Branta, Shopstr, [SATS.GG](http://sats.gg/), and Jippi—thank you for the inspiration and camaraderie. The Bitcoin ecosystem is stronger because of the solutions you're building.
 
