@@ -99,11 +99,19 @@ The live demo showed how content creators can stream, set pricing tiers for diff
 
 <figure><img src="../../.gitbook/assets/LightningBountiesBanner.png" alt="Lightning Bounties"><figcaption><p><strong>Lightning Bounties</strong></p></figcaption></figure>
 
-Our platform, Lightning Bounties, connects developers with projects needing code contributions. We identified the disconnect between Bitcoin open-source projects needing development help and talented developers looking to earn Bitcoin. Our solution creates a marketplace where projects can post bounties and developers can claim them, all using Bitcoin's Lightning Network for instant, borderless payments.
+Up next was us, Lightning Bounties. Saying I was nervous is a massive understatement. I was sweating bullets. It didn't help that the three pitches before us absolutely nailed their presentations and we still had Jippi to follow, who I'd witnessed give a captivating pitch during Startup Day in September. Worst of all, we were running on 3-4 hours of sleep—refining, editing, changing slides and talking points until the insomnia and the previous three days all seemed like a blur.
 
-We've focused on making the platform both user-friendly for newcomers to Bitcoin development and powerful enough for experienced coders. Our escrow system ensures fair payment while our reputation system builds trust in the ecosystem.
+But this is what Top Builder is all about: bringing out the absolute best in us. We wouldn't have had it any other way.
 
-Our journey through Top Builder helped us refine our platform and connect with the broader Bitcoin developer community, creating relationships that will continue to grow long after the competition ends.
+Our presentation focused on three key aspects of Lightning Bounties:
+
+1. **Market potential**: By integrating Lightning-based payments into GitHub, we're meeting 100+ million developers where they already work. This creates a massive addressable market for Bitcoin adoption through everyday developer workflows.
+2. **Versatility beyond code**: Bounties aren't limited to programming tasks. They can include logo designs, documentation updates, YouTube tutorials, and more. If it can be solved online, it can be posted as a GitHub issue and turned into a Lightning Bounty.
+3. **Simplicity by design**: Posting a bounty requires just six clicks and about 30 seconds. With one click, you're already logged in and registered. Copy/paste the GitHub Issue URL, set your satoshi reward amount, and you've created your first bounty—friction removed.
+
+We demonstrated this with a live example. The only hiccup came when I didn't account for using Enrique's MacBook. Hard to believe, but this was the first time I'd used a Mac in as long as I could remember. While running through the demo, this realization hit me as I looked up at everyone watching. I froze momentarily, trying to figure out why copy/paste wasn't working. Luckily, I heard Enrique whispering "`Command-A`, `Command-C`, `Command-V.`" Once I heard that, it was smooth sailing, and I took a massive breath of relief knowing everything went off without a hitch.
+
+Our journey through Top Builder helped us refine our platform and connect with the broader Bitcoin developer community, creating relationships that will continue to grow long after the competition ends. We've built a marketplace that solves real problems for both open-source projects and developers, all powered by Bitcoin's Lightning Network.
 
 ## Jippi: An AR Adventure Game with a Bitcoin Twist
 
