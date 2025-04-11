@@ -37,7 +37,7 @@
   * [Week 5: LB x Top Builder Recap](top-builder-2025/lb-x-top-builder-weekly-recap/week-5-lb-x-top-builder-recap.md)
   * [Week 6: LB x Top Builder Recap](top-builder-2025/lb-x-top-builder-weekly-recap/week-6-lb-x-top-builder-recap.md)
   * [Week 7: LB x Top Builder Recap](top-builder-2025/lb-x-top-builder-weekly-recap/week-7-lb-x-top-builder-recap.md)
-  * [Week 8: LB x Top Builder Recap](top-builder-2025/lb-x-top-builder-weekly-recap/week-8-lb-x-top-builder-recap.md)
+  * [Week 8-10: Top Builder Finale](top-builder-2025/lb-x-top-builder-weekly-recap/week-8-10-top-builder-finale.md)
 
 ## Lightning Bounties Team
 
