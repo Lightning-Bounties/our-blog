@@ -117,11 +117,15 @@ Oliver's live demonstration showcased how players progress through educational "
 
 ## The Winner Is... Jippi!
 
-🎉 When the judges announced Jippi as the winner of Top Builder 2025, it was a well-deserved victory. Oliver built a truly innovative product with real mainstream potential. His ability to make Bitcoin education fun and engaging for a demographic that's notoriously difficult to reach impressed everyone in the room.
+When the judges announced Jippi as the winner of Top Builder 2025, it was a well-deserved victory. When Oliver said that Jippi had launched that day with live Bitcoin Beasts, I immediately went on my phone and caught a Beast, receiving 1000 sats - over 10x the reward I've ever received using adjacent augmented reality Bitcoin reward apps.
 
-The judging panel described Jippi as "mind-blowing" with its "live, functioning app, man-on-the-street surveys, and app tests in a local university," along with a "masterful presentation of the rationale and vision". The app genuinely has viral potential that could bring a new generation into Bitcoin.
+This inspired the Lightning Bounties team to catch all 6 inaugural Bitcoin Beasts, which is a 100k sats reward (approximately $800 United States dollars). Our immediate thought was, "fuck think of how many bounties we could post with that amount of sats?!?" But that's a story for a dedicated blog post (coming soon).
 
-<div data-full-width="true"><figure><img src="../../.gitbook/assets/download.jpg" alt="Oliver (Jippi&#x27;s Founder) Winner f Top Builder Season 2!"><figcaption></figcaption></figure></div>
+Oliver built a truly innovative product with real mainstream potential. His ability to make Bitcoin education fun and engaging for a demographic that's notoriously difficult to reach impressed everyone in the room.
+
+Jippi genuinely has viral potential that could bring a new generation into Bitcoin.
+
+<div data-full-width="true"><figure><img src="../../.gitbook/assets/download.jpg" alt="Oliver (Jippi&#x27;s Founder) Winner f Top Builder Season 2!"><figcaption><p>Oliver (Jippi's Founder) Winner f Top Builder Season 2!</p></figcaption></figure></div>
 
 ## Reflections on Top Builder
 
