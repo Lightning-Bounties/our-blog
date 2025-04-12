@@ -23,29 +23,19 @@ layout:
 
 **Five teams. One stage. $15K in Bitcoin on the line.**&#x20;
 
-The PlebLab Top Builder Season 2 finale wasn’t just another pitch competition—it was a battleground for Bitcoin’s most innovative builders. Months of sleepless nights, relentless iteration, and bold ideas had led to this moment. For Lightning Bounties and four other groundbreaking projects, everything came down to twenty minutes on stage—a chance to prove we had what it takes to shape the future of Bitcoin. This was the "Top Chef of Bitcoin," where only one team would take the crown. Let me take you inside the chaos, the excitement, and the journey that brought us here.
-
-
-
-## What is PlebLab?
-
-For those who don't know, PlebLab has become the Mecca of the Bitcoin startup ecosystem in the United States. What began as a humble coworking space at Capital Factory in 2021 has evolved into a thriving community hub for Bitcoin builders. Led by CEO Car González, PlebLab transcends the traditional coworking concept.
-
-> _"How do I make it more collaborative? When you say coworking, it's literally just working. How boring is that—working among other people who are also working? That's not fun,"_&#x20;
->
-> Car explains about his vision.
-
-This philosophy has transformed PlebLab into what Car describes as "an accelerator for the Bitcoin era"—not following the traditional startup path of giving someone "$500k on day one and say, 'You got three months to make it or see you later,'" which he considers "a fiat-era thing".
-
-<div align="right"><figure><img src="https://canvasrebel.com/wp-content/uploads/2025/03/c-1742342883128-1742342882774_car_gonzalez_img_1171.jpg" alt="Come &#x26; Make it"><figcaption><p>Come &#x26; Make it</p></figcaption></figure></div>
-
-
+The PlebLab Top Builder Season 2 finale wasn’t just another pitch competition, it was a battleground for Bitcoin’s most promising builders. Months of sleepless nights, relentless iteration, and bold ideas had led to this moment. For Lightning Bounties and four other exceptional projects, everything came down to twenty minutes on stage—a chance to prove we had what it takes to shape the future of Bitcoin. This was the "Top Chef of Bitcoin," where only one team would take the crown. Let me take you inside the chaos, the excitement, and the journey that brought us here.
 
 ## What the Hell is PlebLab Anyway?
 
-If you've never experienced PlebLab, you're missing Bitcoin's most powerful startup ecosystem. Born in 2021 from the minds of Car González, and Keyan Kousha, PlebLab started as a humble coworking space at Capital Factory in Austin. What began with Bitcoin meetups drawing crowds of 200+ people has evolved into what Car calls "an accelerator for the Bitcoin era".
+For those new to the Bitcoin building scene, PlebLab has become the Mecca of the Bitcoin startup ecosystem in the United States. Born in 2021 from the vision of Car González and Keyan Kousha, what began as a humble coworking space at Capital Factory in Austin has evolved into a thriving community hub that's launched over 65 Bitcoin projects and hosted 280+ workshops.
 
-Today, PlebLab has become the beating heart of Bitcoin innovation in Texas—a hybrid hacker garage and startup incubator that's launched 65+ Bitcoin projects and hosted 280+ workshops since 2022. It's where Bitcoin builders come to transform impossible ideas into working products.
+But PlebLab transcends the traditional coworking concept. As Car explains about his vision:&#x20;
+
+> _"How do I make it more collaborative? When you say coworking, it's literally just working. How boring is that—working among other people who are also working? That's not fun,"_&#x20;
+
+This philosophy has transformed PlebLab into "an accelerator for the Bitcoin era"—not following the traditional startup path of giving someone "$500k on day one and say, 'You got three months to make it or see you later,'" which Car correctly considers "a fiat-era thing." Instead, it's a hybrid hacker garage and startup incubator where Bitcoin builders transform impossible ideas into working products, creating the beating heart of Bitcoin innovation in Texas.
+
+<div align="right"><figure><img src="https://canvasrebel.com/wp-content/uploads/2025/03/c-1742342883128-1742342882774_car_gonzalez_img_1171.jpg" alt="Come &#x26; Make it"><figcaption><p>Come &#x26; Make it</p></figcaption></figure></div>
 
 
 
@@ -60,8 +50,6 @@ Our journey through Top Builder Season 2 led us to the final round, where we fac
 ## The Final Contenders
 
 <div><figure><img src="../../.gitbook/assets/BrantaBanner.png" alt=""><figcaption><p><strong>Branta</strong></p></figcaption></figure> <figure><img src="../../.gitbook/assets/shopstrBanner.png" alt="Shopstr"><figcaption><p><strong>Shopstr</strong></p></figcaption></figure> <figure><img src="../../.gitbook/assets/SatsggBanner.png" alt="SATS.GG"><figcaption><p><strong>SATS.GG</strong></p></figcaption></figure> <figure><img src="../../.gitbook/assets/LightningBountiesBanner.png" alt=""><figcaption><p><strong>Lightning Bounties</strong></p></figcaption></figure> <figure><img src="../../.gitbook/assets/JippiBanner.png" alt=""><figcaption><p><strong>Jippi</strong> </p></figcaption></figure></div>
-
-<figure><img src="../../.gitbook/assets/teamsSmallBanner.JPG" alt="Branta, Shopstr, SATS.GG, Lightning Bounties, Jippi "><figcaption><p>Branta, Shopstr, SATS.GG, Lightning Bounties, Jippi </p></figcaption></figure>
 
 ## Branta: Guardrails for Bitcoin
 
@@ -81,7 +69,7 @@ Shopstr addresses a significant problem: permissionless commerce. As Christian (
 
 Shopstr provides a permissionless marketplace built on three technologies: Bitcoin/Lightning for payments, ecash for privacy, and Nostr for social infrastructure and distribution. Shopstr makes it remarkably simple for merchants to list products and receive Bitcoin payments, without requiring extensive technical knowledge or payment infrastructure.
 
-What impressed me was their self-hostable solution—merchants can install their own client on Umbrel or Start9, completely removing reliance on DNS or other centralized internet technologies. With about 50 people already running their own instances and 5 million sats in transaction volume, they're demonstrating real traction.
+What impressed me was their self-hostable feature—merchants can install their own client on Umbrel or Start9, completely removing reliance on DNS or other centralized internet technologies. With about 50 people already running their own instances and 5 million sats in transaction volume, they're demonstrating real traction.
 
 
 
@@ -89,9 +77,9 @@ What impressed me was their self-hostable solution—merchants can install their
 
 <figure><img src="../../.gitbook/assets/SatsggBanner.png" alt="SATS.GG"><figcaption><p><strong>SATS.GG</strong></p></figcaption></figure>
 
-Chad from [SATS.GG](http://sats.gg/) presented a compelling solution for content creators struggling with monetization. He highlighted how platforms like YouTube provide minimal revenue to creators (showing an example of 83,000 views generating only $280), forcing them to use services like Patreon or OnlyFans, which require followers to create new accounts and enter payment information.
+[Chad ](https://x.com/chdwlch)from [SATS.GG](http://sats.gg/) presented a compelling solution for content creators struggling with monetization. He highlighted how platforms like YouTube provide minimal revenue to creators (showing an example of 83,000 views generating only $280), forcing them to use services like Patreon or OnlyFans, which require followers to create new accounts and enter payment information.&#x20;
 
-[SATS.GG](http://sats.gg/) solves this by allowing creators to upload content once and monetize it anywhere through an innovative protocol called L402 HLS, which combines HTTP Live Streaming with Lightning Labs' L402 payment system. Their Lightning video player works across platforms—from personal websites to Twitter and Nostr—letting viewers pay directly through Lightning without creating accounts.
+[SATS.GG](http://sats.gg/) fixes this by allowing creators to upload content once and monetize it anywhere through an innovative protocol called L402 HLS, which combines HTTP Live Streaming with Lightning Labs' L402 payment system. Their Lightning video player works across platforms—from personal websites to Twitter and Nostr—letting viewers pay directly through Lightning without creating accounts.
 
 The live demo showed how content creators can stream, set pricing tiers for different quality levels, and receive payments instantly to their Lightning wallets, with viewers able to watch the content where they already are, without extra accounts.
 
@@ -99,7 +87,9 @@ The live demo showed how content creators can stream, set pricing tiers for diff
 
 <figure><img src="../../.gitbook/assets/LightningBountiesBanner.png" alt="Lightning Bounties"><figcaption><p><strong>Lightning Bounties</strong></p></figcaption></figure>
 
-Up next was us, Lightning Bounties. Saying I was nervous is a massive understatement. I was sweating bullets. It didn't help that the three pitches before us absolutely nailed their presentations and we still had Jippi to follow, who I'd witnessed give a captivating pitch during Startup Day in September. Worst of all, we were running on 3-4 hours of sleep—refining, editing, changing slides and talking points until the insomnia and the previous three days all seemed like a blur.
+Up next was us, Lightning Bounties. Saying I was nervous is a massive understatement. I was sweating fucking bullets. It didn't help that the three pitches before us absolutely nailed their presentations and we still had Jippi to follow, who I'd witnessed give a captivating pitch during Startup Day in September. Worst of all, we were running on 3-4 hours of sleep—refining, editing, changing slides and talking points until the insomnia and the previous three days all seemed like a blur.
+
+<figure><img src="../../.gitbook/assets/fightclub-everythings-a-copy-of-a-copy.gif" alt="copy of a copy"><figcaption><p>us, the night before </p></figcaption></figure>
 
 But this is what Top Builder is all about: bringing out the absolute best in us. We wouldn't have had it any other way.
 
@@ -111,17 +101,19 @@ Our presentation focused on three key aspects of Lightning Bounties:
 
 We demonstrated this with a live example. The only hiccup came when I didn't account for using Enrique's MacBook. Hard to believe, but this was the first time I'd used a Mac in as long as I could remember. While running through the demo, this realization hit me as I looked up at everyone watching. I froze momentarily, trying to figure out why copy/paste wasn't working. Luckily, I heard Enrique whispering "`Command-A`, `Command-C`, `Command-V.`" Once I heard that, it was smooth sailing, and I took a massive breath of relief knowing everything went off without a hitch.
 
+As we wrapped up our pitch, I stepped back from the podium with a strange mix of exhaustion and exhilaration. The judges scribbled notes while the audience applauded. In that moment, standing under those lights, the results almost didn't matter anymore. We'd shown how Lightning Bounties could make a genuine impact in the Bitcoin ecosystem. We'd changed some minds about what a bounty could be—not just code, but design, documentation, education, and beyond. Most importantly, we'd demonstrated just how ridiculously simple the platform was to use—so fucking easy that even a caveman could post a bounty in 30 seconds.
+
 Our journey through Top Builder helped us refine our platform and connect with the broader Bitcoin developer community, creating relationships that will continue to grow long after the competition ends. We've built a marketplace that solves real problems for both open-source projects and developers, all powered by Bitcoin's Lightning Network.
 
 ## Jippi: An AR Adventure Game with a Bitcoin Twist
 
 <figure><img src="../../.gitbook/assets/JippiBanner.png" alt="Jippi"><figcaption><p><strong>Jippi</strong></p></figcaption></figure>
 
-Oliver presented Jippi, an augmented reality game reminiscent of Pokémon Go but with a Bitcoin education twist. The app targets Gen Z, who have an 8-second attention span but represent a massive potential market with $12 trillion in expected purchasing power by 2030.
+Oliver took the stage to present Jippi, an augmented reality game that brilliantly reimagines Pokémon Go with a Bitcoin educational twist. His pitch immediately zeroed in on their target audience: Gen Z users with their notorious 8-second attention spans who nonetheless represent a staggering $12 trillion in expected purchasing power by 2030.
 
-Jippi combines what Gen Z loves—gaming (90% play games), rewards (70% expect rewards while playing), and Bitcoin interest (41% want to learn more). Players explore real-world locations to find Bitcoin-themed "beasts" in AR, answer Bitcoin quiz questions to catch them, and earn tickets to spin a rewards wheel for real Bitcoin sats.
+What made Jippi compelling was how it merges three key elements that Gen Z craves—gaming (played by 90% of the demographic), rewards (expected by 70% while playing), and Bitcoin knowledge (with 41% wanting to learn more). The concept is elegantly simple yet addictive: players explore their real-world surroundings to discover Bitcoin-themed "beasts" in augmented reality, answer Bitcoin quiz questions to capture them, and earn tickets to spin a rewards wheel for actual Bitcoin sats.
 
-Oliver demonstrated how players progress through educational "islands" before catching beasts like "Nakamoto Nick" and "Proof of Work Patrick," with a million-sat prize for the first person to catch all six beasts in their foundation series. The presentation included impressive metrics from their SXSW promotion efforts and the announcement that the app was available to download that day.
+Oliver's live demonstration showcased how players progress through educational "islands" before encountering characters like "Nakamoto Nick" and "Proof of Work Patrick." He dangled a tantalizing million-sat prize for the first person to collect all six beasts in their foundation series. Backing up their concept with hard data, he shared impressive metrics from their SXSW promotion and dropped the mic with the announcement that the app was available for download that very day.
 
 ## The Winner Is... Jippi!
 
