@@ -1,6 +1,5 @@
 ---
 description: 2/24/25 - 3/13/25
-hidden: true
 cover: ../../.gitbook/assets/TBFinaleBanner.png
 coverY: 0
 layout:
@@ -161,15 +160,15 @@ Looking back at our Top Builder journey, I'm struck by how much we've grown. Com
 
 The competition's crucible compressed several months of growth into weeks, creating an environment where innovation thrived under pressure. Though victory eluded us, we emerged battle-tested with a superior product and clear direction for Lightning Bounties' future.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../../.gitbook/assets/Hero_LB_Pleblab_Banner (1).png" alt="Top Builder Season II Banner"><figcaption></figcaption></figure>
 
 ## What's Next for Lightning Bounties
 
 The Top Builder finale isn't the end—it's just the beginning. Energized by this experience, we're accelerating our mission to bridge Bitcoin open-source projects with elite developer talent. The competition's critical feedback is already reshaping our product roadmap and amplifying our community outreach.
 
-The confidence gained from Top Builder fuels our ambitious next phase: enhancing platform features, crafting intuitive guides, hosting hands-on workshops, mentoring hackathons, and engaging through podcasts and Nostr. We're transforming Lightning Bounties into not just a platform, but a cornerstone of Bitcoin's collaborative development ecosystem.
+The confidence gained from Top Builder fuels our ambitious next phase: enhancing platform features, crafting intuitive guides, hosting hands-on workshops, mentoring hackathons, and engaging through podcasts and [Nostr](https://primal.net/p/nprofile1qqsxjszwrjqxjetnfeh9r2kea3jyz4uqxedyawwq58f2cc4uqwtrq7gyjy2yn). We're transforming Lightning Bounties into not just a platform, but a cornerstone of Bitcoin's collaborative development ecosystem.
+
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Lightning Bounties Team</p></figcaption></figure>
 
 ## A Thank You to Car, the Teams, and PlebLab
 
@@ -179,9 +178,10 @@ To the brilliant minds behind [Branta](https://www.branta.pro/), [Shopstr](https
 
 ## Join Our Journey
 
-If you're a developer looking to earn Bitcoin or a project in need of development help, we invite you to join us at Lightning Bounties. Visit [lightningbounties.com](https://www.lightningbounties.com/) or join our Discord community to learn more.
+If you're a developer looking to earn Bitcoin or a project in need of development help, we invite you to join us at Lightning Bounties. Visit [lightningbounties.com](https://www.lightningbounties.com/) or join our [Discord ](https://discord.gg/zBxj4x4Cbq)community to learn more.
 
 The future of Bitcoin is being built by individuals and small teams with big visions. Whether you're a builder, investor, or Bitcoin enthusiast, there's a place for you in this revolution. Let's build together.
 
 
 
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="https://www.lightningbounties.com"><strong>Website</strong></a></td><td></td><td><a href="../../.gitbook/assets/lb_initals_typography_vaporwave_bg.jpg">lb_initals_typography_vaporwave_bg.jpg</a></td><td><a href="https://www.lightningbounties.com">www.lightningbounties.com</a></td></tr><tr><td><a href="https://discord.gg/zBxj4x4Cbq"><strong>Discord</strong> </a></td><td></td><td><a href="../../.gitbook/assets/download (1).png">download (1).png</a></td><td><a href="https://discord.gg/zBxj4x4Cbq">https://discord.gg/zBxj4x4Cbq</a></td></tr><tr><td><a href="https://x.com/LBounties"><strong>Twitter</strong></a></td><td></td><td><a href="../../.gitbook/assets/x_twitter_card.png">x_twitter_card.png</a></td><td><a href="https://x.com/LBounties">https://x.com/LBounties</a></td></tr><tr><td><a href="https://github.com/Lightning-Bounties/"><strong>GitHub</strong></a></td><td></td><td><a href="../../.gitbook/assets/github_card.png">github_card.png</a></td><td><a href="https://github.com/Lightning-Bounties/">https://github.com/Lightning-Bounties/</a></td></tr><tr><td><a href="https://primal.net/p/nprofile1qqsxjszwrjqxjetnfeh9r2kea3jyz4uqxedyawwq58f2cc4uqwtrq7gyjy2yn"><strong>Nostr</strong></a></td><td></td><td><a href="../../.gitbook/assets/nostrcard.webp">nostrcard.webp</a></td><td><a href="https://primal.net/p/nprofile1qqsxjszwrjqxjetnfeh9r2kea3jyz4uqxedyawwq58f2cc4uqwtrq7gyjy2yn">https://primal.net/p/nprofile1qqsxjszwrjqxjetnfeh9r2kea3jyz4uqxedyawwq58f2cc4uqwtrq7gyjy2yn</a></td></tr><tr><td><a href="https://www.linkedin.com/company/lightning-bounties/"><strong>LinkedIn</strong> </a></td><td></td><td><a href="../../.gitbook/assets/download (1) (1) (1).png">download (1) (1) (1).png</a></td><td><a href="https://www.linkedin.com/company/lightning-bounties/">https://www.linkedin.com/company/lightning-bounties/</a></td></tr></tbody></table>
