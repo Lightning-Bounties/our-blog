@@ -1,5 +1,20 @@
 ---
-hidden: true
+cover: .gitbook/assets/Year_1_Review_Banner.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Lightning Bounties Turns One: Our Year in Review
@@ -42,7 +57,7 @@ Our pivot to app.lightningbounties.com became our declaration of independence. W
 
 By year's end, with over 1 million sats flowing through our platform, we'd proven that in true Bitcoin fashion, choosing sovereignty over convenience pays dividends.
 
-## Lightning Bounties Launch / PlebLab Startup Day CMDX 9/20/2025
+## Lightning Bounties Launch / PlebLab Startup Day CMDX
 
 <figure><img src=".gitbook/assets/Pleblab_startup_banner.png" alt=""><figcaption></figcaption></figure>
 
@@ -82,7 +97,7 @@ These enhancements addressed vulnerabilities that are often overlooked in Lightn
 Read The Full Announcement :point\_up\_2:
 {% endembed %}
 
-## Lightning Bounties Enters PlebLab’s Top Builder Season II Competition
+## Lightning Bounties Enters PlebLab’s Top Builder Season II
 
 <figure><img src=".gitbook/assets/Hero_LB_Pleblab_Banner.png" alt="Top Builder Season 2"><figcaption></figcaption></figure>
 
@@ -90,15 +105,15 @@ When we submitted our application to PlebLab's Top Builder Season ||, we essenti
 
 <figure><img src=".gitbook/assets/image (1).png" alt="Top Builder Season 2: Stats"><figcaption><p>Top Builder Season 2: Stats</p></figcaption></figure>
 
-The competition's accelerated timeline pushed us to eliminate friction at every opportunity. Week 6 became our feature blitz with the launch of Anonymous Rewards and "Add Without Login" capabilities—strategically removing barriers to entry. All while maintaining our dual focus of building features and documenting everything we learned.
+The competition's accelerated timeline pushed us to eliminate friction at every opportunity. [Week 6](top-builder-2025/lb-x-top-builder-weekly-recap/week-6-lb-x-top-builder-recap.md) became our feature blitz with the launch of Anonymous Rewards and "Add Without Login" capabilities—strategically removing barriers to entry. All while maintaining our dual focus of building features and documenting everything we learned.
 
 {% embed url="https://blog.lightningbounties.com/top-builder-2025/lb-x-top-builder-weekly-recap" %}
 Read Our Weekly Recaps  of our Top Builder Journey :point\_up\_2:
 {% endembed %}
 
-## **Lightning Bounties: Top Builder Season 2 Finalists**
+## **Lightning Bounties: Top Builder Season II Finalists**
 
-The announcement in Week 7 validated our efforts: Lightning Bounties had secured a spot as one of just five finalists heading to Austin. Preparing for PlebLab's Startup Day on March 13th consumed every moment as we refined our demonstration to showcase our platform's simplicity and direct access to GitHub's massive developer community.
+The announcement in[ Week 7 ](top-builder-2025/lb-x-top-builder-weekly-recap/week-7-lb-x-top-builder-recap.md)validated our efforts: Lightning Bounties had secured a spot as one of just five finalists heading to Austin. Preparing for PlebLab's Startup Day on March 13th consumed every moment as we refined our demonstration to showcase our platform's simplicity and direct access to GitHub's massive developer community.
 
 Standing on that Austin stage alongside innovators like [Branta](https://www.branta.pro/), [Shopstr](https://shopstr.store/), [Sats.gg](https://sats.gg/), and [Jippi ](https://jippi.app/)was both humbling and energizing. Though we didn't take home the top prize, we gained something more valuable: battle-tested experience and crystal-clear direction. The compressed timeline of Top Builder forced us to make hard choices about prioritization and to refine our messaging relentlessly. This pressure-cooker environment provided exactly the exposure, validation, and focus we needed to propel Lightning Bounties into its next chapter—one where we could apply these hard-won lessons to serve our growing community of bounty hunters and open-source maintainers.
 
@@ -144,11 +159,9 @@ Our goals for year two include:
 
 1. **Transitioning from LLC to C-Corp:** Converting our legal structure to position Lightning Bounties for serious investment opportunities. This transformation enables us to issue different stock classes, and speak the same language as VCs when we're ready for growth capital. Put simply: we're building the legal foundation to scale beyond what bootstrapping alone would allow.
 2. **Hackathon Organization and Workshops:** Leveraging our experience as both winners and mentors at the MIT Bitcoin Hackathon to organize our own events. Our platform is tailor-made for hackathons with instant payments and clear success metrics, creating opportunities to introduce more developers to Lightning Network's power.
-3. **Zeroing in on Target Market:** Focusing our efforts on the intersection of open-source maintainers seeking quality contributions and Bitcoin-native developers looking for Bitcoin-based opportunities. This clarity allows us to build more tailored features and speak directly to the problems our core users actually face.
-4. **Strategic Partnership Development:** Establishing connections with complementary services, Bitcoin education platforms, and developer communities to expand our reach. Each alliance creates more value for users on both sides while strengthening Lightning Bounties' position in the ecosystem.
-5. **Enhanced GitHub Automation and PR Templates:** Developing standardized templates and automated workflows that streamline the bounty fulfillment process. These improvements ensure consistent submission quality and make it easier for contributors of all skill levels to participate effectively.
-6. **Comprehensive Onboarding Resources:** Developing detailed documentation and video tutorials that make Lightning Bounties accessible to developers of all experience levels. These resources will reduce the learning curve and help showcase our platform's full capabilities to both bounty hunters and project maintainers.
-7. **User-Driven Product Iteration:** Creating formal feedback channels and a transparent feature request system where users can see their suggestions turn into roadmap items. Our platform will evolve based on actual usage patterns rather than our assumptions about what might be useful.
+3. **Enhanced GitHub Automation and PR Templates:** Developing standardized templates and automated workflows that streamline the bounty fulfillment process. These improvements ensure consistent submission quality and make it easier for contributors of all skill levels to participate effectively.
+4. **Comprehensive Onboarding Resources:** Developing detailed documentation and video tutorials that make Lightning Bounties accessible to developers of all experience levels. These resources will reduce the learning curve and help showcase our platform's full capabilities to both bounty hunters and project maintainers.
+5. **User-Driven Product Iteration:** Creating formal feedback channels and a transparent feature request system where users can see their suggestions turn into roadmap items. Our platform will evolve based on actual usage patterns rather than our assumptions about what might be useful.
 
 ## Conclusion: From Proof-of-Concept to Proof-of-Value
 
