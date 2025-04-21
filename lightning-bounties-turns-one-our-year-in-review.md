@@ -10,11 +10,8 @@ Remember that feeling when you're building something in your basement and sudden
 
 Our journey began during a historic weekend—April 19-21, 2024—coinciding with Bitcoin's fourth halving. While the crypto world watched the halving countdown, our team huddled at MIT with a mission: solve a critical problem plaguing open-source development.
 
-\
-The statistics told a troubling story: 76% of modern codebases rely on open-source foundations, yet only 21% of maintainers receive compensation for their contributions. This disconnect wasn't just a statistic—it represented countless hours of unrecognized work powering our digital world.\
+The statistics told a troubling story: 76% of modern codebases rely on open-source foundations, yet only 21% of maintainers receive compensation for their contributions. This disconnect wasn't just a statistic—it represented countless hours of unrecognized work powering our digital world.\
 Over 30 caffeine-fueled hours, we built "Lightning Bounties," integrating GitHub Actions with Bitcoin rewards through the Lightning Network. Our pitch was simple but powerful: create a easy way for open-source contributors to receive instant compensation through borderless Bitcoin payments.
-
-
 
 <figure><img src=".gitbook/assets/1_vIXvbsxD4j-06r2ERpRfUg.webp" alt="Hackathon Award Ceremony — Lightning Bounties Presenting"><figcaption><p>Hackathon Award Ceremony — <strong>Lightning Bounties P</strong>resenting</p></figcaption></figure>
 
@@ -25,47 +22,33 @@ When we were announced as first-place winners in the Bitcoin, Lightning & Taproo
 _Read the full recap of our MIT Hackathon experience in our_ [_dedicated Blog Post here_](https://medium.com/@jegamboafuentes/our-epic-win-at-the-mit-bitcoin-hackathon-2024-34fab944e78d)_._
 {% endembed %}
 
-
-
 ## From Hackathon Project to Forming an LLC
 
 The post-hackathon high quickly gave way to the realities of building a sustainable platform. Transforming our prototype into a legitimate business meant tackling unfamiliar territory: legal structures, business models, and strategic planning.
 
 Forming our LLC wasn't just paperwork—it represented our commitment to building something lasting. Each team meeting became more structured, shifting from "wouldn't it be cool if..." conversations to discussions about user acquisition, development roadmaps, and sustainability. The transition taught us valuable lessons about building in both the Bitcoin and open-source spaces. We learned to balance innovation with practicality, idealism with sustainability. Most importantly, we discovered that our passion for connecting value to contribution resonated deeply with both communities.
 
+## Embracing Self-Sovereignty: From GitHub Plugin to Independent Platform
 
+<figure><img src=".gitbook/assets/LB_Diagram_TechStack.gif" alt="Architecture Before "><figcaption><p>Architecture Before </p></figcaption></figure>
 
-## Transitioning From GitHub Plug-In to Self Hosted Platform
+Our most pivotal decision came when we transitioned from a GitHub plugin to our own self-hosted platform. Building as a GitHub Action initially made sense for rapid deployment, but we quickly realized we'd be building on quicksand—one policy change could wipe us out overnight.
 
-One of our most significant upgrades was the transition from a GitHub plugin to a comprehensive, self-hosted platform. This wasn't just a technical upgrade—it was an existential decision about the future of Lightning Bounties.
+Late-night team discussions always circled back to the same Bitcoin principle: "Why sacrifice self-sovereignty when it's the very foundation of what we believe in?" The answer was clear.
 
-Early in our journey, we faced a sobering reality check: building as a GitHub Action meant GitHub could de-platform us on a whim. One policy change, one corporate decision, and our entire project could vanish overnight. We'd be building a business on quicksand.
+Our pivot to app.lightningbounties.com became our declaration of independence. We built a platform that leverages GitHub's API while maintaining complete control of our destiny—essentially becoming a Layer 2 solution atop GitHub's infrastructure. Contributors still interact with familiar GitHub workflows while we handle the Lightning payments independently.
 
-"Why put our destiny in someone else's hands when Bitcoin is all about self-sovereignty?" became our rallying question during late-night team discussions. The answer was clear—we needed our own platform.
+<figure><img src=".gitbook/assets/blueprintNew.JPG" alt="Simplified Architecture After "><figcaption><p>Simplified Architecture After </p></figcaption></figure>
 
-The pivot to [app.lightningbounties.com](http://app.lightningbounties.com) represented our declaration of independence. We engineered a standalone platform that leverages GitHub's robust API but doesn't depend on their marketplace for survival. Think of it as becoming a Layer 2 solution on top of GitHub—we utilize their infrastructure while maintaining our autonomy.
-
-This transformation allowed us to act as a bounty aggregator that interfaces with GitHub rather than lives within it. Contributors still interact with familiar GitHub elements—issues, pull requests, and code reviews—while our platform handles the Bitcoin payment layer independently.
-
-The shift wasn't without challenges. We had to rebuild significant portions of our codebase, rethink user flows, and create new documentation. But the sovereignty gained was worth every refactored line of code. Now, project maintainers can post bounties directly linked to GitHub issues while we handle the Lightning Network payments outside GitHub's purview.
-
-By the end of our first year, we got over 1 million sats in transaction volume flowing through our independent platform. We'd transformed from a plugin living at the mercy of a centralized company to a sovereign platform connecting value to contribution across the open-source ecosystem.
-
-Sometimes the most important architectural decisions aren't about code—they're about control. And in true Bitcoin fashion, we chose self-sovereignty over convenience.
-
-
+By year's end, with over 1 million sats flowing through our platform, we'd proven that in true Bitcoin fashion, choosing sovereignty over convenience pays dividends.
 
 ## Lightning Bounties Launch / PlebLab Startup Day CMDX 9/20/2025
 
 <figure><img src=".gitbook/assets/Pleblab_startup_banner.png" alt=""><figcaption></figcaption></figure>
 
-September 20, 2024, marked a pivotal moment for Lightning Bounties—our official debut to the Bitcoin world at PlebLab's Startup Day in Mexico City. This wasn't just another presentation; it was our "getting out of our basement and introducing the world to Lightning Bounties" moment. Behind the scenes, our development team was working tirelessly to ensure everything ran smoothly. Will and Pavel were coding around the clock, squashing bugs and optimizing performance to transform what once took 30 seconds in our Alpha stage into an almost instantaneous experience.
+September 20, 2024, marked a pivotal moment for Lightning Bounties—our official debut to the Bitcoin world at PlebLab's Startup Day in Mexico City. This wasn't just another presentation; it was our "getting out of our basement and introducing the world to Lightning Bounties" moment. Behind the scenes, our development team was working tirelessly to ensure everything ran smoothly. [Will ](https://x.com/WillSuttonCodes)and [Pavel ](https://x.com/pavelkononov93)were coding around the clock, squashing bugs and optimizing performance to transform what once took 30 seconds in our Alpha stage into an almost instantaneous experience.
 
-Meanwhile, Mike and Enrique were on the ground in Mexico City, refining our presentation while simultaneously trying to ward off Montezuma's revenge—a challenge that only added to the pre-presentation jitters. As we took the stage, hearts racing despite countless rehearsals, Enrique executed each click and transition flawlessly, demonstrating the platform we'd poured our hearts into building.
-
-### **First Impressions in a New Ecosystem**
-
-This event represented more than just a product launch—it was our first opportunity to meet many of the builders and plebs in the PlebLab community face-to-face. Half of the Lightning Bounties team coming from backgrounds in the Ethereum ecosystem, we weren't entirely sure if we would fit in or make a good first impression on this tight-knit Bitcoin community. The startup showcase featured impressive projects from across the Bitcoin space—from Resolvr's instant insurance settlements to Orange Metrics' data visualization tools that could enhance our own platform. As we navigated the bustling event, we found ourselves surrounded by entrepreneurs and innovators buzzing with anticipation, exchanging ideas about Bitcoin's future. The atmosphere was electric, filled with "no bullshit, no hype—just raw innovation and real-world applications set to change the game".
+Meanwhile, [Mike ](https://x.com/SonnyTheDegen)and [Enrique ](https://x.com/JEGamboaFuentes)were on the ground in Mexico City, refining our presentation while simultaneously trying to ward off Montezuma's revenge—a challenge that only added to the pre-presentation jitters. As we took the stage, hearts racing despite countless rehearsals, Enrique executed each click and transition flawlessly, demonstrating the platform we'd poured our hearts into building.
 
 ### **Finding Our Home in the Bitcoin Ecosystem**
 
@@ -80,8 +63,6 @@ We came away from Startup Day with absolute certainty that we had found our home
 {% embed url="https://blog.lightningbounties.com/lightning-bounties-recap-of-pleblabs-startup-day-2024-cmdx" %}
 Read the Full Recap in Our Blog Post :point\_up\_2:
 {% endembed %}
-
-
 
 ## Security First: Partnering with Branta
 
@@ -139,27 +120,21 @@ Even more surprisingly, the call opened our eyes to an entire market we'd overlo
 
 <figure><img src=".gitbook/assets/mitbitcoinclub_cover.jpg" alt="Freedom Tech Banner"><figcaption></figcaption></figure>
 
-In a full-circle moment that perfectly captured our journey, we returned to the MIT Bitcoin Hackathon in April 2025 – not as participants this time, but as mentors. Just one year after winning the competition ourselves, we had the privilege of helping the next generation of Bitcoin builders bring their ideas to life.
+In a full-circle moment that perfectly captured our journey, we returned to the [MIT Bitcoin Hackathon](https://mitbtcexpo.org/index.html) in April 2025 – not as participants this time, but as mentors. Just one year after winning the competition ourselves, we had the privilege of helping the next generation of Bitcoin builders bring their ideas to life.
 
 <div><figure><img src=".gitbook/assets/judgePavel.jpg" alt="Judge Pavel"><figcaption><p>Judge Pavel</p></figcaption></figure> <figure><img src=".gitbook/assets/GnvACguXcAM2IkD.jpg" alt="Pavel Mentoring "><figcaption><p>Pavel Mentoring</p></figcaption></figure></div>
 
 <div><figure><img src=".gitbook/assets/GnzyXZEWkAATEis.jpg" alt="Will Mentoring the Hackers"><figcaption><p>Will Mentoring the Hackers</p></figcaption></figure> <figure><img src=".gitbook/assets/judgeEnrique.jpg" alt="Judge Enrique"><figcaption><p>Judge Enrique</p></figcaption></figure></div>
 
-Will Sutton from our team conducted a workshop titled "Setup LNBits on MutinyNet," teaching participants to build Lightning Network applications without risking real funds. Our team members Enrique Gamboa and Pavel Kononov also served as judges, evaluating the impressive projects created during the hackathon. This experience was one of the most rewarding so far, seeing the next wave of Bitcoin builders solve complicated bugs, share knowledge with one another and push themselves through 30 hours of intense hacking was something that we all found inspiring.
+[Will Sutton](https://x.com/WillSuttonCodes) from our team conducted a workshop titled "Setup LNBits on MutinyNet," teaching participants to build Lightning Network applications without risking real funds. Our team members [Enrique Gamboa](https://x.com/JEGamboaFuentes) and [Pavel Kononov](https://x.com/pavelkononov93) also served as judges, evaluating the impressive projects created during the hackathon. This experience was one of the most rewarding so far, seeing the next wave of Bitcoin builders solve complicated bugs, share knowledge with one another and push themselves through 30 hours of intense hacking was something that we all found inspiring.
 
 <figure><img src=".gitbook/assets/snapshotProjectsStatsHackers.JPG" alt="The 2025 MIT Bitcoin Hackathon by the Numbers"><figcaption><p>The 2025 MIT Bitcoin Hackathon by the Numbers</p></figcaption></figure>
 
 As a result, the projects submitted in this years hackathon were arguably the best and most creative in the Expo’s rich history.
 
-
-
 {% embed url="https://blog.lightningbounties.com/lightning-bounties-mentoring-mit-bitcoin-hackathon-2025" %}
 Read the Full Recap of our Experience in Here :point\_up\_2:
 {% endembed %}
-
-Read the full recap of our experience in our dedicated Blog Post here:
-
-
 
 ## What's Next For Lightning Bounties? Our Vision for Year Two
 
@@ -177,6 +152,8 @@ Our goals for year two include:
 
 ## Conclusion: From Proof-of-Concept to Proof-of-Value
 
+<figure><img src=".gitbook/assets/LightningBountiesBanner.png" alt=""><figcaption></figcaption></figure>
+
 One year ago, Lightning Bounties was just an idea—a hopeful solution to the critical disconnect between open-source value creation and contributor compensation. Today, we're processing millions of sats in bounties, connecting developers worldwide, and demonstrating that Bitcoin isn't just a store of value—it's a powerful engine for recognizing and rewarding value creation in real-time.
 
 What we've built goes beyond a payment platform. We're creating an ecosystem where contribution is valued immediately and transparently, where open-source maintainers can sustain their work, and where the global developer community can participate regardless of geographic or financial barriers.
@@ -188,8 +165,8 @@ The journey from hackathon project to a vibrant platform has taught us countless
 If you've read this far, you're probably either a believer in what we're building or curious enough to give it a shot. Here's how you can be part of the Lightning Bounties revolution:
 
 1. **For Project Maintainers**: Post your first bounty today at [app.lightningbounties.com](https://app.lightningbounties.com) and see how incentivizing contributions can transform your project's momentum.
-2. **For Developers**: Join our growing community of bounty hunters—earn sats while contributing to meaningful open-source projects that match your skills and interests.
-3. **For Bitcoin Believers**: Spread the word! Share our platform with your favorite open-source projects, especially those struggling with maintainer burnout or contribution bottlenecks.
+2. **For Developers**: Join our growing [community of bounty hunters](https://discord.gg/zBxj4x4Cbq)—earn sats while contributing to meaningful open-source projects that match your skills and interests.
+3. **For Bitcoiners**: Spread the word! Share our platform with your favorite open-source projects, especially those struggling with maintainer burnout or contribution bottlenecks.
 4. **For Everyone**: Follow our journey through our social channels (listed below) for updates, success stories, and opportunities to shape our platform's future.
 
 {% include ".gitbook/includes/lightningbountiessocials.md" %}
