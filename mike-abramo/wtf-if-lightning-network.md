@@ -1,4 +1,8 @@
-# WTF if Lightning Network?
+---
+hidden: true
+---
+
+# WTF is the Lightning Network?
 
 ## WTF is the Lightning Network?
 
