@@ -13,8 +13,9 @@ To edit our docs, you must have a GitHub account. If you already have one, make 
 
 ## Understanding GitBook's integration with GitHub <a href="#understanding-gitbooks-integration-with-github" id="understanding-gitbooks-integration-with-github"></a>
 
-We use a platform called [GitBook](https://www.gitbook.com/) to host, manage and serve our documentation. GitBook fetches files from our GitHub repository [**Lightning-Bounties/our-blog**](https://github.com/Lightning-Bounties/our-blog/issues/4), reads them and converts them into the pages you can access on [docs.lightningbounties.com](https://docs.lightningbounties.com). A generic structure of a documentation hosted on GitBook would look like this:\
+We use a platform called [GitBook](https://www.gitbook.com/) to host, manage and serve our documentation. GitBook fetches files from our GitHub repository [**Lightning-Bounties/our-blog**](https://github.com/Lightning-Bounties/our-blog/issues/4), reads them and converts them into the pages you can access on [docs.lightningbounties.com](https://docs.lightningbounties.com).&#x20;
 
+A generic structure of a documentation hosted on GitBook would look like this:
 
 {% tabs %}
 {% tab title="Generic Structure of a  GitBook" %}
@@ -60,11 +61,10 @@ Its mirror to GitHub, on the other hand, would have the following structure:
 
 ### Editing Existing Pages <a href="#editing-existing-pages" id="editing-existing-pages"></a>
 
-**1.** Open the page you want to edit. What you see next depends on the resolution of your screen and whether you are viewing that page zoomed in or not.
+1. Open the page you want to edit. What you see next depends on the resolution of your screen and whether you are viewing that page zoomed in or not.
+   1. _On certain occasions, you may see a button saying **Edit on GitHub** above the **Table of Contents** on the right side of the page._
 
-_**a.** On certain occasions, you may see a button saying **Edit on GitHub** above the **Table of Contents** on the right side of the page._
-
-<figure><img src="../../../.gitbook/assets/editOnGitHub.png" alt=""><figcaption><p>Screenshot of our blog home page. A GitHub icon along with the text "Edit on GitHub" is seen above the Table of Contents.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/editOnGitHub.png" alt=""><figcaption><p>A GitHub icon along with the text <em><strong>"Edit on GitHub"</strong></em> is seen above the Table of Contents.</p></figcaption></figure>
 
 **2.** Click on the GitHub icon. This will direct you to the Markdown file in which the contents of the page are stored.
 
@@ -74,12 +74,14 @@ _**a.** On certain occasions, you may see a button saying **Edit on GitHub** abo
 
 **4.** Make any edits you need, remembering to always format them using Markdown. To understand better GitBook's implementation of Markdown, check [their reference guide](https://docs.gitbook.com/content-editing/markdown)
 
-**5.** When you are done making changes, scroll down and write a short description of your changes. Select the option **Create a new branch for this commit and start a pull request** and click on **Propose file change**. This will direct you to the **Pull request** page.
+**5.** When you are done making changes, scroll down and write a short description of your changes.&#x20;
+
+* Select the option **Create a new branch for this commit and start a pull request** and click on **Propose file change**.&#x20;
+  * This will direct you to the **Pull request** page.
 
 <figure><img src="../../../.gitbook/assets/image (41).png" alt=""><figcaption><p>Screenshot of the Commit changes box. There are boxes for a brief description of the changes, an extended one, a selection menu for email addresses to associate with the commit, options to commit directly to the current branch or to create a new branch and a pull request (which opens an option to name your branch as you like) and buttons to either Propose file change or Cancel.</p></figcaption></figure>
 
-**6.** On the **Pull request** page, write a short comment explaining why are proposing those changes (e.g. improving readability, covering cases that weren't mentioned, adding critical details about our platform) and publish your pull request clicking on **Create pull request**.\
-
+**6.** On the **Pull request** page, write a short comment explaining why are proposing those changes (e.g. improving readability, covering cases that weren't mentioned, adding critical details about our platform) and publish your pull request clicking on **Create pull request**.
 
 <figure><img src="../../../.gitbook/assets/image (2).avif" alt=""><figcaption><p>Screenshot of the Pull request page. It shows a box for the title of the Pull request, another for any comments. Below them, there's a Create pull request button.</p></figcaption></figure>
 
@@ -92,7 +94,8 @@ Congratulations, you submitted a pull request! 🎉 The Lightning Bounties team 
 ## Earning Rewards
 
 1. Visit [https://app.lightningbounties.com](https://app.lightningbounties.com/)
-2. Look for bounties titled "Help Improve Our Blog & Docs and Earn Sats!"
+2. Look for open docmentation bounties&#x20;
+   1. Example _"Help Improve Our Blog & Docs and Earn Sats!"_
 3. Claim a bounty by linking your pull request
 4. Once approved, you'll receive sats as a reward!
 
@@ -101,4 +104,4 @@ Congratulations, you submitted a pull request! 🎉 The Lightning Bounties team 
 1. For a more detailed walkthrough on how to submit a pull request on the blog article file through Lightning Bounties see [here](https://docs.lightningbounties.com/docs/solve-a-bounty/working-on-the-bounty)
 2. Also, feel free to contact us at [mike@lightningbounties.com](mailto:mike@lightningbounties.com)
 
-Thank you for helping us improve our documentation!
+Thank you for helping us improve our blog content and documentation!
