@@ -46,3 +46,7 @@
   * [Pavel Kononov](lightning-bounties-team/lightning-bounties-team/pavel-kononov.md)
   * [Enrique Gamboa](lightning-bounties-team/lightning-bounties-team/enrique-gamboa.md)
   * [Mike Abramo](lightning-bounties-team/lightning-bounties-team/mike-abramo.md)
+
+***
+
+* [WIP Bottom Landing Page, Tutorials, Testimonials](wip-bottom-landing-page-tutorials-testimonials.md)
