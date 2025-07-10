@@ -1,20 +1,6 @@
 ---
 cover: ../.gitbook/assets/1_S0nH076q_8qV7CXYQD_y-Q.webp
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Lightning Bounties: Mentoring MIT Bitcoin Hackathon 2025

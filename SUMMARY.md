@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Lightning Bounties Blog](README.md)
-* [Lightning Bounties Blog \[archived\]](readme-1.md)
 * [The Power of Bounties in Innovation: A Historical and Modern Perspective](the-power-of-bounties-in-innovation-a-historical-and-modern-perspective.md)
 * [Lightning Bounties' Recap of PlebLab's Startup Day 2024 - CMDX](lightning-bounties-recap-of-pleblabs-startup-day-2024-cmdx.md)
 * [Lightning Bounties: Mentoring MIT Bitcoin Hackathon 2025](lightning-bounties-mentoring-mit-bitcoin-hackathon-2025.md)
@@ -29,8 +28,6 @@
     * [Suggesting Changes](top-builder-2025/top-builder-x-lightning-bounties/top-builder-teams/suggesting-changes.md)
     * [Branta: Guardrails for Bitcoin & Lightning](top-builder-2025/top-builder-x-lightning-bounties/top-builder-teams/branta-guardrails-for-bitcoin-and-lightning.md)
     * [Shopstr: a Marketplace to Buy & Sell Anything Anonymously with Bitcoin:](top-builder-2025/top-builder-x-lightning-bounties/top-builder-teams/shopstr-a-marketplace-to-buy-and-sell-anything-anonymously-with-bitcoin.md)
-    * [Top Builder](top-builder-2025/top-builder-x-lightning-bounties/top-builder-teams/top-builder/README.md)
-      * [site](https://amber-minda-14.tiiny.site/)
 * [LB x Top Builder Weekly Recap](top-builder-2025/lb-x-top-builder-weekly-recap/README.md)
   * [Week 1: LB x Top Builder Recap](top-builder-2025/lb-x-top-builder-weekly-recap/week-1-lb-x-top-builder-recap.md)
   * [Week 2: LB x Top Builder Recap](top-builder-2025/lb-x-top-builder-weekly-recap/week-2-lb-x-top-builder-recap.md)
@@ -43,6 +40,7 @@
 
 ## Lightning Bounties Team
 
+* [Lightning Bounties Blog \[archived\]](lightning-bounties-team/readme.md)
 * [Lightning Bounties Team](lightning-bounties-team/lightning-bounties-team/README.md)
   * [Will Sutton](lightning-bounties-team/lightning-bounties-team/will-sutton.md)
   * [Pavel Kononov](lightning-bounties-team/lightning-bounties-team/pavel-kononov.md)

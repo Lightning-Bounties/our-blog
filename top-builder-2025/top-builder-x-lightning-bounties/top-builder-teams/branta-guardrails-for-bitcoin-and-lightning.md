@@ -2,20 +2,6 @@
 description: Enhancing Bitcoin and Lightning as a Medium of Exchange
 cover: ../../../.gitbook/assets/branta_banner.png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Branta: Guardrails for Bitcoin & Lightning
@@ -89,8 +75,6 @@ Some of his top tips for guarding against phishing and man-in-the-middle attacks
 
 By combining robust software protection with user education, Branta aims to create a comprehensive security solution for Bitcoin users of all levels of experience.
 
-
-
 {% embed url="https://youtu.be/aWQjEh5TC8U?si=-nInQFyXbKV1hJCy" %}
 Here's Why Yoy Should Build on Branta :point\_up\_2:
 {% endembed %}
@@ -106,4 +90,3 @@ Branta isn’t just a product; it’s a solution helping Bitcoiners sleep better
 To discover more about Branta, click on the images below to explore their website, Twitter, and GitHub!
 
 <table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-type="files"></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><a href="https://www.branta.pro/"><strong>Website</strong></a></td><td></td><td><a href="../../../.gitbook/assets/branta (1).png">branta (1).png</a></td><td><a href="https://www.branta.pro/">https://www.branta.pro/</a></td></tr><tr><td align="center"><a href="https://x.com/BrantaOps"><strong>Twitter</strong></a></td><td></td><td><a href="../../../.gitbook/assets/x_twitter_card.png">x_twitter_card.png</a></td><td><a href="https://x.com/BrantaOps">https://x.com/BrantaOps</a></td></tr><tr><td align="center"><a href="https://github.com/BrantaOps"><strong>GitHub</strong></a></td><td></td><td><a href="../../../.gitbook/assets/github_card.png">github_card.png</a></td><td><a href="https://github.com/BrantaOps">https://github.com/BrantaOps</a></td></tr></tbody></table>
-

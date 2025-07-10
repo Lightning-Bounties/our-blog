@@ -1,20 +1,6 @@
 ---
 cover: ../../../.gitbook/assets/shop-freely-light.png
 coverY: 13
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Shopstr: a Marketplace to Buy & Sell Anything Anonymously with Bitcoin:

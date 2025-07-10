@@ -1,20 +1,6 @@
 ---
 cover: ../../.gitbook/assets/Hero_LB_Pleblab_Banner.png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Top Builder x Lightning Bounties
@@ -117,6 +103,3 @@ This program emphasizes mentorship, community collaboration, and technical innov
 PlebLab is a Bitcoin-focused hackerspace and accelerator dedicated to supporting open-source innovation and fostering a thriving community of developers, creatives, and entrepreneurs.
 
 Based in Austin, Texas, PlebLab empowers the next generation of Bitcoin builders to turn bold ideas into impactful solutions.
-
-
-

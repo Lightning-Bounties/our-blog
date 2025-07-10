@@ -2,20 +2,6 @@
 description: 2/24/25 - 3/13/25
 cover: ../../.gitbook/assets/TBFinaleBanner.png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Week 8-10: Top Builder Finale

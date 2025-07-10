@@ -1,20 +1,6 @@
 ---
 cover: .gitbook/assets/Year_1_Review_Banner.png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Lightning Bounties Turns One: Our Year in Review

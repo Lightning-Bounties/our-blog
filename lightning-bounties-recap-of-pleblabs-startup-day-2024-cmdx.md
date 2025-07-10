@@ -2,17 +2,6 @@
 description: >-
   Follow Lightning Bounties as we navigate the emerging Bitcoin startups
   showcased at PlebLab's Startup Day 2024 in Mexico City.
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Lightning Bounties' Recap of PlebLab's Startup Day 2024 - CMDX
