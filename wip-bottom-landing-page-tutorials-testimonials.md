@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # WIP Bottom Landing Page, Tutorials, Testimonials
 
 

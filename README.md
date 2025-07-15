@@ -15,13 +15,10 @@ Here, bugs become Bitcoin, and code turns into collaboration. As a **Bitcoin-pow
 
 This blog is your backstage pass to:&#x20;
 
-1. Recaps of Industry Events&#x20;
-2. Blog Posts Written by the Lightning Bounties Team
-3. Lightning Bounties in the Media
-4. In-depth tutorials for Using Lightning Bounties
-5. Platform updates and new features
-6. Lightning Network Startup Spotlight
-7. and so much more!
+1. [Recaps of Industry Events ](./#lightning-bounties-event-recaps)
+2. [Blog Posts Written by the Lightning Bounties Team](./#blog-posts-by-the-lightning-bounties-team)
+3. [Lightning Bounties in the Media](./#lightning-bounties-in-the-media)
+4. [Platform Features & Tutorials](./#mastering-lightning-bounties-tutorials-and-platform-features)
 
 Whether you're hunting bounties or securing your codebase, dive into stories of bugs turned into Bitcoin, platform updates, and the future of decentralized development.
 
@@ -49,7 +46,4 @@ Master Lightning Bounties with our comprehensive tutorial library designed for b
 
 <table data-card-size="large" data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><p><a href="https://docs.lightningbounties.com/docs/#getting-started"><strong>Step-by-Step Tutorials</strong></a></p><p></p><p>Enhance your skills with concise tutorials that guide you through using Lightning Bounties effectively. From account setup to advanced features, our tutorials are tailored for all skill levels.</p></td><td><a href=".gitbook/assets/tutorial_card.png">tutorial_card.png</a></td><td><a href="https://docs.lightningbounties.com/docs/#getting-started">https://docs.lightningbounties.com/docs/#getting-started</a></td></tr><tr><td><p><a href="https://docs.lightningbounties.com/docs/glossary-work-in-progress/features"><strong>Platform Features</strong></a></p><p></p><p>Leverage Lightning Bounties powerful features to front run bounty hunting opportunties and stacking sats.  </p></td><td><a href=".gitbook/assets/platform_card.png">platform_card.png</a></td><td><a href="https://docs.lightningbounties.com/docs/glossary-work-in-progress/features">https://docs.lightningbounties.com/docs/glossary-work-in-progress/features</a></td></tr></tbody></table>
 
-
-
 <div align="center"><figure><img src=".gitbook/assets/team_in_play_mode (2).png" alt="The Ligtning Bounties team, enjoying the celtics watch party in Boston&#x27;s Seaport District." width="563"><figcaption><p>The team in play mode</p></figcaption></figure> <figure><img src=".gitbook/assets/image (7).png" alt="The Ligtning Bounties team in the middle of a hack session. Taking place in Revere, MA. Circa 8/2024"><figcaption><p>The team in work mode</p></figcaption></figure></div>
-
