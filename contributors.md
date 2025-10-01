@@ -129,4 +129,4 @@ Full-stack developer passionate about Bitcoin and open-source software. I contri
 {% column %}
 **\[Bounty Title]** - [Link to bounty](https://app.lightningbounties.com/issue/your-bounty-id)
 {% endcolumn %}
-{% endcolumns %}
+{% endcolumns %} 
