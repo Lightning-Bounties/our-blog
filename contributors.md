@@ -44,27 +44,31 @@ Want to join this page? Follow these simple steps:
 
 ### \[Your Name] <a href="#your-name" id="your-name"></a>
 
-\<div align="center"> \<img src=".gitbook/assets/contributors/your-name.png" alt="Your Name" width="150"> \</div>
+1. A photo avatar (using Markdown image syntax, e.g., `![Alt YourName](/assets/images/contributors/YourName.jpg)`).
+2. **About:** \[Write 2-3 sentences about yourself, your background, and/or what you enjoy about contributing to Lightning Bounties]
+3. 3 social links (embedded as clickable text)
+   1. &#x20;**Example:** Find me on [GitHub](https://github.com/yourusername), [X/Twitter](https://x.com/yourhandle), and [your third platform](https://yourlink.com/).
+4. **Bounties Solved:**
 
-**About:** \[Write 2-3 sentences about yourself, your background, and what you enjoy about contributing to Lightning Bounties]
-
-**Connect:** Find me on [GitHub](https://github.com/yourusername), [X/Twitter](https://x.com/yourhandle), and [your third platform](https://yourlink.com/).
-
-**Bounties Solved:**
-
-* [Bounty Title 1](https://app.lightningbounties.com/issue/abc123) - Brief description
-* [Bounty Title 2](https://app.lightningbounties.com/issue/def456) - Brief description
-* [Bounty Title 3](https://app.lightningbounties.com/issue/ghi789) - Brief description (optional)
+* [Bounty Title 1](https://app.lightningbounties.com/issue/abc123) -&#x20;
+* [Bounty Title 2](https://app.lightningbounties.com/issue/def456) -&#x20;
+* [Bounty Title 3](https://app.lightningbounties.com/issue/ghi789) -&#x20;
 
 
 
-{% include ".gitbook/includes/contributors-card.md" %}
+### Example of How Your Contrinutors Section May Look
+
+{% hint style="info" %}
+Don't worry about formatting. Just submit in plain markdown - we'll handle GitBook formatting.
+{% endhint %}
+
+<figure><img src=".gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
 
 
 
 {% columns %}
 {% column width="41.66666666666667%" %}
-### Name2
+### Name
 
 <figure><img src=".gitbook/assets/fightclub-everythings-a-copy-of-a-copy.gif" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
