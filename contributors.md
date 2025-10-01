@@ -74,6 +74,29 @@ Don't worry about formatting. Just submit in plain markdown - we'll handle GitBo
 {% endcolumn %}
 
 {% column width="58.33333333333333%" valign="bottom" %}
+---
+
+## Your Contributor Profile (Fill This Template Below)
+
+### [Your Full Name] <a href="#turizspace" id="turizspace"></a>
+
+![Your Avatar Alt Text](.gitbook/assets/contributors/turizspace.jpeg)
+
+**About:**
+I build Bitcoin and Nostr-based apps and enjoy solving real problems through open-source. Lightning Bounties lets me learn, earn, and contribute to the Bitcoin ecosystem in a meaningful way.
+
+**Connect:**
+Find me on [GitHub](https://github.com/turizspace), [Nostr](https://primal.net/p/nprofile1qqsqdqc0dj6eyk7c9n99n0dgfrcq2enxmlcyd3fc9936n9azxndyp3gk59y83), and [LinkedIn](https://ke.linkedin.com/in/2rizmo).
+
+**Bounties Solved:**
+
+* [Do not allow identically named wallets](https://github.com/BrantaOps/core/issues/32) - Fixed issue of duplicate wallet names.
+* [Favicon renders on local dev but not in prod](https://github.com/ATLBitLab/twelvecash/issues/53) - Fixed custom favicon to work on local dev and in staging, and in prod.
+* [Nostr-Account-Setup-Consultation](https://github.com/octoberjackie/Nostr-Account-Setup-Consultation/issues/1) - Guidance on setting up and optimizing Nostr presence and experience.
+* [Mini Contest- Create media assets](https://github.com/octoberjackie/Design-Contest-Create-Our-New-Twitter-Image-Assets-/issues/2) - Designed badges for best perfoming bounty hunters
+
+
+---
 Full-stack developer passionate about Bitcoin and open-source software. I contribute to Lightning Bounties projects, earning sats while building tools that matter. Specialized in React, Node.js, and Lightning Network integrations.
 {% endcolumn %}
 {% endcolumns %}
