@@ -82,14 +82,16 @@ Don't worry about formatting. Just submit in plain markdown - we'll handle GitBo
 
 {% columns %}
 {% column width="50%" %}
-#### TURI$MO
+<h4 align="center">TURI$MO</h4>
 
-<figure><img src=".gitbook/assets/contributors/turizspace.jpeg" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src=".gitbook/assets/contributors/turizspace.jpeg" alt=""><figcaption></figcaption></figure></div>
 
 **About:** I build Bitcoin and Nostr-based apps and enjoy solving real problems through open-source. Lightning Bounties lets me learn, earn, and contribute to the Bitcoin ecosystem in a meaningful way.
 {% endcolumn %}
 
 {% column width="50%" valign="middle" %}
+
+
 **Connect:** Find me on [GitHub](https://github.com/turizspace), [Nostr](https://primal.net/p/nprofile1qqsqdqc0dj6eyk7c9n99n0dgfrcq2enxmlcyd3fc9936n9azxndyp3gk59y83), and [LinkedIn](https://ke.linkedin.com/in/2rizmo).
 
 **Bounties Solved:**
