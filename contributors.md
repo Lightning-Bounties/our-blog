@@ -50,6 +50,22 @@ Want to join this page? Follow these simple steps:
 * [Bounty Title 2](https://app.lightningbounties.com/issue/def456) -
 * [Bounty Title 3](https://app.lightningbounties.com/issue/ghi789) -
 
+
+
+### How to Find Bounties You Solved&#x20;
+
+1.  Go to [app.lightningbounties.com](https://app.lightningbounties.com/) and Scroll down the bounty feed to find a bounty you've solved.&#x20;
+
+    _**No need to LogIn with GitHub**_
+2.  Click on your Profile avatar on the feed.
+
+    <div data-with-frame="true"><figure><img src=".gitbook/assets/image (48).png" alt=""><figcaption><p>For this instance we will choose SonnyMonroe</p></figcaption></figure></div>
+3. From here Click on "User Bounties" and scroll down to view the Bounties you've Solved
+
+<div data-with-frame="true"><figure><img src=".gitbook/assets/image (47).png" alt=""><figcaption><p>Scroll down the feed to find all of the bounties have solved. </p></figcaption></figure></div>
+
+
+
 ### Example of How Your Contrinutors Section May Look
 
 {% hint style="info" %}
@@ -73,11 +89,7 @@ Don't worry about formatting. Just submit in plain markdown - we'll handle GitBo
 **About:** I build Bitcoin and Nostr-based apps and enjoy solving real problems through open-source. Lightning Bounties lets me learn, earn, and contribute to the Bitcoin ecosystem in a meaningful way.
 {% endcolumn %}
 
-{% column width="50%" valign="bottom" %}
-
-
-**About:** I build Bitcoin and Nostr-based apps and enjoy solving real problems through open-source. Lightning Bounties lets me learn, earn, and contribute to the Bitcoin ecosystem in a meaningful way.
-
+{% column width="50%" valign="middle" %}
 **Connect:** Find me on [GitHub](https://github.com/turizspace), [Nostr](https://primal.net/p/nprofile1qqsqdqc0dj6eyk7c9n99n0dgfrcq2enxmlcyd3fc9936n9azxndyp3gk59y83), and [LinkedIn](https://ke.linkedin.com/in/2rizmo).
 
 **Bounties Solved:**
