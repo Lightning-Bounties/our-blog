@@ -1,6 +1,6 @@
 ---
 description: >-
-  Blog discussing the a past, present, and future history of bounties and how
+  Blog discussing the past, present, and future history of bounties and how
   they spur innovation
 ---
 
@@ -71,7 +71,17 @@ Looks like in both cases, bounties were a key part of bringing in talent that di
 
 <figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
-Excerpts from Laura Chin's [_Cryptopians (2022)_](https://laurashin.com/book/). I was gited this book several months ago and it's been a great read. I highly recommend it.
+Excerpts from Laura Shin's [_Cryptopians (2022)_](https://laurashin.com/book/). I was gifted this book several months ago and it's been a great read. I highly recommend it.
+
+***
+
+**from @joelklabo:**
+
+Bitcoin Core itself runs one of the most consequential bug bounty programs in existence. Since the protocol secures hundreds of billions of dollars in value, finding and responsibly disclosing vulnerabilities is critical. In 2018, a pseudonymous developer discovered CVE-2018-17144, a bug that would have allowed miners to create Bitcoin out of thin air — effectively breaking the 21 million supply cap. The bounty paid for this disclosure was modest compared to what was at stake, but it demonstrated something powerful: a single motivated individual, working independently, caught a bug that the entire core development team had missed.
+
+What makes Bitcoin's bug bounty model unique is that it operates in a fully open-source, permissionless environment. There is no company gatekeeping who can participate. Anyone can audit the code, and the bounty incentive ensures that white-hat researchers are rewarded for choosing disclosure over exploitation. This is the same principle that Lightning Bounties builds on — aligning financial incentives with open-source contribution, so that the people who create the most value get paid for it instantly.
+
+The Bitcoin Core bug bounty shows that even small bounties can protect enormous amounts of value when they reach the right person at the right time.
 
 ***
 

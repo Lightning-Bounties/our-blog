@@ -1,6 +1,6 @@
 ---
 description: >-
-  Blog discussing the a past, present, and future history of bounties and how
+  Blog discussing the past, present, and future history of bounties and how
   they spur innovation
 ---
 
@@ -71,7 +71,7 @@ Looks like in both cases, bounties were a key part of bringing in talent that di
 
 <figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
-Excerpts from Laura Chin's [_Cryptopians (2022)_](https://laurashin.com/book/). I was gited this book several months ago and it's been a great read. I highly recommend it.
+Excerpts from Laura Shin's [_Cryptopians (2022)_](https://laurashin.com/book/). I was gifted this book several months ago and it's been a great read. I highly recommend it.
 
 ***
 
