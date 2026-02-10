@@ -75,7 +75,7 @@ Excerpts from Laura Chin's [_Cryptopians (2022)_](https://laurashin.com/book/). 
 
 ***
 
-**from @MaxBitcoin:**
+**from @joelklabo:**
 
 The DARPA Grand Challenge (2004-2007) is a modern example of a bounty-style innovation prize: DARPA offered large cash prizes for teams that could build an autonomous vehicle capable of completing a long, unmanned course.
 
