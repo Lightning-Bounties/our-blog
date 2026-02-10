@@ -75,4 +75,23 @@ Excerpts from Laura Chin's [_Cryptopians (2022)_](https://laurashin.com/book/). 
 
 ***
 
+**from @MaxBitcoin:**
+
+The DARPA Grand Challenge (2004-2007) is a modern example of a bounty-style innovation prize: DARPA offered large cash prizes for teams that could build an autonomous vehicle capable of completing a long, unmanned course.
+
+Pros:
+* The goal was concrete and measurable, so teams could iterate quickly.
+* It created a public proving ground that attracted serious builders (universities, startups, hobbyists) and accelerated knowledge-sharing.
+
+Cons:
+* Participation was still expensive (vehicles, sensors, travel), so it wasn't equally accessible to everyone.
+* The metric (finish the course) is narrow compared to real-world driving, so some work didn't translate directly.
+
+One clear success: the challenge helped kickstart the modern self-driving ecosystem; many teams and individuals from the challenge went on to build and lead autonomous vehicle programs in industry.
+
+(1) https://www.darpa.mil/about-us/timeline/-grand-challenge-for-autonomous-vehicles
+(2) https://en.wikipedia.org/wiki/DARPA_Grand_Challenge
+
+***
+
 _End._
