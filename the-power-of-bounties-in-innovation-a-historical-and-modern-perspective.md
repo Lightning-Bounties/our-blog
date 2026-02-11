@@ -75,4 +75,16 @@ Excerpts from Laura Chin's [_Cryptopians (2022)_](https://laurashin.com/book/). 
 
 ***
 
+**from @MaxBitcoin:**
+
+A modern bounty system that scales well is a vulnerability reward program (VRP): companies (and sometimes open source projects) pay independent researchers for responsibly-disclosed security bugs.
+
+**Pros:** it taps into a huge pool of external talent, creates a clear incentive for responsible disclosure, and usually results in faster fixes for high-impact issues.
+
+**Cons:** rewards can skew effort toward "bounty hunting" for easy wins, and the program's scope/rules can miss deeper architectural problems that do not map cleanly to a single report.
+
+One success: Google publishes yearly VRP results (payouts + findings), showing how paid reports translate into real fixes across widely-used products: https://bughunters.google.com/report
+
+***
+
 _End._
