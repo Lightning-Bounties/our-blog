@@ -7,16 +7,16 @@ coverY: 0
 
 ## Welcome to Lightning Bounties x Top Builder Page
 
-Thank you for checking out our blog! We document our progress in the PlebLabs Top Builder competition, provide insights into what Lightning Bounties is all about, and share updates on what we and other top builder teams are working with each  week.
+Thank you for checking out our blog! We document our progress in the PlebLabs Top Builder competition, provide insights into what Lightning Bounties is all about, and share updates on what we and other top builder teams are working with each week.
 
 We're Lightning Bounties, dedicating ourselves to Bitcoin Bug Bounties on GitHub!
 
 ## Our Goals For Top Builder&#x20;
 
-At Lightning Bounties, our main goal through the Top Builder competition is to collaborate, build, and learn with participating teams and mentors. You can join us with building Lightning Bounties and earn sats in the process. Need help fixing a pesky bug or want to add a cool feature on your Top Builder projct?&#x20;
+At Lightning Bounties, our main goal through the Top Builder competition is to collaborate, build, and learn with participating teams and mentors. You can join us in building Lightning Bounties and earn sats in the process. Need help fixing a pesky bug or want to add a cool feature on your Top Builder project?&#x20;
 
 {% hint style="info" %}
-Visit our bounty platform at [app.lightningbounties.com](http://app.lightningbounties.com) New bounties posted daily!
+Visit our bounty platform at [app.lightningbounties.com](https://app.lightningbounties.com). New bounties posted daily!
 {% endhint %}
 
 ## About Lightning Bounties
@@ -63,7 +63,7 @@ Stay informed about our progress and updates during the Top Builder competition 
 <table data-card-size="large" data-column-title-hidden data-view="cards" data-full-width="false"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="https://lb-bizdev.notion.site/topbuilder-season-2?v=176e1fe7ce6b8168b785000c4c58ed88"><strong>Business Development Task Tracker</strong></a></td><td>Keep an eye on our business development plans and achievements. This tracker outlines our roadmap and the tasks we focus on during the Top Builder competition.  </td><td><a href="../../.gitbook/assets/notion_bizdev_ss (2).JPG">notion_bizdev_ss (2).JPG</a></td><td><a href="https://lb-bizdev.notion.site/topbuilder-season-2?v=176e1fe7ce6b8168b785000c4c58ed88">https://lb-bizdev.notion.site/topbuilder-season-2?v=176e1fe7ce6b8168b785000c4c58ed88</a></td></tr><tr><td><a href="https://github.com/orgs/Lightning-Bounties/projects/2/views/1"><strong>Development Task Tracker &#x26; Roadmap</strong> </a></td><td>Follow along with our development efforts. This tracker highlights our ongoing projects, key milestones, and progress we've made during the Top Builder competition.</td><td><a href="../../.gitbook/assets/github_tb_issue_ss.JPG">github_tb_issue_ss.JPG</a></td><td><a href="https://github.com/orgs/Lightning-Bounties/projects/2">https://github.com/orgs/Lightning-Bounties/projects/2</a></td></tr></tbody></table>
 
 {% hint style="info" %}
-Did you notice a typo a bug yet? Email me at[ mike@lightningbounties.com](mailto:mike@lightningbounties.com), and I'll send you 1000 sats for pointing out any documentation errors.
+Did you notice a typo or a bug yet? Email me at [mike@lightningbounties.com](mailto:mike@lightningbounties.com), and I'll send you 1000 sats for pointing out any documentation errors.
 {% endhint %}
 
 ## Lightning Bounties Team

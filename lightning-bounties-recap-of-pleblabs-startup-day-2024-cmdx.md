@@ -147,9 +147,8 @@ We owe immense gratitude to [Car](https://primal.net/p/npub1f4www6qjx43mckpkjld4
 
 The connections made, knowledge gained, and support received have been invaluable. We're honored to be part of this vibrant ecosystem and look forward to contributing to its growth.
 
-_**P.S. If you've made it this far and have a bug to squash or a feature to add to your project, you know what to do - head over to**_ [**app.lightningbounties.com**](http://app.lightningbounties.com/)_**, and let's build something amazing together!**_
+_**P.S. If you've made it this far and have a bug to squash or a feature to add to your project, you know what to do - head over to**_ [**app.lightningbounties.com**](https://app.lightningbounties.com/)_**, and let's build something amazing together!**_
 
 
 
 <div align="center"><figure><img src=".gitbook/assets/lb_initals_typography_rectangle_vaporwave_nobg.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/qr_code_next_lightningbounties.png" alt="" width="563"><figcaption><p><a href="https://app.lightningbounties.com/">Scan The QR Code to Get Started!</a></p></figcaption></figure></div>
-
