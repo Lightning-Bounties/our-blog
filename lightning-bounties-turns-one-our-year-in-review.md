@@ -12,12 +12,12 @@ Remember that feeling when you're building something in your basement and sudden
 Our journey began during a historic weekend—April 19-21, 2024—coinciding with Bitcoin's fourth halving. While the crypto world watched the halving countdown, our team huddled at MIT with a mission: solve a critical problem plaguing open-source development.
 
 The statistics told a troubling story: 76% of modern codebases rely on open-source foundations, yet only 21% of maintainers receive compensation for their contributions. This disconnect wasn't just a statistic—it represented countless hours of unrecognized work powering our digital world.\
-Over 30 caffeine-fueled hours, we built "Lightning Bounties," integrating GitHub Actions with Bitcoin rewards through the Lightning Network. Our pitch was simple but powerful: create a easy way for open-source contributors to receive instant compensation through borderless Bitcoin payments.
+Over 30 caffeine-fueled hours, we built "Lightning Bounties," integrating GitHub Actions with Bitcoin rewards through the Lightning Network. Our pitch was simple but powerful: create an easy way for open-source contributors to receive instant compensation through borderless Bitcoin payments.
 
 <figure><img src=".gitbook/assets/1_vIXvbsxD4j-06r2ERpRfUg.webp" alt="Hackathon Award Ceremony — Lightning Bounties Presenting"><figcaption><p>Hackathon Award Ceremony — <strong>Lightning Bounties P</strong>resenting</p></figcaption></figure>
 
 \
-When we were announced as first-place winners in the Bitcoin, Lightning & Taproot track, it wasn't just a victory for our team—it validated that we'd identified a real problem with a viable solution. The bragging rights was nice, but the enthusiastic feedback from judges and fellow hackers convinced us we were onto something bigger than a weekend project.
+When we were announced as first-place winners in the Bitcoin, Lightning & Taproot track, it wasn't just a victory for our team—it validated that we'd identified a real problem with a viable solution. The bragging rights were nice, but the enthusiastic feedback from judges and fellow hackers convinced us we were onto something bigger than a weekend project.
 
 {% embed url="https://medium.com/@jegamboafuentes/our-epic-win-at-the-mit-bitcoin-hackathon-2024-34fab944e78d" %}
 _Read the full recap of our MIT Hackathon experience in our_ [_dedicated Blog Post here_](https://medium.com/@jegamboafuentes/our-epic-win-at-the-mit-bitcoin-hackathon-2024-34fab944e78d)_._
