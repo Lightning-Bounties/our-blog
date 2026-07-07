@@ -82,6 +82,54 @@ Don't worry about formatting. Just submit in plain markdown - we'll handle GitBo
 
 {% columns %}
 {% column width="50%" %}
+<h4 align="center">Connor Pape</h4>
+
+<div data-with-frame="true"><figure><img src="https://github.com/libfrontcrypto.png" alt=""><figcaption></figcaption></figure></div>
+
+**About:** I run Operation Stack Sats — an autonomous Bitcoin content engine building videos, Nostr cross-posting, and Lightning-powered tooling. Lightning Bounties connects builders directly to sats, and that's exactly the kind of incentive alignment Bitcoin was made for.
+{% endcolumn %}
+
+{% column width="50%" valign="middle" %}
+
+
+**Connect:** Find me on [GitHub](https://github.com/libfrontcrypto), [Nostr](https://primal.net/p/npub1tpghuc3nnwm7d2qs4vynp9hfcl2j5epnyeh7r2al6xct53ttrxvq2a6adv), and [YouTube](https://youtube.com/@operationstacksats).
+
+**Bounties Solved:**
+
+* [Add Yourself to Lightning Bounties Contributors Page](https://github.com/Lightning-Bounties/our-blog/issues/1) - This contribution!
+
+***
+{% endcolumn %}
+{% endcolumns %}
+
+{% columns %}
+{% column valign="middle" %}
+<i class="fa-github">:github:</i> [GitHub](https://github.com/libfrontcrypto)
+{% endcolumn %}
+
+{% column valign="middle" %}
+<i class="fa-n">:n:</i> [Nostr](https://primal.net/p/npub1tpghuc3nnwm7d2qs4vynp9hfcl2j5epnyeh7r2al6xct53ttrxvq2a6adv)
+{% endcolumn %}
+
+{% column valign="middle" %}
+<i class="fa-youtube">:youtube:</i> [YouTube](https://youtube.com/@operationstacksats)
+{% endcolumn %}
+{% endcolumns %}
+
+<h4 align="center"><mark style="background-color:purple;"><strong>Bounties Solved on Lightning Bounties:</strong></mark></h4>
+
+{% columns %}
+{% column valign="middle" %}
+[**Add Yourself to Lightning Bounties Contributors Page**](https://github.com/Lightning-Bounties/our-blog/issues/1)
+
+First contribution to Lightning Bounties — joining the builder community.
+{% endcolumn %}
+{% endcolumns %}
+
+
+
+{% columns %}
+{% column width="50%" %}
 <h4 align="center">TURI$MO</h4>
 
 <div data-with-frame="true"><figure><img src=".gitbook/assets/contributors/turizspace.jpeg" alt=""><figcaption></figcaption></figure></div>
