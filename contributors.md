@@ -82,6 +82,30 @@ Don't worry about formatting. Just submit in plain markdown - we'll handle GitBo
 
 {% columns %}
 {% column width="50%" %}
+<h4 align="center">libfrontcrypto</h4>
+
+<div data-with-frame="true"><figure><img src="https://github.com/libfrontcrypto.png" alt=""><figcaption></figcaption></figure></div>
+
+**About:** Building on Bitcoin and Lightning. Happy to be here.
+{% endcolumn %}
+
+{% column width="50%" valign="middle" %}
+
+
+**Connect:** Find me on [GitHub](https://github.com/libfrontcrypto).
+
+**Bounties Solved:**
+
+* [Add Yourself to Lightning Bounties Contributors Page](https://github.com/Lightning-Bounties/our-blog/issues/1) - This contribution!
+
+***
+{% endcolumn %}
+{% endcolumns %}
+
+
+
+{% columns %}
+{% column width="50%" %}
 <h4 align="center">TURI$MO</h4>
 
 <div data-with-frame="true"><figure><img src=".gitbook/assets/contributors/turizspace.jpeg" alt=""><figcaption></figcaption></figure></div>
