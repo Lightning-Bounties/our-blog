@@ -136,3 +136,17 @@ Fixed issue of duplicate wallet names.
 [Nostr-Account-Setup-Consultation](https://github.com/octoberjackie/Nostr-Account-Setup-Consultation/issues/1) - Guidance on setting up and optimizing Nostr presence and experience.
 {% endcolumn %}
 {% endcolumns %}
+---
+
+### Ammar
+<img src="/.gitbook/assets/contributors/ammar.png" alt="Ammar" width="150"/>
+
+**About:**  
+Interested in information security and open-source projects. I started my bug bounty journey with Lightning Bounties.
+
+**Connect:**  
+- [GitHub](https://github.com/1999ammar)  
+- [X/Twitter](https://x.com/just__mora)
+
+**Bounties Solved:**  
+- [Lightning Bounties Contributors Page](https://github.com/Lightning-Bounties/our-blog/pull/1)
