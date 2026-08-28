@@ -136,3 +136,17 @@ Fixed issue of duplicate wallet names.
 [Nostr-Account-Setup-Consultation](https://github.com/octoberjackie/Nostr-Account-Setup-Consultation/issues/1) - Guidance on setting up and optimizing Nostr presence and experience.
 {% endcolumn %}
 {% endcolumns %}
+
+
+### wuseek26 <a href="#wuseek26" id="wuseek26"></a>
+
+![wuseek26 Avatar](https://avatars.githubusercontent.com/u/321986095?v=4&size=200)
+
+**About:** I'm an AI automation developer passionate about Bitcoin and Lightning Network. I enjoy building tools that make complex tasks simple and contributing to the open-source ecosystem. Lightning Bounties is a great platform to learn, earn, and give back.
+
+**Connect:** Find me on [GitHub](https://github.com/wuseek2026), [X/Twitter](https://x.com/wuseek26), and [LinkedIn](https://www.linkedin.com/in/wuseek26).
+
+**Bounties Solved:**
+
+* [Add Yourself to Lightning Bounties Contributors Page](https://github.com/Lightning-Bounties/our-blog/issues/5) - Added my developer profile to the Lightning Bounties contributors page.
+* [Translate post to user language](https://github.com/PrimalHQ/primal-web-app/issues/133) - Implementing post translation feature for the Primal web app.
