@@ -66,7 +66,7 @@ Want to join this page? Follow these simple steps:
 
 
 
-### Example of How Your Contrinutors Section May Look
+### Example of How Your Contributors Section May Look
 
 {% hint style="info" %}
 Don't worry about formatting. Just submit in plain markdown - we'll handle GitBook formatting.
