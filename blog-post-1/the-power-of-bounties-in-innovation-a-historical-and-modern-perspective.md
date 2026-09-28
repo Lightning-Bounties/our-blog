@@ -34,7 +34,7 @@ Another important aspect of bounties is their ability to uncover hidden talent. 
 
 #### Lightning Bounties: The Next Step in Micro Bounties
 
-As discussed, most innovation bounty prizes took months or years to complete in the past. While some of these bounties are still remembered today due to their difficult and impactful nature, the problem bounty solvers is the significant risk of spending so much time.
+As discussed, most innovation bounty prizes took months or years to complete in the past. While some of these bounties are still remembered today due to their difficult and impactful nature, the problem for bounty solvers is the significant risk of spending so much time.
 
 This is why Lightning Bounties is a significant advance in bounties. We break them down into very small pieces and reward the prize immediately. It's not unheard of to earn multiple bounties in a single day. With this rate of feedback, bounty hunters can focus their efforts on the languages, projects that are best suited to their skills and earning goals.
 

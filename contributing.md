@@ -1,6 +1,6 @@
 ---
 description: >-
-  To write suggest to the Lightning Bounties blog, fix typos or suggest edits,
+  To suggest writing for the Lightning Bounties blog, fix typos or suggest edits,
   follow the directions below.
 ---
 
@@ -158,7 +158,8 @@ To earn Bitcoin bounties for your contributions, you **must** include the `close
 4. Add `close #[issue-number]` to your PR description
 5. Click "Update Comment"
 
-**Option 2: Ask for Help**\
+**Option 2: Ask for Help**
+\
 If you cannot edit the PR, ask the repository owner to add the `close` syntax for you.
 
 {% hint style="warning" %}
