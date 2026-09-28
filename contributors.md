@@ -62,11 +62,11 @@ Want to join this page? Follow these simple steps:
     <div data-with-frame="true"><figure><img src=".gitbook/assets/image (48).png" alt=""><figcaption><p>For this instance we will choose SonnyMonroe</p></figcaption></figure></div>
 3. From here Click on "User Bounties" and scroll down to view the Bounties you've Solved
 
-<div data-with-frame="true"><figure><img src=".gitbook/assets/image (47).png" alt=""><figcaption><p>Scroll down the feed to find all of the bounties have solved. </p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src=".gitbook/assets/image (47).png" alt=""><figcaption><p>Scroll down the feed to find all of the bounties you have solved. </p></figcaption></figure></div>
 
 
 
-### Example of How Your Contrinutors Section May Look
+### Example of How Your Contributors Section May Look
 
 {% hint style="info" %}
 Don't worry about formatting. Just submit in plain markdown - we'll handle GitBook formatting.
