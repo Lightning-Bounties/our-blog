@@ -61,7 +61,7 @@ It was amazing to see how the lessons from these workshops directly reinforced t
 #### **Day 3: Exploring Real-World Impact**
 
 **Memorable sessions:**\
-Sessions like[ 'El Salvador: Real-World Adoption Pathways'](https://github.com/TABConf/6.tabconf.com/issues/134) 🌍📜 and '[Supercharging Transactions with Async Payjoin](https://github.com/TABConf/6.tabconf.com/issues/98)' ⚡️🚀 highlighted the transformative potential of Bitcoin.
+Sessions like ['El Salvador: Real-World Adoption Pathways'](https://github.com/TABConf/6.tabconf.com/issues/134) 🌍📜 and '[Supercharging Transactions with Async Payjoin](https://github.com/TABConf/6.tabconf.com/issues/98)' ⚡️🚀 highlighted the transformative potential of Bitcoin.
 
 <figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption><p><a href="https://github.com/JordanPendley"><strong>JordanPendley</strong></a> <strong>oppening the eyes of many about the bright future of El Salvador.</strong></p></figcaption></figure>
 
