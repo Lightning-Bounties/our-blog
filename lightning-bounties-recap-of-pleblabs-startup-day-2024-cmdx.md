@@ -63,7 +63,7 @@ The platform allows us to query and visualize open-source data from Bitcoin, Lig
 
 ## [**Resolvr**](https://resolvr.io/)**: Transforming Insurance with Instant Settlements**
 
-[Dave ](https://x.com/DaveResolvr)from Resolvr delivered an engaging presentation that transformed the typically mundane topic of insurance into something both educational and interesting. He highlighted a critical issue in the traditional insurance industry: the average settlement time of 180 days, which causes significant financial strain throughout the insurance chain. Resolvr's innovative solution leverages Bitcoin and Lightning Network technology to dramatically reduce this settlement time.
+[Dave](https://x.com/DaveResolvr) from Resolvr delivered an engaging presentation that transformed the typically mundane topic of insurance into something both educational and interesting. He highlighted a critical issue in the traditional insurance industry: the average settlement time of 180 days, which causes significant financial strain throughout the insurance chain. Resolvr's innovative solution leverages Bitcoin and Lightning Network technology to dramatically reduce this settlement time.
 
 The presentation showcased Resolvr's Reinsurance Premium Manager (RPM), which enables instant, accurate, and global settlement payments. Dave demonstrated the platform live, processing payments instantly across multiple parties, including reinsurers. He emphasized that while they use Bitcoin and Lightning for settlements, the platform can also handle fiat-to-fiat transactions. Resolvr's approach significantly reduces processing costs and eliminates friction between different parties in the insurance chain, potentially transforming how insurance claims are processed and settled globally.
 
@@ -73,7 +73,7 @@ The presentation showcased Resolvr's Reinsurance Premium Manager (RPM), which en
 
 Shopstr, is a user-friendly decentralized marketplace that aims to revolutionize online selling. Built on Nostr and leveraging Bitcoin and Lightning Network technology, Shopstr offers a compelling alternative to traditional e-commerce platforms.&#x20;
 
-Unlike giants like[ eBay which charge hefty fees (around 13.5%)](https://community.ebay.com/t5/Selling/E-bay-s-detailed-fee-breakdown/td-p/33898131), Shopstr provides a more cost-effective solution for sellers, saving them significant amounts on transaction costs.
+Unlike giants like [eBay which charge hefty fees (around 13.5%)](https://community.ebay.com/t5/Selling/E-bay-s-detailed-fee-breakdown/td-p/33898131), Shopstr provides a more cost-effective solution for sellers, saving them significant amounts on transaction costs.
 
 What sets Shopstr apart is its focus on simplicity and user control. Users can easily create an account without extensive personal information, list items quickly, and maintain ownership of their data. The platform integrates seamlessly with other Nostr-based applications, allowing users to manage their marketplace presence across multiple platforms effortlessly.
 
