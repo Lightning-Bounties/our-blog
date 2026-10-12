@@ -1,6 +1,6 @@
 ---
 description: >-
-  To write suggest to the Lightning Bounties blog, fix typos or suggest edits,
+  To write for the Lightning Bounties blog, fix typos, or suggest edits,
   follow the directions below.
 ---
 

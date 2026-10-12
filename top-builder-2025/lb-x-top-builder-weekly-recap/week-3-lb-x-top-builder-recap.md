@@ -95,4 +95,4 @@ Next week's edition, we'll shift focus to Lightning Bounties' recent development
 * A comprehensive explainer on why GitHub login is necessary (we only request read-only access)
 * Exciting discussions at the MIT BTC Expo on mentoring hackers and organizing bounty postings for hackathon projects.
 
-Plus much much more! Tune in next week for TopBuilder Recap week 4!&#x20;
+Plus much, much more! Tune in next week for TopBuilder Recap week 4!&#x20;

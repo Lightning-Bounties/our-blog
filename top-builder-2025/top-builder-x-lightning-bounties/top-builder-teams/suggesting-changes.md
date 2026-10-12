@@ -86,7 +86,7 @@ Its mirror to GitHub, on the other hand, would have the following structure:
 <figure><img src="../../../.gitbook/assets/image (2).avif" alt=""><figcaption><p>Screenshot of the Pull request page. It shows a box for the title of the Pull request, another for any comments. Below them, there's a Create pull request button.</p></figcaption></figure>
 
 {% hint style="info" %}
-Congratulations, you submitted a pull request! 🎉 The Lightning Bounties team will review it and merge them to our documentation if approved.
+Congratulations, you submitted a pull request! 🎉 The Lightning Bounties team will review it and merge it into our documentation if approved.
 {% endhint %}
 
 

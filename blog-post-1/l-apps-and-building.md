@@ -10,7 +10,7 @@ Yeah, lightning has by far the lowest "yield" of any project out there. Estimate
 
 **LApp economics ain't pretty either**
 
-Building tech on lightning has an similar feeling and it's easy to turn envious seeing lots of other fluff startups in both crypto and non-crypto get easy investments, get connections made for them, and even if it fails they get acqui-hired .But 99% of venture capital is not going to consider backing a lightning company. So those easy short term wins - money, status, validation - aren't walking through the door tomorrow. But a hacker just might, and zero your funds. This is no country for old men.
+Building tech on lightning has a similar feeling and it's easy to turn envious seeing lots of other fluff startups in both crypto and non-crypto get easy investments, get connections made for them, and even if it fails they get acqui-hired. But 99% of venture capital is not going to consider backing a lightning company. So those easy short term wins - money, status, validation - aren't walking through the door tomorrow. But a hacker just might, and zero your funds. This is no country for old men.
 
 **Why do we do this?**
 

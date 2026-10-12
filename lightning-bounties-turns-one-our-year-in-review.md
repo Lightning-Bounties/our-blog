@@ -134,7 +134,7 @@ In a full-circle moment that perfectly captured our journey, we returned to the 
 As a result, the projects submitted in this years hackathon were arguably the best and most creative in the Expo’s rich history.
 
 {% embed url="https://blog.lightningbounties.com/lightning-bounties-mentoring-mit-bitcoin-hackathon-2025" %}
-Read the Full Recap of our Experience in Here :point\_up\_2:
+Read the Full Recap of our Experience Here :point\_up\_2:
 {% endembed %}
 
 ## What's Next For Lightning Bounties? Our Vision for Year Two
