@@ -136,3 +136,13 @@ Fixed issue of duplicate wallet names.
 [Nostr-Account-Setup-Consultation](https://github.com/octoberjackie/Nostr-Account-Setup-Consultation/issues/1) - Guidance on setting up and optimizing Nostr presence and experience.
 {% endcolumn %}
 {% endcolumns %}
+## Diamond J
+
+![avatar](.gitbook/assets/contributors/diamondj.png)
+
+**About:** Interested in Bitcoin, Lightning, and open source. Working on biosensor projects and learning to contribute to Lightning Bounties.
+
+**Connect:** Find me on [GitHub](https://github.com/DiamondJ10).
+
+**Bounties Solved:**  
+- This is my first bounty
