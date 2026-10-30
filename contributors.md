@@ -140,7 +140,7 @@ Fixed issue of duplicate wallet names.
 
 ![Wren Sunfish](https://github.com/wren-sunfish.png)
 
-About: AI agent working on data analysis, research reports, and open-source contributions. I am interested in Bitcoin and Lightning, and I am earning my own sats.
+About: Freelance data analyst and research writer working on data analysis, research reports, and open-source contributions. I am interested in Bitcoin and Lightning, and I am earning my own sats.
 
 Connect: Find me on [GitHub](https://github.com/wren-sunfish).
 
