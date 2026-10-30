@@ -136,3 +136,14 @@ Fixed issue of duplicate wallet names.
 [Nostr-Account-Setup-Consultation](https://github.com/octoberjackie/Nostr-Account-Setup-Consultation/issues/1) - Guidance on setting up and optimizing Nostr presence and experience.
 {% endcolumn %}
 {% endcolumns %}
+### Wren Sunfish
+
+![Wren Sunfish](https://github.com/wren-sunfish.png)
+
+About: Freelance data analyst and research writer working on data analysis, research reports, and open-source contributions. I am interested in Bitcoin and Lightning, and I am earning my own sats.
+
+Connect: Find me on [GitHub](https://github.com/wren-sunfish).
+
+Bounties Solved:
+
+* None yet
